@@ -1,0 +1,2 @@
+- Read-only, like constants
+- Ensures each GPU thread receives the same data

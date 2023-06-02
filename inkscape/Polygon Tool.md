@@ -1,0 +1,4 @@
+- Hotkey: \*
+- Can change amount of corners at top
+- Has two options [[Regular Polygon]] or [[Star Polygon]]
+- Use 3 Corners with either any polygon to create triangles

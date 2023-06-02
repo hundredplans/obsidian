@@ -1,0 +1,1 @@
+Produces a high temperature, makes it highly suitable to Gas Welding methods alongside oxygen

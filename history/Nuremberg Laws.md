@@ -1,0 +1,5 @@
+- Anti-Jewish legislation
+- Stripped Jews of German citizenship
+- Forced them to wear the [[Star of David]]
+- Forbid intermarriage between Jews and Non-Jews
+- Forbid Germans from using Jewish businesses

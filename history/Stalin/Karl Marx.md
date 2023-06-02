@@ -1,0 +1,1 @@
+Wrote a book that introduced the notion of [[Socialism]], thought the world was one step away from a [[Socialist Workers Revolution]]

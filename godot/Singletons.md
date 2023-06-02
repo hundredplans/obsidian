@@ -1,0 +1,4 @@
+- [[Singleton Problems]]
+- [[Singleton Uses]]
+- [[Singleton Tricks]]
+- [[Singleton Alternatives]]

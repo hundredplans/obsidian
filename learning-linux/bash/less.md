@@ -1,0 +1,1 @@
+- Takes input and makes it easily readable, similar to [[more]]

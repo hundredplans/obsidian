@@ -1,0 +1,1 @@
+The belief that jews are inferior to other races.

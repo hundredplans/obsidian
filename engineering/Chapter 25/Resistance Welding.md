@@ -1,0 +1,1 @@
+Electric current is passed through the material and the resistance of the material creates heat

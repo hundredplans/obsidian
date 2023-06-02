@@ -1,0 +1,2 @@
+- Ctrl-I & Ctrl-B can be used on cells to convert the entire cell
+- Top left % symbol turns selected objects from fractions into percentages

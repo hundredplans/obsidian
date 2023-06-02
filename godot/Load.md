@@ -1,0 +1,3 @@
+- You can use load("scene_name") as Script
+- Loads when the program reaches the statement
+- An alias for ResourceLoader.load(path)

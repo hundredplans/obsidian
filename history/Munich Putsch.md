@@ -1,0 +1,1 @@
+In 1923 Nazis lead an attempted takeover of the government, it fails and [[Hitler]] is imprisoned and writes [[Mein Kampf]]

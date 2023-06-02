@@ -1,0 +1,2 @@
+- Used to filter text in a pipeline
+- Is a [[Stream Editor]]

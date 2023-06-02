@@ -1,0 +1,1 @@
+Consumable [[Electrode]] that also generates heat that melts the [[Electrode]] and base metal

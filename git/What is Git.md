@@ -1,0 +1,2 @@
+- Open  Source and free version-control managment
+- Github and Git are different

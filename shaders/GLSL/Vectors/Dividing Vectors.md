@@ -1,0 +1,1 @@
+- Dividing a Vector divides each value by it's corresponding value in the Vector

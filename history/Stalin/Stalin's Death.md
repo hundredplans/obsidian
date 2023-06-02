@@ -1,0 +1,1 @@
+Dies on March 5th, 1953. Dies of a stroke. Replaced by [[Khrushchev]]

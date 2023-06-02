@@ -1,0 +1,2 @@
+- If you want to re-use the same function across scripts you can create a Node that provides the function using the class_name keyword (instancing script)
+- If you want to re-use data you can create a resource or store the data in an Object each node has an access to e.g. Owner (root node of Scene)

@@ -1,0 +1,1 @@
+Small holes through which liquids/gases can pass through

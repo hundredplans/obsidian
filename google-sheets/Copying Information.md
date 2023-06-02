@@ -1,0 +1,1 @@
+- Ctrl-X copies until pasted then delets

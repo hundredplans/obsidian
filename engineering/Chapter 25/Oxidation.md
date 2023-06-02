@@ -1,0 +1,2 @@
+- If welding is carried out over air (gas, electric arc) oxidation occurs
+- Oxides create [[porosity]] and weakness

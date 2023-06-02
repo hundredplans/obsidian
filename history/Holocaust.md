@@ -1,0 +1,12 @@
+- Hitler invades Austria, Czech & Poland he has millions more Jews now
+- Jews = Germs and germs must be destroyed
+- [[Final Solution]]
+- Extermination camps like [[Auschwitz]] and Dachau were built
+- Most extermination camps were in Poland
+- At first Jews were shot into mass graves but this was not cost effective as it was 1 Jew per bullet
+- [[Gas Chambers]] used next and bodies were cremated
+- When Jews arrived at the [[Extermination Camp]] they were seperated into those who could work and those who couldn't
+- They would be shaved and their hair would be turned into insulation
+- They were stripped naked under the belief they would be cleaned but instead they were gassed
+- 6 million Jews died in the Holocaust
+- 9 million total died including homosexuals, gypsies, cripples and Jews

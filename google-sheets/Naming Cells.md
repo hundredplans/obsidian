@@ -1,0 +1,2 @@
+- Select cell, top left you can rename it to help with [[Formulas]] referencing
+- Data / Named Ranges to view all named cells

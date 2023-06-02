@@ -1,0 +1,2 @@
+- If a file is tracked Git will know what changes happen to that file when it changes
+- git add -A or git add -all to track all files (not ignored) or git add .

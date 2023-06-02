@@ -1,0 +1,1 @@
+- Values normalized between 0.0 and 1.0

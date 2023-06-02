@@ -1,0 +1,2 @@
+- Top Right/Share to change permissions of whoever has permissions to sheet
+- You can also set the general access of the sheet in that menu

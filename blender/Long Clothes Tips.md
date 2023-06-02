@@ -1,0 +1,2 @@
+- Keep legs and hips skinny, as they wont be seen and won't poke through
+- If legs/hips poke through make it even skinnier

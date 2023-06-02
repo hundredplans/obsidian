@@ -1,0 +1,3 @@
+- Quits files, if you have multiple buffers open it quits the most recent one
+- When you have no buffers it quits Vim
+- You can force quit and not save changes with :q!

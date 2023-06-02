@@ -1,0 +1,3 @@
+- **Global State**: One object is responsible for all data, if it breaks the nodes calling it can break
+- **Global Access**: Since any object can call it, there's no longer an easy way to find bugs in your code
+- **Global Resource Allocation**: Since you're storing all data at the start you can have too many and use more memory than you need

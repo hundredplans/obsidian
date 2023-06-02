@@ -1,0 +1,2 @@
+- 66 million total population and 600,000 Jews
+- Mass exodus post 1935 [[Nuremberg Laws]] including [[Albert Einstein]]

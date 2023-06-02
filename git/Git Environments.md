@@ -1,0 +1,3 @@
+- Working Files where you can make edits
+- Staging, holding pen until file can be commited
+- Commit, added as entry to "history books"

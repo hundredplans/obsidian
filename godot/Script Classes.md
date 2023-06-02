@@ -1,0 +1,2 @@
+- Defined via class_name name
+- Can add icon with @icon("path")

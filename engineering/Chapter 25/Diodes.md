@@ -1,0 +1,1 @@
+Can only conduct electricity in one direction

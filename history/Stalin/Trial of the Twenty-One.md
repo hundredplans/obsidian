@@ -1,0 +1,1 @@
+The last of [[Stalin's Show Trials]], happened in 1938. Yagoda, former head of the NKVD and the one who devised the Show Trials is trialed, alongside Bukharin, a [[Bolshevik]] revolutionist and former head of the Communist International. Accused of murdering Kirov, being [[Trotskyites]] and rightist Communists.

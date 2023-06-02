@@ -1,0 +1,3 @@
+- You can insert a chart in top-right bar graph icon
+- Cool 3D graph (only for bar graphs) in chart menu/customise/chart style/3D
+- Customise/Series/Trend to see where the graph is going

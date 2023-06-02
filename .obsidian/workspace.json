@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "d90a6e267416121b",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c1e5babf3c3354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0b0c0edcb95d55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "godot/Notifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd68bb937589f4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "godot/How to Start Behaviour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "440b0e242736ffad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "impo_links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88eb19c956f26cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a859f9381fe37879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "781dff24143fdd66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6567d376c1e227e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fe0145d7373e84d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14f614d75ad81bc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "359266409e8eab46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83fad962b7863533",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "impo_links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db306d6d44e50adf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "impo_links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a697f58c0917f6b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38f235ba4580d7d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "impo_links.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "440b0e242736ffad",
+  "lastOpenFiles": [
+    "fof/screens/end-game.md",
+    "godot/Notifications.md",
+    "godot/godot index.md",
+    "git/What is commiting.md",
+    "godot/How to Start Behaviour.md",
+    "impo_links.md",
+    "fof/screens/Shop.md",
+    "fof/screens/Customization.md",
+    "fof/screens/Fuyanopedia.md",
+    "git/What is Git.md",
+    "fof/in_game/Card Skins.md",
+    "fof/currency_relation/SHL.md",
+    "fof/currency_relation/FC.md",
+    "fof/currency_relation",
+    "fof/in_game",
+    "godot/CameraAttributes.md",
+    "godot/SDFGI.md",
+    "godot/Post-Processing Effects.md",
+    "godot/Image Adjustments.md",
+    "godot/Glow.md",
+    "godot/SSIL.md",
+    "godot/SSAO.md",
+    "learning-linux/resources/General Resources.md",
+    "godot/SSR.md",
+    "godot/Environments.md",
+    "godot/Viewports.md",
+    "godot/Callable.md",
+    "godot/Brightness, Contrast and Saturation.md",
+    "godot/img.png",
+    "fof/coding_related",
+    "fof/steamworks",
+    "fof/static_data",
+    "fof/screens",
+    "git",
+    "steamworks/Untitled",
+    "Computer Science/protocol",
+    "Computer Science",
+    "vim/fzf Search Syntax.png"
+  ]
+}

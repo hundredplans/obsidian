@@ -1,0 +1,1 @@
+- At the Wannase convention it was decided the Jewish question must be answered, they proposed to remove them and this was dubbed the Final Solution.

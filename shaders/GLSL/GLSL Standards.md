@@ -1,0 +1,6 @@
+- Main() function that returns a color for the pixel at the end
+- No int's always floats so 1 = 1.0 and 0 = 0.0, dependant on GPU
+- You can define high vector values by commas e.g. Vec4(vec2,vec2), Vec3(vec2, n)
+- [[Uniform Variables]]
+- [[Varying Variables]]
+- [[fragCoord]]

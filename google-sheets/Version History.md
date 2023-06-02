@@ -1,0 +1,2 @@
+- Click the time icon in Top Left to view version history
+- Shows what changes were applied

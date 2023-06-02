@@ -1,0 +1,1 @@
+- The pixel coordinate the current thread is working on

@@ -1,0 +1,1 @@
+A one-time friend of Stalin, murdered in 1934. 

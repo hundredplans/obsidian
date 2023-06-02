@@ -1,0 +1,6 @@
+[[SOLID]]
+[[KISS]]
+[[YAGNI]]
+[[DRY]]
+[[SoC]]
+[[BDOF]]

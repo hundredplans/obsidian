@@ -1,0 +1,7 @@
+[[Selection Tool]]
+[[Rectangle Tool]]
+[[Ellipse Tool]]
+[[Polygon Tool]]
+[[Spiral Tool]]
+[[Eraser Tool]]
+[[Gradient Tool]]

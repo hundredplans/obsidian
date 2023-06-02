@@ -1,0 +1,1 @@
+Remove any unwanted plugins from [[init.vim]] then do *:PlugClean*, any files that are installed but not listed will be removed

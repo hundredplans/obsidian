@@ -1,0 +1,1 @@
+- Hitler asks for the [[Sudetenland]] and says he will not make any more claims for land

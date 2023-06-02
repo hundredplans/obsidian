@@ -1,0 +1,3 @@
+- Brightness: Black (no light) to White (full light)
+- Saturation: Gray to Vivid Color
+- Contrast: Intensity of colors (black is darker, white is lighter)

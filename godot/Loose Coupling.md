@@ -1,0 +1,3 @@
+- A system where changes in one component least affect the existence or perfomance of another
+- Each component uses/has little to no knowledge of another component's existence/properties/methods
+- XML or JSON files can decrease coupling

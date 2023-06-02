@@ -1,0 +1,8 @@
+- =VLOOKUP(search_key, range, index, \[is_sorted])
+- When you need to find information in a large spreadsheet or similar types of information use this
+- Helps look for data if you know one piece of the data
+- search_key is the cell where you type the information you have
+- range is where you want to search inside (rectangle)
+- index is the values you want to find (which column from the data you know)
+- output is in the search_key cell
+- \[is_sorted] is TRUE or FALSE and changes if you want an exact or partial match (ints and floats?), TRUE is the default, FALSE is recommended

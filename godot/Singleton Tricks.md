@@ -1,0 +1,2 @@
+- You can change in what order singletons are read in the Autoload menu using arrows
+- You can get an Autoload using get_node("/root/Node")

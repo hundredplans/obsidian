@@ -1,0 +1,2 @@
+- [[Stalin]] and [[Hitler]] will not fight for 10 years
+- Poland will be split between them

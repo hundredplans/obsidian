@@ -1,0 +1,1 @@
+They develop a [[Cult of Personality]] around [[Stalin]]. Nicknames such as *Uncle Joe*. Places are named after him such as **Stalingrad and Stalinogorsk**. Statues are erected of him in honor of him. Schools teach about [[Stalin]]'s greatness and there is a great emphasis on physical education in schools as he knows they are the future of [[Communism]].

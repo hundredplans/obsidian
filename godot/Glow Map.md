@@ -1,0 +1,2 @@
+- Used to control [[Glow]] of an object
+- Texture is stretched to match viewport, best used with the same aspect ratio (16:9)

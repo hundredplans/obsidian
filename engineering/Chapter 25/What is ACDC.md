@@ -1,0 +1,3 @@
+- Main electricty supply to houses, factories, schools is AC, the current and voltage reverse direction many times a second
+- DC current flows in one direction only and the voltage remains constant
+- You can use a [[Rectifier Circuit]] can convert high-voltage AC to low-voltage high-current DC

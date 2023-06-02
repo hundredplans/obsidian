@@ -1,0 +1,1 @@
+Living space for the German people, a desire to expand the German Empire

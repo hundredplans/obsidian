@@ -1,0 +1,4 @@
+- Annual party days to celebrate the [[Nazi Party]]s success
+- Each year had a different theme
+- Week long
+- Highlights were [[Hitler]]'s speeches

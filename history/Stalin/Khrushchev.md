@@ -1,0 +1,1 @@
+Replaces Stalin in 1953 when he dies, governs for 11 years. Replaced by Brezhnev in 1964.

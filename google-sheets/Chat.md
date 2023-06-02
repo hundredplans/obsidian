@@ -1,0 +1,5 @@
+- Top Right can open chat, could use to document balance changes
+- Ctrl Alt-M allows to comment, use to track balance changes?
+- You can also @ people in comments
+- Top Right also shows all comment history
+- Can click tick on comment to hide the discussion and reopen it using ...

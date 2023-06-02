@@ -1,0 +1,2 @@
+- Finds patterns in [[STDIN]] and returns all matching lines in [[STDOUT]]
+- Typically used with [[Pipe]]

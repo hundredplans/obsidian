@@ -1,0 +1,1 @@
+Degree to which a material can sustain plastic deformation under [[Tensile]] stress

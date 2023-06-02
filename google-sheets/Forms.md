@@ -1,0 +1,3 @@
+- Tools / Create a new form
+- Automatically creates a Google Forms that you can use to analyze your sheet data
+- This creates a Sheets with the responses to the Forms questions

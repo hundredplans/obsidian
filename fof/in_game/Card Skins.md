@@ -1,0 +1,2 @@
+- In Game when you click on a card it shows that it's a skin, This card is a Bee Queen skin etc
+- Card skins available for Epics/Legendaries and maybe the commons/rares in the starter pack?

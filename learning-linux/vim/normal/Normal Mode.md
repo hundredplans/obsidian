@@ -1,0 +1,4 @@
+- Used to navigate and make edits
+- [[Movement Commands]]
+- [[Editing Commands]]
+- [[VIM Macros]]

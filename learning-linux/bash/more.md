@@ -1,0 +1,1 @@
+- Takes content and makes it easily readable, similar to [[less]]

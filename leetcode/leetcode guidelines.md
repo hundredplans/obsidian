@@ -1,0 +1,1 @@
+- Remember to review previous problems and do the questions in Python, DONT GIVE UP!

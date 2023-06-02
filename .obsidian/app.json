@@ -1,0 +1,11 @@
+{
+  "vimMode": true,
+  "trashOption": "local",
+  "promptDelete": false,
+  "focusNewTab": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
+}

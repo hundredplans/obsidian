@@ -1,0 +1,2 @@
+- Changing values from a wide range to (0,1) or (-1,1)
+- Can easily assign normalized values to R,G,B colors

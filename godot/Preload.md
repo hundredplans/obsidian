@@ -1,0 +1,2 @@
+- You can use preload("scene_name") as PackedScene
+- Loads during scene load, can only accept constants as variables

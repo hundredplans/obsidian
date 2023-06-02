@@ -1,0 +1,5 @@
+[[NERDTree]]
+[[CtrlP]]
+[[Vim-Plug]]
+[[fzf]]
+[[undotree]]

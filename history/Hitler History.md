@@ -1,0 +1,4 @@
+- Born in Austria
+- Was a failed art student
+- Played a small role in WW1 when he fought with Germany
+-

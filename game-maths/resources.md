@@ -1,0 +1,4 @@
+**All these links point to Linux directories**
+- [Main Book](file:///home/witold/Documents/media/books/Eric%20Lengyel%20-%20Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition%20(2011,%20Cengage)%20-%20libgen.li.pdf)
+- [Side Bitch 1](file:///home/witold/Documents/media/books/Medhat%20H.%20Rahim%20-%203-D%20Computer%20graphics.%20Mathematical%20introduction%20with%20OpenGL%20(2009,%20School%20Science%20and%20Mathematics%20Association,%20Inc.)%20-%20libgen.li.pdf)
+- [Side Bitch 2](file:///home/witold/Documents/media/books/%5BThe%20Morgan%20Kaufmann%20Series%20in%20Interactive%203d%20Technology%5D%20James%20M.%20Van%20Verth,%20Lars%20M.%20Bishop%20-%20Essential%20Mathematics%20for%20Games%20and%20Interactive%20Applications_%20A%20Programmer's%20Guide%20(2004,%20Morgan%20Kaufmann)%20-%20libgen.li.pdf)

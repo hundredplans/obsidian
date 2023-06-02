@@ -1,0 +1,1 @@
+When [[Lenin]] falls ill in 1924 and before he dies in 1928, a power struggle ensues between [[Trotsky]], [[Zinoviev]], [[Kamevev]] and [[Stalin]]. He allies with [[Zinoviev]] and [[Kamevev]] and exiles [[Trotsky]].

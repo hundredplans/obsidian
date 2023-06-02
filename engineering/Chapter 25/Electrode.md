@@ -1,0 +1,1 @@
+An electrical conductor through which electricty can leave or enter an object

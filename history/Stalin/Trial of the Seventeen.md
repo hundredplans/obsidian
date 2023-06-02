@@ -1,0 +1,1 @@
+The second show trial that happened in 1937. Supporters of [[Trotsky]] were present such as Radek.

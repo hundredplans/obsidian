@@ -1,0 +1,1 @@
+- ^j and ^k or <- and -> to navigate results

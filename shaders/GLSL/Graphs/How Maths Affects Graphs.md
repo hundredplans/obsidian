@@ -1,0 +1,1 @@
+- Raising things to a power curves/flattens the graph

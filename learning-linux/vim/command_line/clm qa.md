@@ -1,0 +1,1 @@
+[[clm q]] on all files

@@ -1,0 +1,2 @@
+[https://partner.steamgames.com/doc/features](https://partner.steamgames.com/doc/features "https://partner.steamgames.com/doc/features")
+https://steamdb.info/faq/#branches:~:text=Technical%20Definitions-,Branches,-An%20application%20can

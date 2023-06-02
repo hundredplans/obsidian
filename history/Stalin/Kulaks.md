@@ -1,0 +1,1 @@
+Wealthy middle-class farmers that owned land

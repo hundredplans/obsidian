@@ -1,0 +1,1 @@
+- If two pieces of code are coupled you can't understand one without the other

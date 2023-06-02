@@ -1,0 +1,5 @@
+:!(command) - Executes external command
+- Can execute any external commands, even with arguments
+- :!ls - Works exactly like terminal ls
+- :!rm file_name - Also works obviously
+- :r !ls - Inserts the output of ls below the cursor line

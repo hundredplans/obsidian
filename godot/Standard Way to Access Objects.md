@@ -1,0 +1,3 @@
+- node.get_object (method access) 
+- node.object (property access), this one is almost always best
+- node\["object"] (property access)

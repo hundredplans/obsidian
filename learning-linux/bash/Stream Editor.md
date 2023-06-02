@@ -1,0 +1,1 @@
+Have similar function to text editors but only make one pass-through the input

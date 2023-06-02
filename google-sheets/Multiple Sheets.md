@@ -1,0 +1,2 @@
+- + Icon Bottom Left
+- Distinguish color of each sheet on bottom left little down arrow on sheet into Color menu
