@@ -1,0 +1,1 @@
+- By default will match pattern only once per line

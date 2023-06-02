@@ -3,3 +3,4 @@
 [[Vim-Plug]]
 [[fzf]]
 [[undotree]]
+[[telescope]]

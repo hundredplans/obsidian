@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Shimmering Focus",
-  "baseFontSize": 12
+  "baseFontSize": 12,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "status_bar"
+  ]
 }

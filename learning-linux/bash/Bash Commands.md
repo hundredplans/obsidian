@@ -1,3 +1,5 @@
-[[Displaying File Output in a Friendly Manner]]
-[[Sorting Through File Output]]
+[[Displaying File Output]]
+[[Sorting & Editing File Output]]
 [[Editing or Viewing Files]]
+[[Writing File Output]]
+[[Info on File Output]]

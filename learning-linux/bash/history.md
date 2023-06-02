@@ -1,0 +1,1 @@
+- Shows the last 1000 commands by default

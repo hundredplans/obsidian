@@ -1,0 +1,1 @@
+- Sections or portions of each line seperated by a delimiter, not necessarily the space bar could be null char or . etc

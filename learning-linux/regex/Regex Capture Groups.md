@@ -1,0 +1,2 @@
+- Anything insisde \() is considered a capture group
+- You can refer to a capture group using \\n where n is the amount of () that occured up to that point

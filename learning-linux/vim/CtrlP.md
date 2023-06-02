@@ -1,4 +1,4 @@
-[[]]# Explanation
+# Explanation
 - Allows fuzzy finding, opening multiple files at once and creating new files
 - Is extensible by your own code or plugins
 

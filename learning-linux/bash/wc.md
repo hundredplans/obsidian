@@ -1,0 +1,5 @@
+- Word Count
+- wc -l displays how many lines a file has
+- wc -m displays how many characters a file has
+- wc -w displays how many words a file has
+- wc -> standalone display (lines, words, chars)

@@ -4,3 +4,4 @@
 [[Copy and Pasting in Normal Mode]]
 [[Repeating Commands in Normal Mode]]
 [[Modifiers in Normal Mode]]
+[[Changing Case in Normal Mode]]

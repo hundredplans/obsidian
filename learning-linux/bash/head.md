@@ -1,0 +1,2 @@
+- Used to filter to only n amount of lines in given input
+- cat file.txt | head -n5 -> Will output only first 5 lines

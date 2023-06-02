@@ -2,7 +2,7 @@
 $ - End of line
 ^ - First non empty character on this line
 
-f(k) - First instance of key after cursor
+f(k) - First instance of key after cursor (case-sensitive)
 F(k) - First instance of key behind cursor
 t(k) - Same as f(k) but one character before key
 T(k) - Same as F(k) but one character before key

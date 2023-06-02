@@ -1,0 +1,1 @@
+- Use ~ to flip the case of current selection and move to next character

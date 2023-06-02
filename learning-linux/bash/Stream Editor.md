@@ -1,1 +1,1 @@
-Have similar function to text editors but only make one pass-through the input
+Have similar function to text editors but only make one pass-through each line of the input and keep what is not filtered out

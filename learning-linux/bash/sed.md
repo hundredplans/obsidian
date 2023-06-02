@@ -1,2 +1,4 @@
 - Used to filter text in a pipeline
 - Is a [[Stream Editor]]
+- [[sed syntax]]
+- Only matches once per line

@@ -1,0 +1,2 @@
+- Used to filter to only n amount of lines in given input
+- cat file.txt | tail -n10 -> Will output only last 10 lines

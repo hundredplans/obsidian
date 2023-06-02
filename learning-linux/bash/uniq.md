@@ -1,0 +1,2 @@
+- Only prints unique lines
+- uniq -c -> Show how many duplicates of line existed next to line

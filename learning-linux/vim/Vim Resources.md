@@ -26,6 +26,8 @@ Comes installed with vim
   http://www.moolenaar.net/habits.html
 - *vim-galore*:
   https://github.com/mhinz/vim-galore
+- **neovim rc from scratch**
+  https://www.youtube.com/watch?v=w7i4amO_zaE
 
 If you prefer a book, *Practical Vim* by Drew Neil is recommended often
 (the sequel, *Modern Vim*, includes material specific to nvim).

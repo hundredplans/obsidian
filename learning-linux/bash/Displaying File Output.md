@@ -1,0 +1,4 @@
+[[less]]
+[[more]]
+[[find]]
+[[history]]
