@@ -20,7 +20,55 @@
             }
           },
           {
-            "id": "a902d2d5f351a3e6",
+            "id": "15176f538f0d8138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/sed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37693e1894c16dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88c72a1c48c876b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/paste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faa381592ae8db40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/awk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4d428c104a15269",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +80,19 @@
             }
           },
           {
-            "id": "22be22cf12db645f",
+            "id": "08a8f994b58f4756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/regex/Regex Knowledge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83a84d59cd2cc9a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,43 +104,19 @@
             }
           },
           {
-            "id": "1d39188d37c2a401",
+            "id": "4a976888515a14ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/vim/Vim-Plug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d870ff81dd3d938f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/init.vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15176f538f0d8138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/Vim Resources.md",
+                "file": "learning-linux/vim/normal/Editing Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -147,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/vim/Vim Resources.md",
+                "file": "learning-linux/regex/Regex Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/vim/Vim Resources.md",
+                "file": "learning-linux/regex/Regex Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/vim/Vim Resources.md"
+                "file": "learning-linux/regex/Regex Patterns.md"
               }
             }
           }
@@ -209,34 +245,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "15176f538f0d8138",
+  "active": "83a84d59cd2cc9a4",
   "lastOpenFiles": [
+    "learning-linux/regex/Regex Knowledge.md",
+    "learning-linux/regex/Regex Index.md",
+    "learning-linux/regex/Regex Sorting.md",
+    "learning-linux/regex/Regex Capture Groups.md",
+    "learning-linux/regex/Regex Patterns.md",
+    "learning-linux/vim/normal/Normal Mode.md",
+    "learning-linux/vim/normal/Editing Commands.md",
+    "learning-linux/vim/normal/Entering Insert Mode.md",
+    "learning-linux/vim/insert/Insert Mode.md",
+    "learning-linux/vim/insert/Insert Mode Commands.md",
+    "learning-linux/bash/awk.md",
+    "learning-linux/bash/paste.md",
+    "learning-linux/bash/sort.md",
+    "learning-linux/bash/sed.md",
+    "learning-linux/vim/Vim-Plug.md",
+    "learning-linux/vim/init.vim.md",
+    "learning-linux/bash/sed syntax.md",
+    "learning-linux/vim/Vim Resources.md",
     "learning-linux/vim/Plugins.md",
     "learning-linux/vim/Help Commands with CtrlP in Vim.md",
     "learning-linux/vim/telescope.md",
     "learning-linux/vim/CtrlP.md",
-    "learning-linux/vim/init.vim.md",
-    "learning-linux/vim/Vim-Plug.md",
-    "learning-linux/regex/Regex Patterns.md",
-    "learning-linux/regex/Regex Index.md",
     "learning-linux/vim/How to Install Plugins.md",
     "learning-linux/vim/NERDTree.md",
-    "learning-linux/bash/sed syntax.md",
-    "learning-linux/bash/sed.md",
     "learning-linux/bash/Writing File Output.md",
     "learning-linux/bash/Bash Commands.md",
-    "learning-linux/bash/grep.md",
-    "learning-linux/resources/General Resources.md",
-    "learning-linux/bash/Info on File Output.md",
-    "learning-linux/bash/bash index.md",
-    "learning-linux/bash/Sorting & Editing File Output.md",
-    "learning-linux/Editing/Editing or Viewing Files.md",
-    "learning-linux/bash/tee.md",
-    "learning-linux/bash/xargs.md",
-    "learning-linux/bash/awk.md",
-    "learning-linux/bash/find.md",
-    "learning-linux/bash/Displaying File Output.md",
-    "learning-linux/bash/history.md",
     "fof/currency_relation",
     "fof/in_game",
     "godot/img.png",

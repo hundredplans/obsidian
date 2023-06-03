@@ -1,0 +1,2 @@
+- Everything is a character
+- \\ can denote a metacharacter

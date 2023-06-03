@@ -1,3 +1,4 @@
 - Sorts output 
 - sort -n -> Sort numerically
 - sort -k\<KEYDEF> -> Sorts file output by [[field]], e.g. sort -nk1,1 will sort by the first field numerically
+- sort -r -> Reverse order
