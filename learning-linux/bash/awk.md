@@ -4,3 +4,6 @@
 - $0 refers to the whole line/
 # Example Commands
 - awk '{print $2}' -> Print the second column, {} starts and ends an awk script
+
+# Resources
+https://backreference.org/2010/02/10/idiomatic-awk/

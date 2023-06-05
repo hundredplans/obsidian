@@ -13,8 +13,10 @@
 - \[^abc] - Match any character that isn't a,b or c
 - \[^n-p] - Match any character that isn't in n to p
 - \\w - Equivalent to \[A-Za-z0-9_]
-
-
+- \\s - Match any whitespace character
+- Use the capital of \\w, \\s, \\d (\\W, \\S, \\D) to denote the opposite (non-alphanumeric character (such as punctuation), non-whitespace and non-digit character)
+- \\b'one' - Will match every word of one preceded by a non-word character (non-letters, numbers or underscores)
+- \\B'one' - Will match anything not bounded by a word (inside a word), e.g. **one**self but not **one**
 
 # Repetitions
 - a{3} - Matches character a 3 times exactly
@@ -33,3 +35,5 @@
 - .+"Input" - 1 or more of any amount of characters followed by input string
 - ^PATTERN$ - Has to match from the beginning to the end of the line exactly, this is called anchoring the regex
 - \*? - Non-greedy match, only matches first instance of input string
+- \\b'one'\\b - Will match specifically one and not also words such as oneself
+- \\w+\\b - Capture any entire word that is made of alpha-numeric characters
