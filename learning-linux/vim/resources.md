@@ -1,4 +1,4 @@
-See also [[General Resources]]
+See also [[shaders/info/resources]]
 ## Vim Tutor
 #vimtutor
 Comes installed with vim
@@ -11,7 +11,7 @@ Comes installed with vim
 -   [Vi/Vim Stack Exchange](https://vi.stackexchange.com/)
 -   [Vim Screencasts](http://vimcasts.org/)
 -   [Practical Vim](https://pragprog.com/titles/dnvim2/) (book)
-:
+
 - *Learn Vim Progressively*:
   http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 - *Learning Vim in 2013*:

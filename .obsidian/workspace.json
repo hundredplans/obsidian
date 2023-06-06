@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "46c1e5babf3c3354",
+        "id": "4a4f1d4f6da6c912",
         "type": "tabs",
         "children": [
           {
-            "id": "e2fa3090fb48c593",
+            "id": "dc9cf1b01c6a477c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/sed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4d428c104a15269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/regex/Regex Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3010db65b6778555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/regex/Regex Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08a8f994b58f4756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/regex/Regex Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "948398023e3b4c7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vainglory/windlord/Windlord.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8f8b95aa8b35919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vainglory/trickster/Trickster.md",
+                "file": "learning-linux/info/resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "14f614d75ad81bc9",
@@ -147,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vainglory/windlord/Windlord.md",
+                "file": "learning-linux/info/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vainglory/windlord/Windlord.md",
+                "file": "learning-linux/info/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vainglory/windlord/Windlord.md"
+                "file": "learning-linux/info/resources.md"
               }
             }
           }
@@ -209,45 +147,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "948398023e3b4c7e",
+  "active": "dc9cf1b01c6a477c",
   "lastOpenFiles": [
-    "vainglory/trickster/Trickster.md",
-    "vainglory/info/Default Attacks.md",
-    "vainglory/trickster/Blood Gem.md",
-    "vainglory/trickster/Blood.md",
-    "vainglory/info/Boss Kills.md",
-    "vainglory/info/Monster Kills.md",
-    "vainglory/info/Player Kills.md",
-    "vainglory/windlord/Windlord.md",
-    "vainglory/info/True Damage.md",
-    "vainglory/info/Resistance.md",
-    "vainglory/info/Armor.md",
-    "vainglory/info/Physical Damage.md",
-    "vainglory/info/Magical Damage.md",
-    "vainglory/info",
-    "learning-linux/regex/Regex Knowledge.md",
-    "vainglory/vainglory index.md",
-    "vainglory/Subclasses.md",
-    "vainglory/windlord/Windtunnel.md",
-    "vainglory/trickster",
-    "vainglory/windlord/The Wind Remembers.md",
-    "vainglory/windlord/Windslice.md",
-    "vainglory/windlord/Wind Prison.md",
-    "vainglory/windlord",
-    "vainglory/Specialists.md",
-    "vainglory/Fighters.md",
-    "vainglory/Ranged.md",
-    "vainglory/Support.md",
-    "vainglory",
+    "learning-linux/vim/resources.md",
+    "learning-linux/regex/resources.md",
+    "learning-linux/regex/Regex Index.md",
+    "learning-linux/regex/Regex Debuggers.md",
+    "learning-linux/regex/info",
+    "learning-linux/regex/Regex Sorting.md",
+    "bpd/info/resources.md",
+    "game-pp/info/resources.md",
+    "bpd/info",
+    "game-pp/info",
+    "computer-science/info/resources.md",
+    "subjects",
+    "physics/Untitled",
+    "bpd/Unorganized Filth.md",
+    "bpd/I Hate You Don't Leave Me.md",
+    "bpd/BPD Diagnosis Criteria.md",
+    "fof/steamworks/resources.md",
+    "impo_links.md",
+    "game-maths/info/resources.md",
+    "game-maths/info",
+    "learning-linux/info/resources.md",
+    "learning-linux/info",
+    "computer-science/info",
+    "shaders/info/resources.md",
+    "learning-linux/bash/sed.md",
+    "shaders/info/The Book of Shaders.md",
+    "engineering/Chapter 25/Untitled.md",
+    "shaders/Resources/Images/Untitled.md",
+    "shaders/Resources/Images/Untitled 1.md",
+    "shaders/info/How do Shaders work.md",
+    "shaders/info",
+    "inkscape/resources.md",
     "learning-linux/regex/Regex Patterns.md",
-    "learning-linux/bash/awk.md",
-    "fof/currency_relation",
-    "fof/in_game",
+    "Computer Science/resources",
+    "vainglory/trickster/Trickster.md",
+    "vainglory/windlord/Windlord.md",
     "godot/img.png",
-    "fof/coding_related",
-    "fof/steamworks",
-    "fof/static_data",
-    "fof/screens",
     "vim/fzf Search Syntax.png"
   ]
 }
