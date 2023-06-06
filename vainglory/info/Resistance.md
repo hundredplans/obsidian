@@ -1,0 +1,1 @@
+0-99% ignorance of [[Magical Damage]]

@@ -1,0 +1,1 @@
+- 3/4 Healers and no main healer class (also probably tanks in here)

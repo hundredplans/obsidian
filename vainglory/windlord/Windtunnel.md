@@ -1,0 +1,1 @@
+Travel in the direction of your mouse for 1.5 seconds with accelerated speed and create a wind tunnel around you, you can't travel upwards but can go down

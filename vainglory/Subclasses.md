@@ -1,0 +1,4 @@
+[[Fighters]]
+[[Ranged]]
+[[Support]]
+[[Specialists]]

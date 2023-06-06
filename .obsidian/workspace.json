@@ -56,12 +56,24 @@
             }
           },
           {
-            "id": "83a84d59cd2cc9a4",
+            "id": "948398023e3b4c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/regex/Regex Patterns.md",
+                "file": "vainglory/windlord/Windlord.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8f8b95aa8b35919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vainglory/trickster/Trickster.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/regex/Regex Patterns.md",
+                "file": "vainglory/windlord/Windlord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/regex/Regex Patterns.md",
+                "file": "vainglory/windlord/Windlord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/regex/Regex Patterns.md"
+                "file": "vainglory/windlord/Windlord.md"
               }
             }
           }
@@ -197,34 +209,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "83a84d59cd2cc9a4",
+  "active": "948398023e3b4c7e",
   "lastOpenFiles": [
-    "learning-linux/bash/awk.md",
-    "learning-linux/regex/Regex Index.md",
-    "learning-linux/regex/Regex Patterns.md",
-    "learning-linux/regex/Regex Sorting.md",
-    "learning-linux/regex/Regex Capture Groups.md",
+    "vainglory/trickster/Trickster.md",
+    "vainglory/info/Default Attacks.md",
+    "vainglory/trickster/Blood Gem.md",
+    "vainglory/trickster/Blood.md",
+    "vainglory/info/Boss Kills.md",
+    "vainglory/info/Monster Kills.md",
+    "vainglory/info/Player Kills.md",
+    "vainglory/windlord/Windlord.md",
+    "vainglory/info/True Damage.md",
+    "vainglory/info/Resistance.md",
+    "vainglory/info/Armor.md",
+    "vainglory/info/Physical Damage.md",
+    "vainglory/info/Magical Damage.md",
+    "vainglory/info",
     "learning-linux/regex/Regex Knowledge.md",
-    "learning-linux/bash/sed.md",
-    "learning-linux/bash/paste.md",
-    "learning-linux/bash/sort.md",
-    "learning-linux/vim/normal/Editing Commands.md",
-    "learning-linux/vim/normal/Normal Mode.md",
-    "learning-linux/vim/normal/Entering Insert Mode.md",
-    "learning-linux/vim/insert/Insert Mode.md",
-    "learning-linux/vim/insert/Insert Mode Commands.md",
-    "learning-linux/vim/Vim-Plug.md",
-    "learning-linux/vim/init.vim.md",
-    "learning-linux/bash/sed syntax.md",
-    "learning-linux/vim/Vim Resources.md",
-    "learning-linux/vim/Plugins.md",
-    "learning-linux/vim/Help Commands with CtrlP in Vim.md",
-    "learning-linux/vim/telescope.md",
-    "learning-linux/vim/CtrlP.md",
-    "learning-linux/vim/How to Install Plugins.md",
-    "learning-linux/vim/NERDTree.md",
-    "learning-linux/bash/Writing File Output.md",
-    "learning-linux/bash/Bash Commands.md",
+    "vainglory/vainglory index.md",
+    "vainglory/Subclasses.md",
+    "vainglory/windlord/Windtunnel.md",
+    "vainglory/trickster",
+    "vainglory/windlord/The Wind Remembers.md",
+    "vainglory/windlord/Windslice.md",
+    "vainglory/windlord/Wind Prison.md",
+    "vainglory/windlord",
+    "vainglory/Specialists.md",
+    "vainglory/Fighters.md",
+    "vainglory/Ranged.md",
+    "vainglory/Support.md",
+    "vainglory",
+    "learning-linux/regex/Regex Patterns.md",
+    "learning-linux/bash/awk.md",
     "fof/currency_relation",
     "fof/in_game",
     "godot/img.png",
@@ -232,10 +248,6 @@
     "fof/steamworks",
     "fof/static_data",
     "fof/screens",
-    "git",
-    "steamworks/Untitled",
-    "Computer Science/protocol",
-    "Computer Science",
     "vim/fzf Search Syntax.png"
   ]
 }

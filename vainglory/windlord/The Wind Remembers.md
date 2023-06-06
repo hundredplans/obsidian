@@ -1,0 +1,1 @@
+Recast the last low leveled skill you cast (Windstrike, Windslice). Can be cast during animations to interrupt ending lag

@@ -1,0 +1,1 @@
+Slam the butt of your spear on the ground and summon a circular wind prison around you that traps any enemies within Windstrike - Strike upwards and fly up at up to a 15d angle, you can cancel during this animation or after it finish. Click again on the ground at a 65d angle from the horizontal plane at the ground to stike downward and land with a small animation delay

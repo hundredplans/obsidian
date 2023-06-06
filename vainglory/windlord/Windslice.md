@@ -1,0 +1,1 @@
+Create a blade of wind in front of you that is 3 units wide. Slices your spear across
