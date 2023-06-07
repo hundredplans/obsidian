@@ -1,3 +1,5 @@
 [
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-vimrc-support",
+  "obsidian-scroll-offset"
 ]

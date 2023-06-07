@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/resources.md",
+                "file": "learning-linux/regex/Regex Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4a42c91539fbcde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/regex/Regex Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a60a7c9ebb2c2301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "impo_links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "975b9b591760446f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/vim/normal/Line Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bf102adbc6d5503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/regex/resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "14f614d75ad81bc9",
@@ -85,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/resources.md",
+                "file": "learning-linux/regex/Regex Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/resources.md",
+                "file": "learning-linux/regex/Regex Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/resources.md"
+                "file": "learning-linux/regex/Regex Patterns.md"
               }
             }
           }
@@ -133,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +197,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ee237b8f0bfa37d0",
+  "active": "c4a42c91539fbcde",
   "lastOpenFiles": [
+    "impo_links.md",
+    "learning-linux/vim/normal/Line Navigation.md",
+    "learning-linux/regex/resources.md",
+    "learning-linux/regex/Regex Patterns.md",
+    "grep",
+    "learning-linux/regex/Regex Index.md",
+    "learning-linux/regex/Regex Knowledge.md",
+    "learning-linux/vim/normal/Screen Navigation.md",
+    "learning-linux/regex/Regex Capture Groups.md",
+    "learning-linux/regex/Regex Sorting.md",
+    "learning-linux/vim/resources.md",
+    "learning-linux/resources.md",
     "learning-linux/data_wrangling/Data Wrangling.md",
     "learning-linux/data_wrangling/Data Wrangling Index.md",
     "learning-linux/data_wrangling/Data Wrangling Messy Notes.md",
@@ -156,17 +219,12 @@
     "learning-linux/Editing/vim.md",
     "learning-linux/bash/Sorting & Editing File Output.md",
     "learning-linux/bash/Bash Commands.md",
-    "learning-linux/resources.md",
     "missing-semester",
     "learning-linux/missing-resources",
     "computer-science/info/resources.md",
     "fof/steamworks/resources.md",
-    "learning-linux/vim/resources.md",
-    "learning-linux/regex/resources.md",
-    "learning-linux/regex/Regex Index.md",
     "learning-linux/regex/Regex Debuggers.md",
     "learning-linux/regex/info",
-    "learning-linux/regex/Regex Sorting.md",
     "bpd/info/resources.md",
     "game-pp/info/resources.md",
     "bpd/info",
@@ -175,15 +233,8 @@
     "physics/Untitled",
     "bpd/Unorganized Filth.md",
     "bpd/I Hate You Don't Leave Me.md",
-    "bpd/BPD Diagnosis Criteria.md",
-    "impo_links.md",
-    "game-maths/info/resources.md",
     "game-maths/info",
     "learning-linux/info",
-    "computer-science/info",
-    "shaders/info/resources.md",
-    "learning-linux/bash/sed.md",
-    "shaders/info/The Book of Shaders.md",
     "godot/img.png",
     "vim/fzf Search Syntax.png"
   ]
