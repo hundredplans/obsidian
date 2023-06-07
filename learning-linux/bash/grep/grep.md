@@ -12,3 +12,6 @@
 - egrep (same as grep -E)
 - fgrep (same as grep -F)
 - rgrep (same as grep -r)
+
+# Resources
+- [computer-hope](https://www.computerhope.com/unix/ugrep.htm)

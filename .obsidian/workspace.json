@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/grep/grep-options.md",
+                "file": "impo_links.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/regex/extended-regex.md",
+                "file": "learning-linux/bash/grep/grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bae1f78613ef1da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/Creating Branches.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/regex/extended-regex.md",
+                "file": "learning-linux/bash/grep/grep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/regex/extended-regex.md",
+                "file": "learning-linux/bash/grep/grep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/regex/extended-regex.md"
+                "file": "learning-linux/bash/grep/grep.md"
               }
             }
           }
@@ -186,10 +198,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "608e8b3ef37a938a",
+  "active": "ffd9c8352c208b31",
   "lastOpenFiles": [
-    "learning-linux/bash/grep/grep-options.md",
+    "impo_links.md",
     "learning-linux/bash/grep/grep.md",
+    "git/Creating Branches.md",
+    "learning-linux/regex/resources.md",
+    "git/git index.md",
+    "learning-linux/bash/sed.md",
+    "learning-linux/bash/awk.md",
+    "learning-linux/resources.md",
+    "learning-linux/bash/grep/grep-options.md",
+    "git/What is Git.md",
+    "git/Tracking Files.md",
+    "git/What is commiting.md",
+    "git/Git Environments.md",
     "learning-linux/regex/extended-regex.md",
     "learning-linux/regex/Pasted image 20230607181002.png",
     "learning-linux/vim/vim index.md",
@@ -205,11 +228,7 @@
     "learning-linux/regex/regex-index.md",
     "'learning-linux/regex/Regex.md",
     "learning-linux/bash/Sorting & Editing File Output.md",
-    "learning-linux/bash/bash index.md",
-    "learning-linux/bash/Bash Commands.md",
     "'learning-linux/regex",
-    "'learning-linux",
-    "learning-linux/bash/Regex-Index.md",
-    "learning-linux/bash/head.md"
+    "'learning-linux"
   ]
 }

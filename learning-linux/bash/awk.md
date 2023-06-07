@@ -6,4 +6,5 @@
 - awk '{print $2}' -> Print the second column, {} starts and ends an awk script
 
 # Resources
-https://backreference.org/2010/02/10/idiomatic-awk/
+- https://backreference.org/2010/02/10/idiomatic-awk/
+- [computer-hope](https://www.computerhope.com/unix/uawk.htm)
