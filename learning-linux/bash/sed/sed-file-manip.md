@@ -1,0 +1,1 @@
+- Searches [[STDIN]] if no files are provided or if "-" is the file-name provided

@@ -1,0 +1,1 @@
+- sed -E -> Uses [[extended-regex]] rather than basic

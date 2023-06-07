@@ -1,3 +1,3 @@
-- Searched [[STDIN]] if no files are provided or if "-" is the file-name provided
+- Searches [[STDIN]] if no files are provided or if "-" is the file-name provided
 - Search through files by specifying at end of command
 - Can use wildcard to search through multiple grep PATTERN \*.txt

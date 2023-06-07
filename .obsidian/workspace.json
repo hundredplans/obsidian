@@ -20,48 +20,60 @@
             }
           },
           {
-            "id": "ffd9c8352c208b31",
+            "id": "2c495956df7f7dca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/grep/grep.md",
+                "file": "learning-linux/bash/sed/sed.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9f9e9796959401f",
+            "id": "20c850bc1b97c7d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "impo_links.md",
+                "file": "learning-linux/bash/sed/sed-options.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "608e8b3ef37a938a",
+            "id": "f64f4f6822576426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/grep/grep.md",
+                "file": "learning-linux/bash/sed/sed-syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bae1f78613ef1da",
+            "id": "7ad244a34990eba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Creating Branches.md",
+                "file": "learning-linux/bash/grep/grep-file-manip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4be10518ded01a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/sed/sed-file-manip.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,13 +126,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "7ebfbf340c9ae237",
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/grep/grep.md",
+                "file": "learning-linux/bash/sed/sed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/grep/grep.md",
+                "file": "learning-linux/bash/sed/sed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/grep/grep.md"
+                "file": "learning-linux/bash/sed/sed.md"
               }
             }
           }
@@ -198,17 +208,25 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ffd9c8352c208b31",
+  "active": "2c495956df7f7dca",
   "lastOpenFiles": [
-    "impo_links.md",
+    "learning-linux/bash/sed/sed-options.md",
+    "learning-linux/bash/sed/sed-syntax.md",
+    "learning-linux/bash/grep/grep-file-manip.md",
+    "learning-linux/bash/sed/sed-file-manip.md",
+    "learning-linux/bash/sed/sed.md",
+    "learning-linux/bash/grep/grep-options.md",
     "learning-linux/bash/grep/grep.md",
+    "obsidian/info/resources.md",
+    "obsidian/info",
+    "obsidian",
+    "learning-linux/bash/sed",
     "git/Creating Branches.md",
+    "impo_links.md",
     "learning-linux/regex/resources.md",
     "git/git index.md",
-    "learning-linux/bash/sed.md",
     "learning-linux/bash/awk.md",
     "learning-linux/resources.md",
-    "learning-linux/bash/grep/grep-options.md",
     "git/What is Git.md",
     "git/Tracking Files.md",
     "git/What is commiting.md",
@@ -220,14 +238,9 @@
     "learning-linux/vim/normal/Normal Mode.md",
     "learning-linux/vim/normal/Editing Commands.md",
     "learning-linux/vim/normal/Entering Insert Mode.md",
-    "learning-linux/bash/grep/grep-file-manip.md",
     "learning-linux/bash/grep",
     "learning-linux/regex/Regex.md",
     "learning-linux/regex/regex-capture-groups.md",
-    "learning-linux/regex/regex-patterns.md",
-    "learning-linux/regex/regex-index.md",
-    "'learning-linux/regex/Regex.md",
-    "learning-linux/bash/Sorting & Editing File Output.md",
     "'learning-linux/regex",
     "'learning-linux"
   ]

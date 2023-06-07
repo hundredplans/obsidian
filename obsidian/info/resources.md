@@ -1,0 +1,1 @@
+[Creating Your First Plugin](https://marcus.se.net/obsidian-plugin-docs/getting-started/create-your-first-plugin)

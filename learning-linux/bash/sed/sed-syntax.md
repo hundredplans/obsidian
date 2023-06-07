@@ -1,4 +1,3 @@
 - 's/' - Substitute following string with 's/PATTERN//REPLACEMENT'
 - 's/PATTERN//g' matches multiple times per line
-- sed -E - Uses new regex syntax rather than old, remember to specify -E where necessary in these notes
 - Use [[regex-capture-groups]] in the replacement // to only display wanted information e.g. //\\2 will capture the second () in the substitute section
