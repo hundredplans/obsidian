@@ -1,4 +1,0 @@
-- Everything is a character
-- \\ can denote a metacharacter
-- Most common whitespace you will use is **space ␣, tab \\t and new line \\n or carriage return \\r (enter key)**
-- Nested groups are read left to right, order of open parantheses
