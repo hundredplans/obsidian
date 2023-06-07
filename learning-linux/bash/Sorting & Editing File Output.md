@@ -1,10 +1,13 @@
-[[grep]]
-[[sed]]
-[[awk]]
-[[head]]
-[[tail]]
-[[sort]]
-[[uniq]]
-[[paste]]
-[[bc]]
-[[xargs]]
+# RegEx or Programming Language Users
+- [[grep]]
+- [[sed]]
+- [[awk]]
+
+# Sorting 
+- [[head]]
+- [[tail]]
+- [[sort]]
+- [[uniq]]
+- [[paste]]
+- [[bc]]
+- [[xargs]]
