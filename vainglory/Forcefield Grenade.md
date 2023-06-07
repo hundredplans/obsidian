@@ -1,0 +1,5 @@
+- Can throw or place a forcefield grenade that is ethereal
+- Can change it from impassable and blocking all damage to non ethereal and passable but projectiles also pass through, can't change modes if a player is on the rim of the forcefield
+- Can explode grenade at any time
+- When forcefield is ethereal you can stand on the top of it, for example mid-air
+- If you disable then re-enable a forcefield while on top of it you can slip inside

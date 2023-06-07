@@ -1,0 +1,1 @@
+- Smashes his hammer onto the floor causing an earthquake in a 60d cone in front of him, anyone caught in the earthquake is [[Stunned]] for 3s

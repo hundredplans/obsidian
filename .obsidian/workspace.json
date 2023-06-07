@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/info/resources.md",
+                "file": "vainglory/vainglory index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74a753c332406a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vainglory/Techie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb53f19f956fa850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vainglory/Forcefield Grenade.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/info/resources.md",
+                "file": "vainglory/Forcefield Grenade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/info/resources.md",
+                "file": "vainglory/Forcefield Grenade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/info/resources.md"
+                "file": "vainglory/Forcefield Grenade.md"
               }
             }
           }
@@ -147,8 +172,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dc9cf1b01c6a477c",
+  "active": "fb53f19f956fa850",
   "lastOpenFiles": [
+    "vainglory/stone-king/Stoneslam.md",
+    "vainglory/Forcefield Grenade.md",
+    "vainglory/stone-king/Stone-King.md",
+    "vainglory/windlord/Windlord.md",
+    "vainglory/Techie.md",
+    "vainglory/vainglory index.md",
+    "vainglory/Supports.md",
+    "vainglory/trickster/Trickster.md",
+    "vainglory/info/Stunned.md",
+    "vainglory/stone-king/Hammer Form.md",
+    "vainglory/stone-king/Shield Form.md",
+    "vainglory/stone-king",
+    "learning-linux/info/resources.md",
     "learning-linux/vim/resources.md",
     "learning-linux/regex/resources.md",
     "learning-linux/regex/Regex Index.md",
@@ -169,22 +207,9 @@
     "impo_links.md",
     "game-maths/info/resources.md",
     "game-maths/info",
-    "learning-linux/info/resources.md",
     "learning-linux/info",
     "computer-science/info",
-    "shaders/info/resources.md",
-    "learning-linux/bash/sed.md",
-    "shaders/info/The Book of Shaders.md",
-    "engineering/Chapter 25/Untitled.md",
-    "shaders/Resources/Images/Untitled.md",
-    "shaders/Resources/Images/Untitled 1.md",
-    "shaders/info/How do Shaders work.md",
     "shaders/info",
-    "inkscape/resources.md",
-    "learning-linux/regex/Regex Patterns.md",
-    "Computer Science/resources",
-    "vainglory/trickster/Trickster.md",
-    "vainglory/windlord/Windlord.md",
     "godot/img.png",
     "vim/fzf Search Syntax.png"
   ]
