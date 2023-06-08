@@ -1,0 +1,2 @@
+- Mark an enemy for 1 Minute and deal 50% extra dmg while they are marked, refresh [[Wanted]] if the target is killed in the time-frame by anything
+- Ultimate?

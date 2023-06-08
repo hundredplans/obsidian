@@ -1,0 +1,1 @@
+- Give some mages staffs have a lot of range and take long to cast and wands which have smaller range, dmg but take shorter to cast and be cancelled at the halfway point for half the effect while staffs can cancel for 0 effect. So each wand spell has 2 variants, a halfway one and a true one

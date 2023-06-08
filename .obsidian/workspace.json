@@ -1,21 +1,26 @@
 {
   "main": {
-    "id": "ba67cbf0f72a274d",
+    "id": "d6c1447c07b6dec3",
     "type": "split",
     "children": [
       {
-        "id": "baef41fb9c57e64a",
+        "id": "2269b78026995a92",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "129609460da92c93",
+            "id": "9796b59b3edad073",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-=======
-            "id": "2c495956df7f7dca",
+              "type": "markdown",
+              "state": {
+                "file": "vainglory/vainglory index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4de5d3325f278e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,19 +32,7 @@
             }
           },
           {
-            "id": "3a72c66a99a44ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/sed/sed-options.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "817d423ad53eeaa9",
+            "id": "691ba392e8e78a22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,33 +44,29 @@
             }
           },
           {
-            "id": "20c850bc1b97c7d6",
+            "id": "bf9ece8db7b97c3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/sed/sed-options.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> f93fa09f29c2590604a7d63884d8d996b3d5df7d
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f3e2081650b89f51",
+    "id": "20ef1d638c6e4476",
     "type": "split",
     "children": [
       {
-        "id": "681cca781733d6c2",
+        "id": "bc2bd0c4902f21ed",
         "type": "tabs",
         "children": [
           {
-            "id": "4af3623fc62afc0d",
+            "id": "6df194351e58c31a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +76,7 @@
             }
           },
           {
-            "id": "868183dc649e5671",
+            "id": "14458da3d74de045",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,7 +91,7 @@
             }
           },
           {
-            "id": "54eb6b4638d75cc0",
+            "id": "23818f6e6e9d0d8b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -113,26 +102,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 300
   },
   "right": {
-    "id": "7ebfbf340c9ae237",
+    "id": "7a353e3001455ff1",
     "type": "split",
     "children": [
       {
-        "id": "6dc9c095186550ba",
+        "id": "8cf7d65d67fe586e",
         "type": "tabs",
         "children": [
           {
-            "id": "bf9b294e22335ed7",
+            "id": "c567364873a428c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "learning-linux/bash/sed/sed-options.md",
->>>>>>> f93fa09f29c2590604a7d63884d8d996b3d5df7d
+                "file": "learning-linux/bash/sed/sed-syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,22 +130,19 @@
             }
           },
           {
-            "id": "b1c41e335a573bcf",
+            "id": "a133c58fd9a24372",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "learning-linux/bash/sed/sed-options.md",
->>>>>>> f93fa09f29c2590604a7d63884d8d996b3d5df7d
+                "file": "learning-linux/bash/sed/sed-syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dc4aed7b7c4db8bc",
+            "id": "29a1a1a322a7d1e4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -170,17 +153,13 @@
             }
           },
           {
-            "id": "d1947fe41b3feae8",
+            "id": "c37f7b7c823efce3",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "learning-linux/bash/sed/sed-options.md"
+                "file": "learning-linux/bash/sed/sed-syntax.md"
               }
->>>>>>> f93fa09f29c2590604a7d63884d8d996b3d5df7d
             }
           }
         ]
@@ -201,51 +180,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-<<<<<<< HEAD
-  "active": "129609460da92c93",
-  "lastOpenFiles": [
-    "subjects/engineering/Chapter 25/MMA Welding.md",
-    "subjects/engineering/Chapter 25/Welding.md",
-    "subjects/engineering/Chapter 25/MIG Welding.md",
-    "subjects/engineering/Chapter 25/Safety for Electric Arc Welding.md",
-    "subjects/engineering/Chapter 25/OA Welding.md",
-    "learning-linux/bash/sed/sed-file-manip.md",
-    "learning-linux/bash/grep/grep-file-manip.md",
-    "learning-linux/bash/sed/sed-syntax.md",
-    "learning-linux/bash/sed/sed-options.md",
-    "learning-linux/bash/grep/grep-options.md",
-    "learning-linux/bash/sed/sed.md",
-=======
-  "active": "3a72c66a99a44ea8",
+  "active": "691ba392e8e78a22",
   "lastOpenFiles": [
     "learning-linux/bash/sed/sed.md",
-    "learning-linux/bash/sed/sed-syntax.md",
-    "learning-linux/bash/sed/sed-file-manip.md",
-    "learning-linux/bash/sed/sed-options.md",
->>>>>>> f93fa09f29c2590604a7d63884d8d996b3d5df7d
-    "learning-linux/bash/grep/grep.md",
-    "learning-linux/bash/grep/grep-options.md",
-    "learning-linux/bash/grep/grep-file-manip.md",
-    "learning-linux/regex/extended-regex.md",
-    "obsidian/info/resources.md",
-    "obsidian/info",
-    "obsidian",
-    "learning-linux/bash/sed",
-    "git/Creating Branches.md",
-    "impo_links.md",
-    "learning-linux/regex/resources.md",
-    "git/git index.md",
-    "learning-linux/bash/awk.md",
-    "learning-linux/resources.md",
-    "git/What is Git.md",
-    "git/Tracking Files.md",
-    "git/What is commiting.md",
-    "git/Git Environments.md",
-    "learning-linux/regex/Pasted image 20230607181002.png",
-    "learning-linux/vim/vim index.md",
-    "learning-linux/vim/Modes.md",
-    "learning-linux/bash/grep",
-    "'learning-linux/regex",
-    "'learning-linux"
+    "vainglory/vainglory index.md",
+    "vainglory/windlord/Windlord.md",
+    "vainglory/bounty-hunter/Bounty-Hunter.md",
+    "vainglory/bounty-hunter/Wanted.md",
+    "vainglory/bounty-hunter",
+    "vainglory/Roles.md",
+    "vainglory/Rangers.md",
+    "vainglory/Random Notes.md"
   ]
 }
