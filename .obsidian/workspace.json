@@ -42,14 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf9ece8db7b97c3e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
@@ -184,6 +176,16 @@
   "lastOpenFiles": [
     "learning-linux/bash/sed/sed.md",
     "vainglory/vainglory index.md",
+    "learning-linux/bash/sed/sed-syntax.md",
+    "fof/fof index.md",
+    "fof/Main Menu.md",
+    "shaders/info/resources.md",
+    "shaders/GLSL/GLSL Standards.md",
+    "shaders/info/How do Shaders work.md",
+    "fof/steamworks/resources.md",
+    "learning-linux/vim/normal/VIM Macros.md",
+    "fof/screens/assets/Main Menu Images.md",
+    "fof/screens/assets",
     "vainglory/windlord/Windlord.md",
     "vainglory/bounty-hunter/Bounty-Hunter.md",
     "vainglory/bounty-hunter/Wanted.md",
