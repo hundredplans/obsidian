@@ -11,7 +11,7 @@
 # Output Prefix Control
 - -n -> Prefix each line with the line output was found on in input
 	- Usual output is **line-number:line-text**
-		- If multiples files are searched will output **file-name:line-number:line-text**
+	- If multiples files are searched will output **file-name:line-number:line-text**
 	- If file is not in the same directory will specify **file-path:line-number:line-text**
 - -b -> Prefix each line with offset to start of file, if -o is used prefixes with offset to match
 - -H -> Prefix each line with file-searched, default if multiple files are searched
