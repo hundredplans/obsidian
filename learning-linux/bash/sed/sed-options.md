@@ -1,3 +1,6 @@
+# Printing 
+- sed -n -> Only print specified-content using p or other commands
+
 # Sorting Info / Human-Readable
 - sed -n ('1,5p'|'5p') -> Only print specified line or line range
 - sed -I NUM -> Changes wrap-length to specified amount
