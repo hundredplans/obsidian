@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d599b9b9eae6c9b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/normal/Screen Navigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "afe267b44e683873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "learning-linux/bash/sed/sed-syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3719289f4d984e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/sed/sed-selecting-lines-addresses.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,19 +44,31 @@
             }
           },
           {
-            "id": "027120a3f04357a2",
+            "id": "5049533a381b118b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/sort.md",
+                "file": "learning-linux/bash/sed/sed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57a856091c60de2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/awk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/sed/sed-syntax.md",
+                "file": "learning-linux/bash/awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/sed/sed-syntax.md",
+                "file": "learning-linux/bash/awk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/sed/sed-syntax.md"
+                "file": "learning-linux/bash/awk.md"
               }
             }
           }
@@ -181,20 +194,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "afe267b44e683873",
+  "active": "57a856091c60de2d",
   "lastOpenFiles": [
+    "learning-linux/bash/sed/sed.md",
     "learning-linux/bash/sed/sed-options.md",
-    "learning-linux/bash/sort.md",
+    "learning-linux/bash/sed/sed-selecting-lines-addresses.md",
     "learning-linux/bash/sed/sed-syntax.md",
+    "learning-linux/bash/awk.md",
+    "learning-linux/bash/head.md",
+    "learning-linux/regex/regex-index.md",
+    "learning-linux/regex/regex-patterns.md",
+    "learning-linux/bash/Bash Commands.md",
+    "learning-linux/bash/Sorting & Editing File Output.md",
+    "learning-linux/bash/xargs.md",
+    "learning-linux/bash/bc.md",
+    "learning-linux/bash/sort.md",
+    "learning-linux/bash/uniq.md",
+    "learning-linux/bash/sed/sed-file-manip.md",
     "learning-linux/vim/normal/Screen Navigation.md",
     "vainglory/vainglory index.md",
     "learning-linux/vim/Jumplist.md",
-    "learning-linux/bash/sed/sed.md",
     "learning-linux/regex/a",
-    "learning-linux/regex/regex-index.md",
     "learning-linux/regex/regex-index.md[c]",
     "learning-linux/regex/regex-index.md=c",
     "learning-linux/regex/regex-index.md=cool",
