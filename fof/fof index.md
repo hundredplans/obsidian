@@ -1,6 +1,8 @@
 # Screens
-- [[Fuyanopedia]]
-- [[Main Menu]]
+- [[fuyanopedia]]
+- [[Main-Menu]]
+- [[shop-menu]]
+- [[deck-manager]]
 
 # Static Data
 - [[Static Abilities and Status Effects aid's]]

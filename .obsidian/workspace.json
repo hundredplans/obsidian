@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afe267b44e683873",
+            "id": "c48f31869c0cea1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/sed/sed-syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3719289f4d984e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/sed/sed-selecting-lines-addresses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dfd2328bcd199eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/sed/sed-options.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5049533a381b118b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/sed/sed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57a856091c60de2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/awk.md",
+                "file": "fof/screens/deck-manager.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/awk.md",
+                "file": "fof/screens/deck-manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/awk.md",
+                "file": "fof/screens/deck-manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/awk.md"
+                "file": "fof/screens/deck-manager.md"
               }
             }
           }
@@ -198,13 +149,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "57a856091c60de2d",
+  "active": "c48f31869c0cea1c",
   "lastOpenFiles": [
+    "learning-linux/bash/awk.md",
     "learning-linux/bash/sed/sed.md",
     "learning-linux/bash/sed/sed-options.md",
     "learning-linux/bash/sed/sed-selecting-lines-addresses.md",
     "learning-linux/bash/sed/sed-syntax.md",
-    "learning-linux/bash/awk.md",
+    "fof/screens/deck-manager.md",
+    "fof/fof index.md",
+    "fof/screens/assets/main-menu-images.md",
+    "fof/screens/shop-menu.md",
+    "fof/screens/fuyanopedia.md",
+    "fof/screens/customization.md",
+    "fof/screens/end-game.md",
+    "fof/Main-Menu.md",
     "learning-linux/bash/head.md",
     "learning-linux/regex/regex-index.md",
     "learning-linux/regex/regex-patterns.md",
@@ -222,15 +181,7 @@
     "learning-linux/regex/regex-index.md[c]",
     "learning-linux/regex/regex-index.md=c",
     "learning-linux/regex/regex-index.md=cool",
-    "fof/screens/assets/Main Menu Images.md",
     "fof/screens/assets",
-    "fof/Main Menu.md",
-    "vainglory/windlord/Windlord.md",
-    "vainglory/bounty-hunter/Bounty-Hunter.md",
-    "vainglory/bounty-hunter/Wanted.md",
-    "vainglory/bounty-hunter",
-    "vainglory/Roles.md",
-    "vainglory/Rangers.md",
-    "vainglory/Random Notes.md"
+    "vainglory/bounty-hunter"
   ]
 }
