@@ -19,7 +19,7 @@
 
 # Altering Regex
 - sed -E/-r -> Uses [[extended-regex]] rather than basic
-- sed --posix -> Changes to basic regex, limits [[regex-capture-groups]] to \\1-\\9. Used for compatibility among different os'es very unlikely this is necessary for me
+	- sed --posix -> Changes to basic regex, limits [[regex-capture-groups]] to \\1-\\9. Used for compatibility among different os'es very unlikely this is necessary for me
 
 # Info Commands
 - sed --help -> Display a help message

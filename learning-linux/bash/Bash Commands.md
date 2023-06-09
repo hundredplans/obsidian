@@ -3,3 +3,6 @@
 [[Editing or Viewing Files]]
 [[Writing File Output]]
 [[Info on File Output]]
+
+# Standard Commands
+[[echo]]

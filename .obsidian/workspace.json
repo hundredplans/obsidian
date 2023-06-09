@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c48f31869c0cea1c",
+            "id": "94ffed9fd5d5ea88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/bash/sed/sed-options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a6d01e076369f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/grep/grep-options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b276c861c7171925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/sed/sed-syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/bash/sed/sed-syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/bash/sed/sed-syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fof/screens/deck-manager.md"
+                "file": "learning-linux/bash/sed/sed-syntax.md"
               }
             }
           }
@@ -149,34 +175,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c48f31869c0cea1c",
+  "active": "b276c861c7171925",
   "lastOpenFiles": [
-    "learning-linux/bash/awk.md",
-    "learning-linux/bash/sed/sed.md",
-    "learning-linux/bash/sed/sed-options.md",
-    "learning-linux/bash/sed/sed-selecting-lines-addresses.md",
-    "learning-linux/bash/sed/sed-syntax.md",
-    "fof/screens/deck-manager.md",
-    "fof/fof index.md",
-    "fof/screens/assets/main-menu-images.md",
-    "fof/screens/shop-menu.md",
-    "fof/screens/fuyanopedia.md",
-    "fof/screens/customization.md",
-    "fof/screens/end-game.md",
-    "fof/Main-Menu.md",
-    "learning-linux/bash/head.md",
-    "learning-linux/regex/regex-index.md",
-    "learning-linux/regex/regex-patterns.md",
     "learning-linux/bash/Bash Commands.md",
     "learning-linux/bash/Sorting & Editing File Output.md",
-    "learning-linux/bash/xargs.md",
+    "learning-linux/bash/grep/grep-options.md",
+    "learning-linux/bash/sed/sed-options.md",
+    "learning-linux/regex/regex-patterns.md",
+    "learning-linux/bash/grep/grep.md",
+    "learning-linux/bash/sed/sed-syntax.md",
+    "learning-linux/bash/Writing File Output.md",
+    "learning-linux/bash/echo.md",
+    "learning-linux/bash/bash index.md",
+    "learning-linux/bash/sed/sed.md",
     "learning-linux/bash/bc.md",
     "learning-linux/bash/sort.md",
+    "learning-linux/bash/awk.md",
+    "learning-linux/bash/paste.md",
     "learning-linux/bash/uniq.md",
+    "learning-linux/bash/grep/grep-file-manip.md",
+    "learning-linux/regex/regex-index.md",
+    "learning-linux/vim/normal/Word Navigation.md",
+    "learning-linux/vim/normal/Finder Navigation.md",
+    "learning-linux/vim/normal/Movement Commands.md",
+    "learning-linux/vim/normal/Normal Mode.md",
     "learning-linux/bash/sed/sed-file-manip.md",
-    "learning-linux/vim/normal/Screen Navigation.md",
-    "vainglory/vainglory index.md",
-    "learning-linux/vim/Jumplist.md",
+    "learning-linux/vim/normal/Line Navigation.md",
+    "learning-linux/regex/regex-capture-groups.md",
+    "learning-linux/vim/Modes.md",
     "learning-linux/regex/a",
     "learning-linux/regex/regex-index.md[c]",
     "learning-linux/regex/regex-index.md=c",
