@@ -1,4 +1,4 @@
-	 General
+General
 - Commands can be seperated using ; or \\n and can be preceded with any amount of whitespace
 - sed counts lines countinously across files unless -i or -s
 
