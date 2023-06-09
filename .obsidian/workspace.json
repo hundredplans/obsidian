@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9796b59b3edad073",
+            "id": "d599b9b9eae6c9b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vainglory/vainglory index.md",
+                "file": "learning-linux/vim/normal/Screen Navigation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4de5d3325f278e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/sed/sed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "691ba392e8e78a22",
+            "id": "afe267b44e683873",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1dfd2328bcd199eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/sed/sed-options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "027120a3f04357a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,20 +184,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "691ba392e8e78a22",
+  "active": "afe267b44e683873",
   "lastOpenFiles": [
-    "learning-linux/bash/sed/sed.md",
-    "vainglory/vainglory index.md",
+    "learning-linux/bash/sed/sed-options.md",
+    "learning-linux/bash/sort.md",
     "learning-linux/bash/sed/sed-syntax.md",
-    "fof/fof index.md",
-    "fof/Main Menu.md",
-    "shaders/info/resources.md",
-    "shaders/GLSL/GLSL Standards.md",
-    "shaders/info/How do Shaders work.md",
-    "fof/steamworks/resources.md",
-    "learning-linux/vim/normal/VIM Macros.md",
+    "learning-linux/vim/normal/Screen Navigation.md",
+    "vainglory/vainglory index.md",
+    "learning-linux/vim/Jumplist.md",
+    "learning-linux/bash/sed/sed.md",
+    "learning-linux/regex/a",
+    "learning-linux/regex/regex-index.md",
+    "learning-linux/regex/regex-index.md[c]",
+    "learning-linux/regex/regex-index.md=c",
+    "learning-linux/regex/regex-index.md=cool",
     "fof/screens/assets/Main Menu Images.md",
     "fof/screens/assets",
+    "fof/Main Menu.md",
     "vainglory/windlord/Windlord.md",
     "vainglory/bounty-hunter/Bounty-Hunter.md",
     "vainglory/bounty-hunter/Wanted.md",
