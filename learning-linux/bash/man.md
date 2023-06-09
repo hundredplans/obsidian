@@ -1,0 +1,1 @@
+- Gives manual page for specified command

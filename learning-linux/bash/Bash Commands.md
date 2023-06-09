@@ -1,3 +1,4 @@
+# File Manipulation
 [[Displaying File Output]]
 [[Sorting & Editing File Output]]
 [[Editing or Viewing Files]]
@@ -6,3 +7,7 @@
 
 # Standard Commands
 [[echo]]
+
+# Info Commands
+[[man]]
+[[journalctl]]
