@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "abef81f777d942ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/alias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30e89fff645f5f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/bash-index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b6f33065d82fa3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/bash-environment-variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/bash-index.md",
+                "file": "learning-linux/bash/bash-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/bash-index.md",
+                "file": "learning-linux/bash/bash-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/bash-index.md"
+                "file": "learning-linux/bash/bash-commands.md"
               }
             }
           }
@@ -186,17 +150,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "30e89fff645f5f95",
+  "active": "a519e63bc67b56c8",
   "lastOpenFiles": [
+    "learning-linux/bash/alias.md",
+    "learning-linux/vim/resources.md",
+    "learning-linux/vim/vim.md",
+    "git/git index.md",
     "learning-linux/bash/bash-environment-variables.md",
-    "bash/bash-commands/job-control/job-control.md",
-    "learning-linux/bash/bash-commands.md",
     "learning-linux/bash/bash-index.md",
+    "learning-linux/bash/bash-commands.md",
+    "learning-linux/bash/ln.md",
+    "learning-linux/vim/Plugins.md",
+    "bash/bash-commands/job-control/job-control.md",
     "learning-linux/bash/bash-signals.md",
     "learning-linux/bash-signals.md",
     "bash-signals.md",
     "bash/bash-commands/job-control/bash-signals.md",
-    "learning-linux/bash/alias.md",
     "learning-linux/bash/mv.md",
     "bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
     "bash/bash-commands/terminal-multiplexers/tmux.md",
@@ -211,11 +180,6 @@
     "bash/bash-commands/job-control/fg.md",
     "bash/bash-commands/job-control/bg.md",
     "bash/bash-commands/job-control/SIGSTOP.md",
-    "bash/bash-commands/job-control/SIGTERM.md",
-    "bash/bash-commands/job-control/SIGQUIT.md",
-    "bash/bash-commands/job-control/SIGCONT.md",
-    "bash/bash-commands/job-control/SIGKILL.md",
-    "bash/bash-commands/job-control/SIGINT.md",
     "bash/bash-commands/job-control",
     "bash/bash-commands",
     "bash/bash-signals",

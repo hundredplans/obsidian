@@ -21,6 +21,7 @@
 [[chmod]]
 [[sleep]]
 [[alias]]
+[[ln]]
 
 # Running & Opening Files
 [[vim]]
