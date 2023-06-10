@@ -11,3 +11,6 @@
 # Info Commands
 [[man]]
 [[journalctl]]
+
+# Server-Related
+[[curl]]
