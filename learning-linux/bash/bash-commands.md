@@ -20,6 +20,7 @@
 [[convert]]
 [[chmod]]
 [[sleep]]
+[[alias]]
 
 # Running & Opening Files
 [[vim]]

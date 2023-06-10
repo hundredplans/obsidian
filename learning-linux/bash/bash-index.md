@@ -1,5 +1,5 @@
 [[bash-commands]]
 [[bash-info]]
 [[bash-shortcuts]]
-[[bash-signals]]
+[[bash-environment-variables]]
 #index 

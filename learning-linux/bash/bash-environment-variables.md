@@ -1,0 +1,1 @@
+- PS1=">" -> Changes prompt to >

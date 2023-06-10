@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "4d5d36a88f4384f2",
+            "id": "abef81f777d942ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
+                "file": "learning-linux/bash/alias.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7147c34daaae9a6b",
+            "id": "30e89fff645f5f95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
+                "file": "learning-linux/bash/bash-index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b6f33065d82fa3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/bash-environment-variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
+                "file": "learning-linux/bash/bash-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
+                "file": "learning-linux/bash/bash-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bash/bash-commands/terminal-multiplexers/tmux.md"
+                "file": "learning-linux/bash/bash-index.md"
               }
             }
           }
@@ -173,10 +186,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7147c34daaae9a6b",
+  "active": "30e89fff645f5f95",
   "lastOpenFiles": [
-    "bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
+    "learning-linux/bash/bash-environment-variables.md",
+    "bash/bash-commands/job-control/job-control.md",
     "learning-linux/bash/bash-commands.md",
+    "learning-linux/bash/bash-index.md",
+    "learning-linux/bash/bash-signals.md",
+    "learning-linux/bash-signals.md",
+    "bash-signals.md",
+    "bash/bash-commands/job-control/bash-signals.md",
+    "learning-linux/bash/alias.md",
+    "learning-linux/bash/mv.md",
+    "bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
     "bash/bash-commands/terminal-multiplexers/tmux.md",
     "bash/bash-commands/finding-files/bash-finding-files.md",
     "bash/bash-commands/terminal-multiplexers",
@@ -186,23 +208,14 @@
     "bash/bash-commands/finding-files/locate.md",
     "bash/bash-commands/finding-files/find.md",
     "bash/bash-commands/finding-files",
-    "bash/bash-commands/job-control/job-control.md",
     "bash/bash-commands/job-control/fg.md",
     "bash/bash-commands/job-control/bg.md",
-    "bash/bash-commands/job-control/bash-signals.md",
     "bash/bash-commands/job-control/SIGSTOP.md",
     "bash/bash-commands/job-control/SIGTERM.md",
     "bash/bash-commands/job-control/SIGQUIT.md",
     "bash/bash-commands/job-control/SIGCONT.md",
     "bash/bash-commands/job-control/SIGKILL.md",
     "bash/bash-commands/job-control/SIGINT.md",
-    "bash/bash-commands/job-control/SIGHUP.md",
-    "learning-linux/bash/bash index.md",
-    "learning-linux/bash/bash-shortcuts.md",
-    "bash/bash-signals/bash-signals.md",
-    "bash/bash-commands/job-control/kill.md",
-    "bash/bash-commands/job-control/nohup.md",
-    "bash/bash-commands/job-control/jobs.md",
     "bash/bash-commands/job-control",
     "bash/bash-commands",
     "bash/bash-signals",
