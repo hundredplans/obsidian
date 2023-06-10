@@ -29,8 +29,8 @@
 - -P -> Interpet PATTERN as a Perl RegEx (it's different?)
 
 # File Fuckery
-- -r -> Searches recursively ignoring [[symlinks]]
-- -R -> Searches recursively not ignoring [[symlinks]]
+- -r -> Searches recursively ignoring [[symlink]]
+- -R -> Searches recursively not ignoring [[symlink]]
 - -a -> Treat binary as text
 - -d ACTION -> If input file is directory process it using ACTION
 	- -d recursive -> Same as -r

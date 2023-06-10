@@ -1,0 +1,3 @@
+- Change local path
+- cd / cd ~ -> goes to home directory
+- cd - -> Goes to last directory and prints path

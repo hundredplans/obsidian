@@ -1,1 +1,0 @@
-- Shows all filles and directories recursively in current directory on seperate lines

@@ -1,0 +1,2 @@
+- Cannot be captured by a program, terminates execution no matter what
+- Will not delete child-processes so potentially harmful

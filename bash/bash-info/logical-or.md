@@ -1,0 +1,1 @@
+- In Bash it's | | 

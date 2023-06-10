@@ -1,4 +1,5 @@
 [[less]]
 [[more]]
-[[find]]
+[[most]]
 [[history]]
+[[cat]]

@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bf4b13fe0f3dbdb",
+            "id": "a519e63bc67b56c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/grep/grep-options.md",
+                "file": "learning-linux/bash/bash-commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b988be5d7130f344",
+            "id": "4d5d36a88f4384f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/Displaying File Output.md",
+                "file": "bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56eefcae6c8335e7",
+            "id": "7147c34daaae9a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/sed/sed-selecting-lines-addresses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a862138b09f42c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/resources.md",
+                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/resources.md",
+                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/resources.md",
+                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/resources.md"
+                "file": "bash/bash-commands/terminal-multiplexers/tmux.md"
               }
             }
           }
@@ -187,39 +173,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2a862138b09f42c7",
+  "active": "7147c34daaae9a6b",
   "lastOpenFiles": [
-    "learning-linux/bash/sed/sed-selecting-lines-addresses.md",
-    "learning-linux/bash/Displaying File Output.md",
-    "learning-linux/regex/regex-patterns.md",
-    "learning-linux/bash/sed/sed.md",
-    "learning-linux/bash/sed/sed-options.md",
-    "learning-linux/bash/sed/sed-syntax.md",
-    "learning-linux/bash/grep/grep-options.md",
-    "learning-linux/bash/Bash Commands.md",
-    "learning-linux/bash/curl.md",
-    "learning-linux/bash/less.md",
-    "learning-linux/bash/more.md",
-    "computer-science/protocol/Protocol.md",
-    "learning-linux/bash/uniq.md",
-    "learning-linux/bash/journalctl.md",
-    "learning-linux/vim/normal/Screen Navigation.md",
-    "learning-linux/vim/normal/Finder Navigation.md",
-    "learning-linux/bash/man.md",
-    "learning-linux/bash/Sorting & Editing File Output.md",
-    "learning-linux/bash/grep/grep.md",
-    "learning-linux/bash/Writing File Output.md",
-    "learning-linux/bash/echo.md",
+    "bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
+    "learning-linux/bash/bash-commands.md",
+    "bash/bash-commands/terminal-multiplexers/tmux.md",
+    "bash/bash-commands/finding-files/bash-finding-files.md",
+    "bash/bash-commands/terminal-multiplexers",
+    "bash/bash-commands/finding-files/nnn.md",
+    "bash/bash-commands/finding-files/tree.md",
+    "bash/bash-commands/finding-files/rg.md",
+    "bash/bash-commands/finding-files/locate.md",
+    "bash/bash-commands/finding-files/find.md",
+    "bash/bash-commands/finding-files",
+    "bash/bash-commands/job-control/job-control.md",
+    "bash/bash-commands/job-control/fg.md",
+    "bash/bash-commands/job-control/bg.md",
+    "bash/bash-commands/job-control/bash-signals.md",
+    "bash/bash-commands/job-control/SIGSTOP.md",
+    "bash/bash-commands/job-control/SIGTERM.md",
+    "bash/bash-commands/job-control/SIGQUIT.md",
+    "bash/bash-commands/job-control/SIGCONT.md",
+    "bash/bash-commands/job-control/SIGKILL.md",
+    "bash/bash-commands/job-control/SIGINT.md",
+    "bash/bash-commands/job-control/SIGHUP.md",
     "learning-linux/bash/bash index.md",
-    "learning-linux/bash/bc.md",
-    "learning-linux/bash/sort.md",
-    "learning-linux/bash/awk.md",
-    "learning-linux/bash/paste.md",
-    "learning-linux/regex/a",
-    "learning-linux/regex/regex-index.md[c]",
-    "learning-linux/regex/regex-index.md=c",
-    "learning-linux/regex/regex-index.md=cool",
-    "fof/screens/assets",
-    "vainglory/bounty-hunter"
+    "learning-linux/bash/bash-shortcuts.md",
+    "bash/bash-signals/bash-signals.md",
+    "bash/bash-commands/job-control/kill.md",
+    "bash/bash-commands/job-control/nohup.md",
+    "bash/bash-commands/job-control/jobs.md",
+    "bash/bash-commands/job-control",
+    "bash/bash-commands",
+    "bash/bash-signals",
+    "bash/bash-info",
+    "bash",
+    "computer-science/general",
+    "Grabbing",
+    "learning-linux/regex/a"
   ]
 }

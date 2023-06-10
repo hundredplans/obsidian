@@ -1,0 +1,1 @@
+- Similar to a [[symlink]] but points to the actual data in the file

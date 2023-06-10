@@ -11,3 +11,5 @@
 - [[paste]]
 - [[bc]]
 - [[xargs]]
+- [[diff]]
+- [[cut]]

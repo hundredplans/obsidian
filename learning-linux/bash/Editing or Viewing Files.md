@@ -1,1 +1,1 @@
-[[vim index]]
+[[vim]]

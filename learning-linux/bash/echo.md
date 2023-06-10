@@ -1,2 +1,2 @@
 - Echoes string to STDOUT
-- {a..z} {1..9} will print a-z and 1-9 respectively
+- See [[{}]]

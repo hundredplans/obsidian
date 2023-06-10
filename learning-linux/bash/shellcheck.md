@@ -1,0 +1,1 @@
+- Checks if specified script/file will run and gives useful advice

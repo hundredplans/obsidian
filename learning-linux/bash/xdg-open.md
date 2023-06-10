@@ -1,0 +1,1 @@
+- Opens file or URL in user's preferred application

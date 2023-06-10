@@ -1,0 +1,1 @@
+- Used to convert file formats, resize, blur, crop and so on

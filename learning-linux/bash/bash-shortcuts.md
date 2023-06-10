@@ -1,0 +1,2 @@
+- Ctrl-L -> Same as [[clear]]
+- Ctrl-R -> Fuzzy finder for last command

@@ -1,0 +1,1 @@
+- Used to remove empty directories, no flag to remove non-empty ones

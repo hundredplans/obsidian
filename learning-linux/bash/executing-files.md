@@ -1,0 +1,2 @@
+- ./file -> Executes file in current directory
+- sh file -> Runs file as sh script, doesn't need exec perms

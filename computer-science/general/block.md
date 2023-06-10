@@ -1,0 +1,1 @@
+- Segment or large area that is assigned to store data

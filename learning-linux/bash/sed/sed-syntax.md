@@ -5,7 +5,7 @@ General
 - sed counts lines countinously across files unless -i or -s
 
 # Commands
-- Commands can be enclosed within {}, sed '/pattern/ {command1, command2;}' file.txt
+- Commands can be enclosed within {}, sed '/pattern/ {command1, command2;}' file.txt, useful for specifying one address range for multiple commands
 ## Delete
 - '/PATTERN/d' removes lines that match the pattern
 - sed 's/foo/bar/;1,4d' -> Delete lines 1-4

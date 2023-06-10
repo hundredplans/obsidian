@@ -1,0 +1,1 @@
+- Clears terminal, alternatively use Ctrl-L

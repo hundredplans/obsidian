@@ -1,0 +1,2 @@
+- Runs a command immune to [[SIGHUP]] e.g. nohup sleep 2000 & 
+- Encapsulates whatever command you execute

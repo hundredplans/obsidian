@@ -1,0 +1,1 @@
+- Almost identical to [[SIGQUIT]] and [[SIGINT]] but not sent through a terminal

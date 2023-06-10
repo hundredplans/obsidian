@@ -1,0 +1,2 @@
+- Finds a file by name quickly
+- Use updatedb to update the local database as locate runs off a database

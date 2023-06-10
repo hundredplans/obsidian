@@ -1,1 +1,1 @@
-- Takes content and makes it easily readable, similar to [[less]]
+- Takes content and makes it easily readable, similar to [[less]] but worse

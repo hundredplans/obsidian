@@ -1,0 +1,1 @@
+- Sent to processes when a running terminal is closed, tells processes to close

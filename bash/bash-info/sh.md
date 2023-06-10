@@ -1,0 +1,2 @@
+- Shellscript file
+- Bash funcs have to be in .sh

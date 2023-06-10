@@ -1,0 +1,1 @@
+- Shows path to specified command e.g. which man outputs /usr/bin/man
