@@ -13,7 +13,7 @@
 
 # Standard Commands
 [[path-directory-stuff]]
-[[<]]
+[[redirect-input]]
 [[sudo]]
 [[xdg-open]]
 [[!!]]
