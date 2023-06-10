@@ -1,0 +1,3 @@
+- Opens a secure shell
+- ssh user@ip/DNS
+- Allows to execute commands remotely

@@ -22,6 +22,8 @@
 [[sleep]]
 [[alias]]
 [[ln]]
+[[ssh]]
+[[scp]]
 
 # Running & Opening Files
 [[vim]]
@@ -45,6 +47,7 @@
 [[date]]
 [[upower]]
 [[stat]]
+[[df]]
 
 # Terminal Help
 [[clear]]
