@@ -1,40 +1,110 @@
 # Clicking on Deck Manager
+- Zooms into it and UI comes up onto screens
+- Covers whole screen
+- Automatically starts in Deck
+- Buttons above Deck Manager Screen
+
+# Deck-Manager Screen
+## Deck Shenanigans
+- Always have to have a deck selected unless your hero is unequipped
+- When you delete your only deck it creates a starter deck in its place
+- A starter deck is created automatically when you unlock a new hero
+- When you only have one deck a button appear underneath it saying "Create Deck" and the other buttons don't appear
+- 4 Max Decks per hero
+- You can place up to 99 cards in your deck at once, you can save but not use it
+## Card Inserter Area
+- 10 or 8 per page, seperated by pages, change page with small arrow that is either inside or outside menu
+### Loaned Cards
+- Last card selected is always the loaned card
+- Can't be traded up
+### Creating Decks
 - 
+## Hero Shenanigans
+- Small hero portraits appear above current decks
+- When you click on the hero you have currently selected it shows you every card that you own from every hero (setting to see unowned, scraps)
+- When you don't have a hero equipped decks is blank space
+- Lock on portraits that you don't own
 
-# Features
-- 4 Decks per hero (implement so it's possible to add more easily)
-- Button that fills the rest of the deck with random cards, smarter deck fill button aswell (fills your curve "smartly")
-- A button that will allow you to show your deck and stats on the deck, in a one screen manner so it's easy to screenshot/spread (whole screen ss), to be able to see all cards in deck at once
-- Allow placing more than 40 cards into a deck but it's not viable, you can save deck but not use it (up to 99 max cards) 
-- Specialized deck file that allows editing via text editors, listed by name
-- Loaned cards somehow displayed
-- Default cards can't be removed
-- When you press on a card it displays extra-information / model of card
-- Some way to see all cards owned
-- When card is used add fancy stuff not grey-out?
+## Deck Control Buttons
+### Rename
+- Text box in middle
+### Duplicate
+- Name is formatted like so 'deckname2' goes over character limit by 1
+- Greyed out if you have full slots
+### Delete
+- Shows next to all decks at all times, don't have to have deck selected to change it
+- Prompt in middle "Are you sure you want to delete this deck, this change is irreversible"
+### Fill Deck
+- Smart fill deck (adjust to cost)
+### Clear
+- Prompts you with "Are you sure" and a don't show again
 
-# Search System
-## Basic
+## Underneath Decks
+### Graph
+- Bar chart of different costs in your deck
+- Key for how much you own (Unit, Spells, Buildings, Rituals) in that order from bot to top
+- 0-8+, Rituals are 0 cost
+- Small color key under graph
+- Average in bottom right
+- Graph will scale as you add more units, scale on left, everything is on graph paper
+- Small mode button switches between All, Units, Spells, Buildings and shows the cost for that specific type, the average changes aswell if you don't have a specific type it doesn't appear
+
+#### Deck Preview
+- Shows cards or in-decks, priority is cards if it doesn't work then RIP
+- Right side stat graph -> Units, spells, buildings, rituals(kaluta) cost
+- Graph Modes -> Costs, Types | Bar Chart, Pie Chart 
+- If you have both Costs, Types it color codes bar chart and pie chart 
+- Automatically Bar Chart Costs & Types
+- You always have to have a Bar Chart and Pie Chart switches Costs, Types turns on/off if you click one that is ON solo it doesn't do anything
+- Graphic of your hero underneath graph
+- Avatar, Rank, Profile and Picture underneath graph with a hide rank button
+- Name of deck is shown where cards are shown
+## Filtering Shenanigans
+- Symbols have a little tooltip on hover after a few seconds appear that write what it is
+### Energy
+- Dropdown, dissapears when you click off it or click on it again
+- Energy in pairs, 0-9+, brighten up when you enable one
+- When you select an Energy it will only display cards of that specific energy, unselect all the energy crystal things to go back to non-filtered mode
+- Energy button brightens when selected to display that energy filtering is active
+### Hide Hero Cards
+- Downscaled hero portrait as button, when you have it selected it goes dim
+- If you have no hero selected it becomes a shadow man
+### Show Unowned Cards
+- Graphic, as big as Hide Hero Cards
+- Goes dim when selected
+### Show Scrap Cards
+- Graphic, same as above
+### Rarities
+- Dropdown menu that shows name of each rarity
+- Same as Energy, you can select multiple
+
+## Sorting Shenanigans
+- Sort By: Current Sort Method
+- When you click button underneath card-holder it extends to the right, it stays there until clicked again, not like an unfocus thing
+- Cost, Rarity, Clan (same rules as currently)
+- Go to first page when you click it
+
+## Search System
+### Basic
 - Doesn't change with two letters
 - Only letters
 - Name, Clan and Text (Abilities)
 
-## Advanced
+### Advanced
 - Sort of programming language e.g. 4ATT;4HP searches 4att,4hp units
 - Letters, digits and punctuation
 
-# Filtering
-- Cost
-- Hero Cards ON/OFF, Non-Hero Cards ON/OFF
-- Show other Hero cards
-- Show unowned cards ON/OFF/AT END
-- Show scrap cards
-- Rarities
 
-# Deck Manipulation
-- Clearing/Removing/Duplicating
 
-# Trade Tokens
+## Right-Clicking Cards
+- Blurbs
+- Shows loan expiry date and loan game amount
+## Left-Clicking Cards
+- Draggable
+
+## Current Deck Selected
+# Trade Up Screen
+## Trade Tokens
 - Trade-Up tokens (have a specific clan and rarity)
 - Excess cards become trade-up tokens with the clan and rarity of the card
 - You can recycle any card
@@ -58,12 +128,9 @@
 - 1 Legendary -> 4 Rare Tokens 3 Random Rares
 - 1 Legendary -> 8 Common Tokens 5 Random Commons 1 Random Rare
 
-# Right-Clicking Cards
-- Blurbs
-
-# Left-Clicking Cards
-
-# Graph
-- Cost graoh
-- Amount of minions/rituals/spells/buildings
-- Amount of legendaries
+# Features
+- Specialized deck file that allows editing via text editors, listed by name
+- Loaned cards somehow displayed
+- Default cards can't be removed
+- When you press on a card it displays extra-information / model of card
+- When card is used add fancy stuff not grey-out?
