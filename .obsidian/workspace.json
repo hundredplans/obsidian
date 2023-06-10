@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae33efe4eb7a9984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bash/bash-commands/job-control/job-control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3585a2dce9a54bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/vim/normal/Screen Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b06c0a8de4627fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/bash-commands.md",
+                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/bash-commands.md",
+                "file": "bash/bash-commands/terminal-multiplexers/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/bash-commands.md"
+                "file": "bash/bash-commands/terminal-multiplexers/tmux.md"
               }
             }
           }
@@ -150,10 +187,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a519e63bc67b56c8",
+  "active": "7b06c0a8de4627fa",
   "lastOpenFiles": [
-    "learning-linux/bash/append-output.md",
+    "learning-linux/vim/normal/Screen Navigation.md",
+    "bash/bash-commands/terminal-multiplexers/tmux.md",
+    "bash/bash-commands/job-control/job-control.md",
     "learning-linux/bash/bash-commands.md",
+    "bash/bash-commands/job-control/disown.md",
+    "bash/bash-commands/job-control/kill.md",
+    "learning-linux/bash/bash-signals.md",
+    "bash/bash-info/$.md",
+    "bash/bash-commands/job-control/$!.md",
+    "bash/bash-commands/job-control/SIGTERM.md",
+    "learning-linux/bash/bash-signals 2.md",
+    "learning-linux/bash-signals 2.md",
+    "bash-signals 2.md",
+    "bash/bash-commands/job-control/bash-signals 2.md",
+    "bash/bash-commands/job-control/SIGINT.md",
+    "learning-linux/bash/append-output.md",
     "learning-linux/bash/redirect-output.md",
     "learning-linux/bash/redirect-input.md",
     "learning-linux/bash/df.md",
@@ -164,21 +215,7 @@
     "learning-linux/vim/vim.md",
     "git/git index.md",
     "learning-linux/bash/bash-environment-variables.md",
-    "learning-linux/bash/bash-index.md",
-    "learning-linux/bash/ln.md",
-    "learning-linux/vim/Plugins.md",
-    "bash/bash-commands/job-control/job-control.md",
-    "learning-linux/bash/bash-signals.md",
-    "learning-linux/bash-signals.md",
-    "bash-signals.md",
-    "bash/bash-commands/job-control/bash-signals.md",
-    "learning-linux/bash/mv.md",
-    "bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
-    "bash/bash-commands/terminal-multiplexers/tmux.md",
-    "bash/bash-commands/finding-files/bash-finding-files.md",
     "bash/bash-commands/terminal-multiplexers",
-    "bash/bash-commands/finding-files/nnn.md",
-    "bash/bash-commands/finding-files/tree.md",
     "bash/bash-commands/finding-files",
     "bash/bash-commands/job-control",
     "bash/bash-commands",

@@ -1,0 +1,2 @@
+- Used to disown processes, if no processes is provided shell with disown current
+- disown %pid

@@ -1,4 +1,5 @@
-^u - Up one screen
+^u - Up half a page
+^b - Up a whole page
 ^d - Down one screen
 
 G - End of buffer

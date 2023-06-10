@@ -30,6 +30,7 @@
 - n -> Jump to next window
 - NUM -> Jump to NUM window
 - , -> Rename current window
+- w -> List new windows and jump between with arrow keys
 
 ## Panes
 - " -> Split current window horizontally
@@ -37,3 +38,8 @@
 - ARROW KEYS -> Moves through panes
 - SPACE -> Change position of current pane, repeat for different formats
 - z -> Zoom into current pane, repeat to unzoom
+- \[ -> Enter Scroll Mode, use arrow keys to scroll up or down in pane
+
+### Scroll Mode
+- SPACE scrolls down
+- ENTER exits scroll mode if you haven't performed any scrolling yet otherwise it will bring you to where you started scroll mode
