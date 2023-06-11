@@ -1,0 +1,2 @@
+- Syntax is t label
+- Branches to the specified label or to the next cycle if the most recent substitution command worked

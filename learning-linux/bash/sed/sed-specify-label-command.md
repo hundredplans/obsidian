@@ -1,0 +1,2 @@
+- Syntax is :LABEL
+- Specifies the location of a label 

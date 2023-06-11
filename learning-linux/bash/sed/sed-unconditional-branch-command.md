@@ -1,0 +1,2 @@
+- Syntax is b label, if label is omitted it starts the next cycle instead
+- Uncoditionally branch to specified label

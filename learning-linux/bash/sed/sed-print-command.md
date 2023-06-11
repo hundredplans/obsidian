@@ -1,0 +1,1 @@
+- Print to standard-output, sed '2,5p', typically used with -n

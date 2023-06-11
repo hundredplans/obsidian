@@ -1,0 +1,2 @@
+- '/PATTERN/d' removes lines that match the pattern
+- sed 's/foo/bar/;1,4d' -> Delete lines 1-4

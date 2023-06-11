@@ -1,0 +1,3 @@
+- Alternative to s/.\*//
+- Clears the content of the pattern space with no substitution or replacement
+- GNU extension

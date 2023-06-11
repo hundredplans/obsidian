@@ -1,0 +1,1 @@
+- Enables to match multiple times in one line

@@ -1,6 +1,6 @@
 ^u - Up half a page
 ^b - Up a whole page
-^d - Down one screen
+	^d - Down one screen
 
 G - End of buffer
 - n(G) - Moves you to line n in buffer.

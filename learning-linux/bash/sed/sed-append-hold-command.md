@@ -1,0 +1,2 @@
+- Appends contents of the pattern space to the hold space
+- /regexp/H

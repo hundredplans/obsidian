@@ -1,0 +1,2 @@
+- By default the hold space is empty
+- Can be used to temporarily store data, perform calculations or modify for later use

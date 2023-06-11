@@ -1,0 +1,2 @@
+- Syntax is '/PATTERN/,/PATTERN2/W file.txt' data.txt
+- Write to file starting from first line found to contain PATTERN to first line found to contain PATTERN2

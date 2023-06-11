@@ -1,0 +1,1 @@
+- Force quits without processing the current line

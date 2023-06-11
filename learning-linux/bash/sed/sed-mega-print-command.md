@@ -1,0 +1,2 @@
+- Syntax is '/regexp/P' 
+- Prints next line up until a newline character whereas [[sed-print-command]] prints the pattern space

@@ -1,0 +1,3 @@
+- Syntax is '/regexp/N'
+- Appends next line of input to the pattern space seperated by a newline character
+- Allows to work on multiple lines simultaenously

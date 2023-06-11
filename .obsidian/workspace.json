@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57897a337332afcb",
+            "id": "a4621587c1f5d9aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/bash/bash-info/$.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d4c1072b9130b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/screen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "285b9c6393c3ff9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/bash-signals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fof/screens/deck-manager.md"
+                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/screen.md"
               }
             }
           }
@@ -150,43 +175,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "57897a337332afcb",
+  "active": "4d4c1072b9130b44",
   "lastOpenFiles": [
-    "fof/screens/deck-manager.md",
-    "bash/bash-commands/terminal-multiplexers/tmux.md",
-    "learning-linux/vim/normal/Screen Navigation.md",
-    "bash/bash-commands/job-control/job-control.md",
-    "learning-linux/bash/bash-commands.md",
-    "bash/bash-commands/job-control/disown.md",
-    "bash/bash-commands/job-control/kill.md",
     "learning-linux/bash/bash-signals.md",
-    "bash/bash-info/$.md",
-    "bash/bash-commands/job-control/$!.md",
-    "bash/bash-commands/job-control/SIGTERM.md",
-    "learning-linux/bash/bash-signals 2.md",
-    "learning-linux/bash-signals 2.md",
-    "bash-signals 2.md",
-    "bash/bash-commands/job-control/bash-signals 2.md",
-    "bash/bash-commands/job-control/SIGINT.md",
-    "learning-linux/bash/append-output.md",
-    "learning-linux/bash/redirect-output.md",
-    "learning-linux/bash/redirect-input.md",
-    "learning-linux/bash/df.md",
-    "learning-linux/bash/ssh.md",
-    "learning-linux/bash/scp.md",
-    "learning-linux/bash/alias.md",
-    "learning-linux/vim/resources.md",
-    "learning-linux/vim/vim.md",
-    "git/git index.md",
+    "learning-linux/bash/bash-commands/terminal-multiplexers/screen.md",
+    "learning-linux/bash/bash-info/$.md",
+    "bpd/info/resources.md",
+    "learning-linux/bash/sed/sed.md",
+    "learning-linux/bash/bash-commands.md",
+    "learning-linux/bash/bash-info/{}.md",
+    "learning-linux/bash/bash-info/shebang.md",
+    "learning-linux/bash/bash-info/sh.md",
+    "learning-linux/bash/bash-info/root-user.md",
+    "learning-linux/bash/bash-info/option.md",
+    "learning-linux/bash/bash-info/logical-or.md",
+    "learning-linux/bash/bash-info/flag.md",
+    "learning-linux/bash/bash-info/error-codes.md",
+    "learning-linux/bash/bash-info/dir-perms.md",
+    "learning-linux/bash/bash-info/bash-info.md",
+    "learning-linux/bash/bash-info/;.md",
+    "learning-linux/bash/bash-info",
+    "learning-linux/bash/bash-commands/job-control/nohup.md",
+    "learning-linux/bash/bash-commands/job-control/kill.md",
+    "learning-linux/bash/bash-commands/job-control/jobs.md",
+    "learning-linux/bash/bash-commands/job-control/job-control.md",
+    "learning-linux/bash/bash-commands/job-control/fg.md",
+    "learning-linux/bash/bash-commands/job-control/disown.md",
+    "learning-linux/bash/bash-commands/job-control/bg.md",
+    "learning-linux/bash/bash-commands/job-control/bash-signals 2.md",
+    "learning-linux/bash/bash-commands/job-control/SIGTERM.md",
+    "learning-linux/bash/bash-commands/terminal-multiplexers",
+    "learning-linux/bash/bash-commands/job-control",
+    "learning-linux/bash/bash-commands/finding-files",
+    "learning-linux/bash/bash-commands",
+    "blender/General Shortcuts/Top Left Small Icon Image.png",
+    "blender/General Shortcuts",
+    "blender",
     "bash/bash-commands/terminal-multiplexers",
     "bash/bash-commands/finding-files",
-    "bash/bash-commands/job-control",
-    "bash/bash-commands",
-    "bash/bash-signals",
-    "bash/bash-info",
-    "bash",
-    "computer-science/general",
-    "Grabbing",
-    "learning-linux/regex/a"
+    "bash/bash-commands/job-control"
   ]
 }

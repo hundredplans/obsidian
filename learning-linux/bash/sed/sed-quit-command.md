@@ -1,0 +1,2 @@
+- Standalone q sed 's/foo/bar/; q' file.txt will quit sed after command is processed
+- sed 's/foo/bar/;5q' file.txt will quit sed after a specific line number

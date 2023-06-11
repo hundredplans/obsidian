@@ -1,0 +1,4 @@
+- Syntax is 'y/char/diff'
+- Changes every chracter in char into the corresponding character in diff
+- Must have equal characters between char and diff
+- \\ are not included as they are used to escape characters

@@ -1,0 +1,2 @@
+- Syntax is '/regexp/e' 
+- Uses pattern space as a shell command and replaces pattern space with the output of the shell command

@@ -10,17 +10,10 @@ N: [[sed-newline-command]]
 e: [[sed-execute-shell-command]]
 r: [[sed-append-file-command]]
 R: [[sed-append-file-and-process-command]]
-v: [[sed-check-version-command]]
-w: [[sed-write-to-file-command]]
-W: [[sed-write-range-to-file-command]]
-z: [[sed-clear-pattern-space-command]]
-g: [[sed-global-match-command]]
+v: [[sed-check-version]]
 
 # Labels
 T: [[sed-branch-if-failed-command]]
-t: [[sed-branch-if-success-command]]
-:: [[sed-specify-label-command]]
-b: [[sed-unconditional-branch-command]]
 
 # Line Manipulation
 a: [[sed-append-command]]

@@ -1,0 +1,4 @@
+- Syntax is l n
+- n is the wraplength, 0 means to never wrap lines, if omitted uses shell wrap length
+- Prints lines in an unambigious "C Style Format"
+- $ at the end of each line

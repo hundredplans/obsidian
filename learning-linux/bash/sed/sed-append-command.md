@@ -1,0 +1,4 @@
+- Syntax is '2 a\\Appended Line', note that whitespace between the address and a is required
+- Syntax can also be '/regex/ a\\ Appended Line'
+- If no address is specified sed will append after the end of each line
+- Append adds text to a new line under the current line

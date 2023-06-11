@@ -1,0 +1,2 @@
+- Replace hold space contents with pattern space contents
+- /regexp/x

@@ -1,0 +1,2 @@
+- Syntax is '/regexp/='
+- Prints out the line number above the current line

@@ -1,0 +1,2 @@
+- Syntax is '/regexp/ c\\Text'
+- Replaces text with specified text 

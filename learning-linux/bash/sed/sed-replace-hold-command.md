@@ -1,0 +1,2 @@
+- Replace contents of the pattern space with the hold space
+- '/regexp/g'

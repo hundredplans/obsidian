@@ -1,0 +1,2 @@
+- Appends a file to to the pattern space, similar to [[sed-append-file-command]] but appended lines are processed
+- Does not return an error if file name cannot be read, use /dev/stdin to read from STDIN

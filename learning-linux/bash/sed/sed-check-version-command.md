@@ -1,0 +1,3 @@
+- v valid-version-num
+- Standalone command, fails if GNU sed extensions are not supported and returns error
+- Enables GNU extensions even if they are disabled elsewhere
