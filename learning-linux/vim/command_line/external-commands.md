@@ -1,4 +1,4 @@
-:!(command) - Executes external command
+- :!(command) - Executes shell command
 - Can execute any external commands, even with arguments
 - :!ls - Works exactly like terminal ls
 - :!rm file_name - Also works obviously

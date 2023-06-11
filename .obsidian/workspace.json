@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2269b78026995a92",
+        "id": "d5939c71c1d92d52",
         "type": "tabs",
         "children": [
           {
-            "id": "d25804083fbc3f4f",
+            "id": "ffd4079a161a66b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41c63df6fb3b21e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/screen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de856e66f0e77dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa89cb2aef74a95a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/Modes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc2a6ef311acf539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/normal/Normal Mode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60a9e3fcbb26e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/normal/Editing Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de84be4a206bb143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/normal/Undoing in Normal Mode.md",
+                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/vim/normal/Undoing in Normal Mode.md",
+                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/vim/normal/Undoing in Normal Mode.md",
+                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/vim/normal/Undoing in Normal Mode.md"
+                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md"
               }
             }
           }
@@ -222,34 +150,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "de84be4a206bb143",
+  "active": "ffd4079a161a66b3",
   "lastOpenFiles": [
-    "learning-linux/vim/normal/Editing Commands.md",
-    "learning-linux/vim/normal/Normal Mode.md",
-    "learning-linux/vim/Modes.md",
-    "learning-linux/vim/vim.md",
-    "learning-linux/bash/bash-commands/terminal-multiplexers/screen.md",
     "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
-    "hint_screen_texture.md",
-    "learning-linux/bash/bash-commands/terminal-multiplexers/byobu.md",
-    "learning-linux/bash/bash-commands.md",
     "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
-    "Grabbing/Creating File Output.md",
-    "learning-linux/bash/bash-info/$.md",
-    "learning-linux/bash/bash-signals.md",
-    "bpd/info/resources.md",
-    "learning-linux/bash/sed/sed.md",
-    "learning-linux/bash/bash-info/{}.md",
-    "learning-linux/bash/bash-info/shebang.md",
-    "learning-linux/bash/bash-info/sh.md",
-    "learning-linux/bash/bash-info/root-user.md",
-    "learning-linux/bash/bash-info/option.md",
-    "learning-linux/bash/bash-info/logical-or.md",
-    "learning-linux/bash/bash-info/flag.md",
-    "learning-linux/bash/bash-info/error-codes.md",
-    "learning-linux/bash/bash-info/dir-perms.md",
-    "learning-linux/bash/bash-info/bash-info.md",
-    "learning-linux/bash/bash-info/;.md",
+    "learning-linux/vim/normal/normal-mode.md",
+    "learning-linux/vim/normal/vim-editing-commands.md",
+    "learning-linux/vim/normal/vim-changing-case.md",
+    "learning-linux/vim/normal/vim-repeating.md",
+    "learning-linux/vim/normal/vim-modifiers.md",
+    "learning-linux/vim/normal/vim-copy-paste.md",
+    "learning-linux/vim/normal/vim-undoing.md",
+    "learning-linux/vim/normal/vim-deleting-commands.md",
+    "learning-linux/vim/normal/vim-entering-insert-mode.md",
+    "learning-linux/vim/normal/movement-commands.md",
+    "learning-linux/vim/normal/vim-macros.md",
+    "learning-linux/vim/vim-index.md",
+    "learning-linux/vim/vim-modes.md",
+    "learning-linux/vim/normal/finder-navigation.md",
+    "learning-linux/vim/command_line/command-line-mode.md",
+    "learning-linux/vim/Opening Tabs/Buffers/tabs-windows-buffers-jumplist.md",
+    "learning-linux/vim/normal/screen-navigation.md",
+    "learning-linux/vim/jumplist.md",
+    "learning-linux/vim/Opening Tabs/Buffers/Vim Window.md",
+    "Vim tab.md",
+    "learning-linux/vim/normal/line-navigation.md",
+    "learning-linux/vim/normal/word-navigation.md",
+    "learning-linux/vim/normal/arrow-key-alternatives.md",
+    "learning-linux/vim/visual/visual-mode.md",
     "learning-linux/bash/bash-info",
     "learning-linux/bash/bash-commands/terminal-multiplexers",
     "learning-linux/bash/bash-commands/job-control",

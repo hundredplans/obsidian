@@ -1,7 +1,0 @@
-[[Entering Insert Mode]]
-[[Deleting in Normal Mode]]
-[[Undoing in Normal Mode]]
-[[Copy and Pasting in Normal Mode]]
-[[Repeating Commands in Normal Mode]]
-[[Modifiers in Normal Mode]]
-[[Changing Case in Normal Mode]]

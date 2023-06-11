@@ -1,0 +1,5 @@
+[[arrow-key-alternatives]]
+[[word-navigation]]
+[[line-navigation]]
+[[screen-navigation]]
+[[finder-navigation]]

@@ -26,7 +26,7 @@
 [[scp]]
 
 # Running & Opening Files
-[[vim]]
+[[vim-index]]
 [[source]]
 [[running-functions]]
 [[executing-files]]

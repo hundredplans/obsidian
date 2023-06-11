@@ -8,3 +8,4 @@
 
 # Resources
 - [computer-hope](https://www.computerhope.com/unix/used.htm)
+- [sample-scripts-computer-hope](https://www.computerhope.com/unix/used.htm#samples)

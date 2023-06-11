@@ -62,10 +62,6 @@
 # Other Shortcuts
 - Ctrl D / exit-> Closes not detache current pane/window/session
 
-### Scroll Mode
-- SPACE scrolls down
-- ENTER exits scroll mode if you haven't performed any scrolling yet otherwise it will bring you to where you started scroll mode
-
 # Resources
 https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
 https://www.computerhope.com/jargon/t/tmux.htm

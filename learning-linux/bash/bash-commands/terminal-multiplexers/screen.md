@@ -7,6 +7,7 @@
 - screen -d -r -> Detach a screen session from the previous terminl and reattach to current
 - screen -D -R -> Do what -d -r does then log off thte previous terminal and attach to the new terminal
 - screen -r pid -> Reattach to pid session
+- exit -> Kills session
 
 # Ctrl-A Commands
 - c -> Creates new window
@@ -29,6 +30,7 @@
 - Q -> Remove all panes except the current
 - X -> Remove the current pane
 - d -> Detach from current session
+- : -> Open command line
 
 # Resources
 https://www.computerhope.com/unix/screen.htm

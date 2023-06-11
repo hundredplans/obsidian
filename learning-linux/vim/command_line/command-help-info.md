@@ -1,0 +1,2 @@
+- Type any amount of characters then Ctrl-D to see the possible commands that start with those characters
+- :edit Ctrl-D -> Let's you scroll through possible files to edit using tab
