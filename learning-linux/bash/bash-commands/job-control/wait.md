@@ -1,0 +1,2 @@
+- Syntax is wait pid
+- Can do wait $(pgrep -n "sleep") to wait for the most recent sleep command

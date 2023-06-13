@@ -22,10 +22,10 @@
 [[sleep]]
 [[alias]]
 [[ln]]
-[[ssh]]
 [[scp]]
 [[chsh]]
 [[rsync]]
+[[chezmoi]]
 
 # Running & Opening Files
 [[vim-index]]

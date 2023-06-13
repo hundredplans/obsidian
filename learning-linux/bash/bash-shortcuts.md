@@ -1,2 +1,3 @@
 - Ctrl-L -> Same as [[clear]]
 - Ctrl-R -> Fuzzy finder for last command
+- Ctrl-U -> Clears everything typed in line
