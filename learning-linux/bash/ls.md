@@ -14,4 +14,5 @@
  
 - -a -> Doesn't ignore files that start with .
 - -R -> Searches recursively through dir
-- -h -> Human-readable format, run automatically
+- -h -> Human-readable format, run automatically, when used in conjuction with ls displays file size in kilobytes
+- -A -> Only ignore . and .. files

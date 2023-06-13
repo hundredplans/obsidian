@@ -1,0 +1,2 @@
+- Changes the user login shell
+- -s SHELL_NAME -> Specify new login shell e.g. $(which bash/zsh) if blank will select the default login shell

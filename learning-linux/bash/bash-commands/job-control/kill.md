@@ -6,3 +6,4 @@
 - -STOP -> Sends [[SIGSTOP]]
 - -KILL -> Sends [[SIGKILL]]
 - -HUP -> Sends [[SIGHUP]]
+- -0 -> Does not send a signal but gives a nonzero exit status if process does not exist

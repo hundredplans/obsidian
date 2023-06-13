@@ -24,6 +24,8 @@
 [[ln]]
 [[ssh]]
 [[scp]]
+[[chsh]]
+[[rsync]]
 
 # Running & Opening Files
 [[vim-index]]
@@ -48,6 +50,7 @@
 [[upower]]
 [[stat]]
 [[df]]
+[[ps]]
 
 # Terminal Help
 [[clear]]

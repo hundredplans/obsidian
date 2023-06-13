@@ -1,0 +1,2 @@
+- 'oh-my-zsh'
+- chsh -s $(which zsh) -> Changes shell

@@ -7,3 +7,6 @@
 [[kill]]
 [[$!]]
 [[disown]]
+[[pgrep]]
+[[pkill]]
+[[wait]]

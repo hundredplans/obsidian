@@ -1,5 +1,5 @@
 [[bash-commands]]
 [[bash-info]]
 [[bash-shortcuts]]
-[[bash-environment-variables]]
+[[zsh-specific]]
 #index 

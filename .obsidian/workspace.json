@@ -8,18 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffd4079a161a66b3",
+            "id": "98fde45af431688a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
+                "file": "learning-linux/bash/grep/grep-options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63fc411c38e57246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/bash-commands/job-control/job-control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdbe7c98310e45a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/bash-commands/job-control/kill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db3f63c38e13ef98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/bash-commands/job-control/wait.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eacdb9d297c66c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/regex/regex-patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9f2bbed2ee185f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/sed/sed-syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c97c97dfea37b912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/ls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6d6e6db17e28b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/running-functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -48,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "word boun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +150,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -87,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
+                "file": "learning-linux/bash/running-functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
+                "file": "learning-linux/bash/running-functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md"
+                "file": "learning-linux/bash/running-functions.md"
               }
             }
           }
@@ -150,34 +233,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ffd4079a161a66b3",
+  "active": "e6d6e6db17e28b03",
   "lastOpenFiles": [
-    "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
+    "learning-linux/bash/bash-info/$.md",
+    "learning-linux/bash/running-functions.md",
+    "learning-linux/bash/ls.md",
+    "learning-linux/bash/sed/sed-syntax.md",
+    "learning-linux/bash/sed/sed-mega-print-command.md",
+    "learning-linux/bash/sed/sed-options.md",
+    "learning-linux/regex/regex-patterns.md",
+    "learning-linux/bash/bash-commands/job-control/kill.md",
+    "learning-linux/bash/bash-commands/job-control/job-control.md",
+    "learning-linux/bash/grep/grep-options.md",
+    "learning-linux/bash/bash-commands/job-control/wait.md",
+    "learning-linux/bash/bash-commands/job-control/pgrep.md",
+    "learning-linux/bash/bash-commands/job-control/jobc.md",
+    "learning-linux/bash/bash-commands/job-control/fg.md",
+    "learning-linux/bash/bash-commands/job-control/&.md",
+    "learning-linux/bash/bash-commands/job-control/bg.md",
+    "learning-linux/bash/xargs.md",
     "learning-linux/bash/bash-commands/terminal-multiplexers/terminal-multiplexers.md",
-    "learning-linux/vim/normal/normal-mode.md",
-    "learning-linux/vim/normal/vim-editing-commands.md",
-    "learning-linux/vim/normal/vim-changing-case.md",
-    "learning-linux/vim/normal/vim-repeating.md",
-    "learning-linux/vim/normal/vim-modifiers.md",
-    "learning-linux/vim/normal/vim-copy-paste.md",
-    "learning-linux/vim/normal/vim-undoing.md",
-    "learning-linux/vim/normal/vim-deleting-commands.md",
-    "learning-linux/vim/normal/vim-entering-insert-mode.md",
-    "learning-linux/vim/normal/movement-commands.md",
-    "learning-linux/vim/normal/vim-macros.md",
-    "learning-linux/vim/vim-index.md",
-    "learning-linux/vim/vim-modes.md",
-    "learning-linux/vim/normal/finder-navigation.md",
-    "learning-linux/vim/command_line/command-line-mode.md",
-    "learning-linux/vim/Opening Tabs/Buffers/tabs-windows-buffers-jumplist.md",
-    "learning-linux/vim/normal/screen-navigation.md",
-    "learning-linux/vim/jumplist.md",
-    "learning-linux/vim/Opening Tabs/Buffers/Vim Window.md",
-    "Vim tab.md",
-    "learning-linux/vim/normal/line-navigation.md",
-    "learning-linux/vim/normal/word-navigation.md",
-    "learning-linux/vim/normal/arrow-key-alternatives.md",
-    "learning-linux/vim/visual/visual-mode.md",
+    "learning-linux/bash/bash-info/bash-info.md",
+    "learning-linux/bash/sed/sed-print-command.md",
+    "learning-linux/bash/grep/grep.md",
+    "learning-linux/bash/ssh.md",
+    "learning-linux/bash/bash-commands.md",
+    "learning-linux/bash/bash-commands/job-control/pkill.md",
+    "learning-linux/bash/rsync.md",
+    "learning-linux/bash/ps.md",
     "learning-linux/bash/bash-info",
     "learning-linux/bash/bash-commands/terminal-multiplexers",
     "learning-linux/bash/bash-commands/job-control",

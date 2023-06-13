@@ -1,1 +1,1 @@
-- Run specific process e.g. bg %1 runs pid 1
+- Run specific process e.g. bg %1 runs pid 1 in background

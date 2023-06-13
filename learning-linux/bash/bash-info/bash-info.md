@@ -1,3 +1,5 @@
+[[shell-startup-scripts]]
+[[bash-environment-variables]]
 [[flag]]
 [[option]]
 [[dir-perms]]

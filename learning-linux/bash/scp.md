@@ -1,1 +1,2 @@
-- stands for ssh cp
+- stands for ssh cp, allows to make secure copies
+- Is used for large data sets

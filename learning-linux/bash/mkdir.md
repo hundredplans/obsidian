@@ -2,4 +2,4 @@
 - mkdir dir/dir2/dir-name
 
 # Options
-- -p -> Doesn't return error if dir exists
+- -p -> Doesn't return error if dir exists and creates parent directories if necessary

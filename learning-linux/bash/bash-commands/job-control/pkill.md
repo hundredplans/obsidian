@@ -1,0 +1,1 @@
+- Like [[pgrep]] but kills the found process
