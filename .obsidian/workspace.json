@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5939c71c1d92d52",
+        "id": "2269b78026995a92",
         "type": "tabs",
         "children": [
           {
-            "id": "98fde45af431688a",
+            "id": "57897a337332afcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/grep/grep-options.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c1aff3f636aafb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "647d933c156c442b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/bash-shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21ef28e33cb10ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/ssh/ssh-index.md",
+                "file": "fof/screens/deck-manager.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -122,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/bash-shortcuts.md",
+                "file": "fof/screens/deck-manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/bash-shortcuts.md",
+                "file": "fof/screens/deck-manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/bash-shortcuts.md"
+                "file": "fof/screens/deck-manager.md"
               }
             }
           }
@@ -185,43 +150,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "647d933c156c442b",
+  "active": "57897a337332afcb",
   "lastOpenFiles": [
-    "learning-linux/bash/shell-index.md",
-    "learning-linux/bash/bash-commands.md",
-    "learning-linux/ssh/ssh-index.md",
-    "learning-linux/bash/bash-shortcuts.md",
-    "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
-    "learning-linux/bash/chezmoi.md",
-    "learning-linux/ssh",
-    "learning-linux/bash/grep/grep-options.md",
-    "learning-linux/bash/bash-signals.md",
-    "learning-linux/bash/bash-info/$.md",
-    "learning-linux/bash/running-functions.md",
-    "learning-linux/bash/bash-commands/job-control/wait.md",
-    "learning-linux/bash/zsh-specific.md",
-    "learning-linux/bash/bash-commands/job-control/job-control.md",
-    "learning-linux/bash/bash-commands/job-control/kill.md",
-    "learning-linux/bash/sed/sed-syntax.md",
-    "learning-linux/regex/regex-patterns.md",
-    "learning-linux/bash/ls.md",
+    "fof/screens/deck-manager.md",
+    "learning-linux/vim/visual/visual-mode.md",
+    "learning-linux/vim/vim-plugins.md",
+    "learning-linux/vim/vim-modes.md",
+    "learning-linux/vim/vim-index.md",
+    "learning-linux/vim/normal/word-navigation.md",
+    "learning-linux/vim/normal/vim-undoing.md",
+    "learning-linux/vim/normal/vim-repeating.md",
+    "learning-linux/vim/normal/vim-modifiers.md",
+    "learning-linux/vim/normal/vim-macros.md",
+    "learning-linux/vim/normal/vim-entering-insert-mode.md",
+    "learning-linux/vim/normal/vim-editing-commands.md",
+    "learning-linux/vim/normal/vim-deleting-commands.md",
+    "learning-linux/vim/normal/vim-copy-paste.md",
+    "learning-linux/vim/normal/vim-changing-case.md",
+    "learning-linux/vim/normal/screen-navigation.md",
+    "learning-linux/vim/normal/normal-mode.md",
+    "learning-linux/vim/normal/movement-commands.md",
+    "learning-linux/vim/normal/line-navigation.md",
+    "learning-linux/bash/sed/sed-quit-command.md",
+    "learning-linux/bash/sed/sed-print-line-number-command.md",
+    "learning-linux/bash/sed/sed-print-file-name-command.md",
+    "learning-linux/bash/sed/sed-print-command.md",
+    "learning-linux/bash/sed/sed-newline-command.md",
     "learning-linux/bash/sed/sed-mega-print-command.md",
-    "learning-linux/bash/sed/sed-options.md",
-    "learning-linux/bash/bash-commands/job-control/pgrep.md",
-    "learning-linux/bash/bash-commands/job-control/jobc.md",
-    "learning-linux/bash/bash-commands/job-control/fg.md",
-    "learning-linux/bash/bash-commands/job-control/&.md",
-    "learning-linux/bash/bash-commands/job-control/bg.md",
-    "learning-linux/bash/xargs.md",
+    "learning-linux/bash/sed/sed-mega-delete-command.md",
     "learning-linux/bash/bash-info",
-    "learning-linux/bash/bash-commands/terminal-multiplexers",
-    "learning-linux/bash/bash-commands/job-control",
     "learning-linux/bash/bash-commands/finding-files",
+    "learning-linux/bash/bash-commands/job-control",
+    "learning-linux/bash/bash-commands/terminal-multiplexers",
     "learning-linux/bash/bash-commands",
-    "blender/General Shortcuts/Top Left Small Icon Image.png",
-    "blender/General Shortcuts",
-    "blender",
     "bash/bash-commands/terminal-multiplexers",
-    "bash/bash-commands/finding-files"
+    "bash/bash-commands/finding-files",
+    "bash/bash-commands/job-control",
+    "bash/bash-commands",
+    "bash/bash-signals"
   ]
 }

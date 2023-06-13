@@ -12,13 +12,14 @@
 - When you only have one deck a button appear underneath it saying "Create Deck" and the other buttons don't appear
 - 4 Max Decks per hero
 - You can place up to 99 cards in your deck at once, you can save but not use it
+
 ## Card Inserter Area
 - 10 or 8 per page, seperated by pages, change page with small arrow that is either inside or outside menu
 ### Loaned Cards
 - Last card selected is always the loaned card
 - Can't be traded up
-### Creating Decks
-- 
+## Creating Decks
+- Prompt you to name it
 ## Hero Shenanigans
 - Small hero portraits appear above current decks
 - When you click on the hero you have currently selected it shows you every card that you own from every hero (setting to see unowned, scraps)
@@ -97,12 +98,30 @@
 
 
 ## Right-Clicking Cards
-- Blurbs
-- Shows loan expiry date and loan game amount
+- Abilities on right of card, programatically ordered, hover on ability to display small simulation, if an ability has a video it will display it
+- Card upscaled
+- Background greyed out
+- Weather cards display Huchi effect in ability text
+- Model on left, spells is a video of the card being played (programatically)
+- When you hover a card name on the card text, it will display the card (or the card text) on the left of the ability text
+- Underneath (white text on black background) or customized box to the hero clan (if hard to see we swap to white text ^)
+- If you have multiple skins, an arrow appears to cycle through skins
+- Loaned cards, have blue outline, text above card that says how many games/time left
+	e.g. Loan remaining 5d/5g/5h or 5 days / 5 games / 5 hours
+- Trade up button takes you to trade up screen for that card
+
 ## Left-Clicking Cards
-- Draggable
+- Dragged on your cursor
+- If your cursor stays inside card border when click is released, added to your deck
+- Otherwise begins dragging, if you release drag not on the deck area (where in-decks are, go back to card inserter area)
+- Shift-Left-Click -> Add all
+- Lock graphic when out of cards
+## 
 
 ## Current Deck Selected
+- Shift-Left-Click -> Remove all
+- Hovering displays full card
+- Design later
 # Trade Up Screen
 ## Trade Tokens
 - Trade-Up tokens (have a specific clan and rarity)
@@ -130,7 +149,5 @@
 
 # Features
 - Specialized deck file that allows editing via text editors, listed by name
-- Loaned cards somehow displayed
 - Default cards can't be removed
-- When you press on a card it displays extra-information / model of card
 - When card is used add fancy stuff not grey-out?
