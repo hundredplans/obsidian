@@ -14,6 +14,12 @@
 - -i -> Look for keys in identity file, rather than ssh-add or default id folder
 ## ssh-agent
 - Used to store private keys
+- Can be started manually with eval 'ssh-agent' or eval $(ssh-agent)
+- echo $SSH_AGENT_SOCK can check whether ssh-agent is running
+## ssh-add
+- Adds private keys to auth agent
+### Options
+- -l -> Gives list of currently added private keys
 ## scp
 - Used to copy large amounts of data between hosts
 - scp LOCAL_FILE_PATH host_name:REMOTE_FILE_PATH, copies local file to remote file

@@ -1,1 +1,2 @@
 - PS1=">" -> Changes prompt to >
+- SSH_AGENT_SOCK -> Returns whether ssh_agent is running

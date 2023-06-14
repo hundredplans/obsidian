@@ -1,0 +1,2 @@
+- sudo umount local_file 
+- Unmounts a local file from remote machines

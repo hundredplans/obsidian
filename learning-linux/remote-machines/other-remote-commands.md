@@ -1,3 +1,4 @@
 [[ping]]
 [[mosh]]
 [[sshfs]]
+[[umount]]

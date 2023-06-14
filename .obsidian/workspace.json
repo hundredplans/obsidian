@@ -56,19 +56,67 @@
             }
           },
           {
-            "id": "669449f83e2b06ce",
+            "id": "200ce5d602e7e6ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/remote-machines/vboxmanage.md",
+                "file": "learning-linux/remote-machines/sshfs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe062d375bf9e69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/remote-machines/umount.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "543d5f150839fb8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/grep/grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aa2163bfc3856bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/grep/grep-options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b9c0b1ea535f531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -97,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sshd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/remote-machines/vboxmanage.md",
+                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/remote-machines/vboxmanage.md",
+                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/remote-machines/vboxmanage.md"
+                "file": "learning-linux/remote-machines/ssh/ssh-commands.md"
               }
             }
           }
@@ -197,13 +246,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "669449f83e2b06ce",
+  "active": "14458da3d74de045",
   "lastOpenFiles": [
+    "learning-linux/bash/grep/grep-options.md",
+    "learning-linux/bash/bash-environment-variables.md",
+    "learning-linux/bash/bash-info/$.md",
+    "learning-linux/bash/grep/grep.md",
+    "learning-linux/remote-machines/umount.md",
+    "learning-linux/remote-machines/sshfs.md",
+    "learning-linux/remote-machines/other-remote-commands.md",
     "learning-linux/remote-machines/ssh/ssh-commands.md",
     "learning-linux/remote-machines/remote-machine-index.md",
+    "learning-linux/vim/normal/screen-navigation.md",
+    "learning-linux/remote-machines/vboxmanage.md",
     "learning-linux/remote-machines/ssh/port.md",
-    "learning-linux/remote-machines/other-remote-commands.md",
-    "learning-linux/remote-machines/sshfs.md",
     "learning-linux/remote-machines/mosh.md",
     "learning-linux/remote-machines/ssh/ssh-index.md",
     "learning-linux/bash/bash-commands.md",
@@ -211,9 +267,7 @@
     "learning-linux/bash/chsh.md",
     "learning-linux/bash/scp.md",
     "learning-linux/bash/shell-index.md",
-    "learning-linux/vim/normal/screen-navigation.md",
     "learning-linux/remote-machines/ping.md",
-    "learning-linux/remote-machines/vboxmanage.md",
     "fof/screens/deck-manager.md",
     "learning-linux/remote-machines/virtualbox.md",
     "vainglory/Roles.md",
@@ -221,11 +275,6 @@
     "learning-linux/remote-machines",
     "learning-linux/bash/bash-info/bash-info.md",
     "learning-linux/bash/ip address.md",
-    "learning-linux/bash/bash-environment-variables.md",
-    "learning-linux/bash/bash-info/shell-startup-scripts.md",
-    "learning-linux/bash/reboot.md",
-    "learning-linux/bash/halt.md",
-    "learning-linux/bash/poweroff.md",
     "learning-linux/bash/bash-info",
     "learning-linux/bash/bash-commands/finding-files",
     "learning-linux/bash/bash-commands/job-control",
