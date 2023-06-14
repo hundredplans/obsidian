@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2269b78026995a92",
+        "id": "bc21b2b8f95b8f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "2a66bb8e20dded48",
+            "id": "f0ff3e6397fab9d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bf5906822778c61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/vim/normal/screen-navigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e866c7edebd2c27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/remote-machines/remote-machine-index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15369e56d019c6a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "200ce5d602e7e6ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/remote-machines/sshfs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe062d375bf9e69d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/remote-machines/umount.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "543d5f150839fb8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/grep/grep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aa2163bfc3856bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/grep/grep-options.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b9c0b1ea535f531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
+                "file": "fof/screens/deck-manager.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
+                "file": "fof/screens/deck-manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
+                "file": "fof/screens/deck-manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/remote-machines/ssh/ssh-commands.md"
+                "file": "fof/screens/deck-manager.md"
               }
             }
           }
@@ -246,18 +149,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "14458da3d74de045",
+  "active": "f0ff3e6397fab9d8",
   "lastOpenFiles": [
+    "fof/screens/deck-manager.md",
+    "learning-linux/remote-machines/ssh/ssh-commands.md",
+    "learning-linux/vim/normal/screen-navigation.md",
+    "learning-linux/remote-machines/remote-machine-index.md",
+    "learning-linux/remote-machines/sshfs.md",
+    "learning-linux/remote-machines/umount.md",
+    "learning-linux/bash/grep/grep.md",
     "learning-linux/bash/grep/grep-options.md",
     "learning-linux/bash/bash-environment-variables.md",
     "learning-linux/bash/bash-info/$.md",
-    "learning-linux/bash/grep/grep.md",
-    "learning-linux/remote-machines/umount.md",
-    "learning-linux/remote-machines/sshfs.md",
     "learning-linux/remote-machines/other-remote-commands.md",
-    "learning-linux/remote-machines/ssh/ssh-commands.md",
-    "learning-linux/remote-machines/remote-machine-index.md",
-    "learning-linux/vim/normal/screen-navigation.md",
     "learning-linux/remote-machines/vboxmanage.md",
     "learning-linux/remote-machines/ssh/port.md",
     "learning-linux/remote-machines/mosh.md",
@@ -268,7 +172,6 @@
     "learning-linux/bash/scp.md",
     "learning-linux/bash/shell-index.md",
     "learning-linux/remote-machines/ping.md",
-    "fof/screens/deck-manager.md",
     "learning-linux/remote-machines/virtualbox.md",
     "vainglory/Roles.md",
     "learning-linux/resources.md",

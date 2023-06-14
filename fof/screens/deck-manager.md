@@ -116,20 +116,37 @@
 - Otherwise begins dragging, if you release drag not on the deck area (where in-decks are, go back to card inserter area)
 - Shift-Left-Click -> Add all
 - Lock graphic when out of cards
-## 
 
 ## Current Deck Selected
 - Shift-Left-Click -> Remove all
 - Hovering displays full card
 - Design later
-# Trade Up Screen
-## Trade Tokens
-- Trade-Up tokens (have a specific clan and rarity)
-- Excess cards become trade-up tokens with the clan and rarity of the card
-- You can recycle any card
-- You can't recycle starter deck cards
-- Trade-Up cards can't be excess
 
+# Trade Up Screen
+## Info
+- You can combine your cards to get rewards, which are typically cards of higher rarity. There are three different types of trade-ups. **Regular**, **Random**, **Legendary**. In Regular Trade-Ups you obtain a card of your choice. In Random Trade-Ups you can't choose the card you obtain but it costs less cards to craft. Legendary Trade-Ups are used exclusively to recycle your extra legendaries. (Trade-Ups calculate the clan of the card based on the clans of the cards provided, Trade Tokens count towards all clans)
+- Trade Tokens are used in place of regular cards. There are four types that correspond with the in-game rarities \[Common, Rare, Epic, Legendary]. To obtain Trade Tokens you can convert excess cards directly or obtain them as rewards.
+- Click info top right
+
+## Screen
+- Trade-Up Tokens bottom right, each have an icon for the rarity and the amount is specified
+- Rarity Color things top left above trade-up menu, does not lock the cards
+- When you place a card or token locks into specific rarity and displays info for that trade-up
+- If you do a Common, Rare or Epic Trade-Up you click the token/card and it changes from info to displaying it inside the window
+- An amount is displayed if you select a trade-up, you can't trade-up if you have too many cards it gives you a prompt to remove cards
+- You can select Random or Regular trade-up underneath the window
+- Common has a tab for Common or Rare trade-ups then Random or Regular like above
+- Remove cards from the window by clicking on them (or trade tokens)
+- Legendary Trade-Ups show the rewards as three seperate buttons, displays name at top of button and rewards in smaller font underneath
+- Convert Excess Cards button bottom right, when pressed a box shows up in the middle that asks for confirmation and lets you choose if to convert
+- Box inside convert excess cards screen, shows what rarity it is and how much you are recycling, checkmark to recycle legendaries (auto-on), click Recycle to accept or X to opt out
+- Cards that can't be recycled (loans, starter cards, scraps) can't be recycled
+- First rolls the clan, then the rarity, then the card
+- If you don't have cards selected it shows the buttons for each rarity
+- Go Button to accept trade-up
+- When Go Button is selected it shows the card/cards/tokens gotten with a You Just Got
+
+## Trade Tokens
 **Regular Trade-Up**
 - 3 Commons -> 1 Common
 - 4 Commons -> 1 Rare
@@ -149,5 +166,3 @@
 
 # Features
 - Specialized deck file that allows editing via text editors, listed by name
-- Default cards can't be removed
-- When card is used add fancy stuff not grey-out?
