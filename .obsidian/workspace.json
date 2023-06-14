@@ -8,18 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57897a337332afcb",
+            "id": "2a66bb8e20dded48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf5906822778c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/vim/normal/screen-navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e866c7edebd2c27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/remote-machines/remote-machine-index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15369e56d019c6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "669449f83e2b06ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/remote-machines/vboxmanage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -65,13 +114,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -87,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/remote-machines/vboxmanage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fof/screens/deck-manager.md",
+                "file": "learning-linux/remote-machines/vboxmanage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fof/screens/deck-manager.md"
+                "file": "learning-linux/remote-machines/vboxmanage.md"
               }
             }
           }
@@ -150,34 +197,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "57897a337332afcb",
+  "active": "669449f83e2b06ce",
   "lastOpenFiles": [
-    "fof/screens/deck-manager.md",
-    "learning-linux/vim/visual/visual-mode.md",
-    "learning-linux/vim/vim-plugins.md",
-    "learning-linux/vim/vim-modes.md",
-    "learning-linux/vim/vim-index.md",
-    "learning-linux/vim/normal/word-navigation.md",
-    "learning-linux/vim/normal/vim-undoing.md",
-    "learning-linux/vim/normal/vim-repeating.md",
-    "learning-linux/vim/normal/vim-modifiers.md",
-    "learning-linux/vim/normal/vim-macros.md",
-    "learning-linux/vim/normal/vim-entering-insert-mode.md",
-    "learning-linux/vim/normal/vim-editing-commands.md",
-    "learning-linux/vim/normal/vim-deleting-commands.md",
-    "learning-linux/vim/normal/vim-copy-paste.md",
-    "learning-linux/vim/normal/vim-changing-case.md",
+    "learning-linux/remote-machines/ssh/ssh-commands.md",
+    "learning-linux/remote-machines/remote-machine-index.md",
+    "learning-linux/remote-machines/ssh/port.md",
+    "learning-linux/remote-machines/other-remote-commands.md",
+    "learning-linux/remote-machines/sshfs.md",
+    "learning-linux/remote-machines/mosh.md",
+    "learning-linux/remote-machines/ssh/ssh-index.md",
+    "learning-linux/bash/bash-commands.md",
+    "learning-linux/bash/rsync.md",
+    "learning-linux/bash/chsh.md",
+    "learning-linux/bash/scp.md",
+    "learning-linux/bash/shell-index.md",
     "learning-linux/vim/normal/screen-navigation.md",
-    "learning-linux/vim/normal/normal-mode.md",
-    "learning-linux/vim/normal/movement-commands.md",
-    "learning-linux/vim/normal/line-navigation.md",
-    "learning-linux/bash/sed/sed-quit-command.md",
-    "learning-linux/bash/sed/sed-print-line-number-command.md",
-    "learning-linux/bash/sed/sed-print-file-name-command.md",
-    "learning-linux/bash/sed/sed-print-command.md",
-    "learning-linux/bash/sed/sed-newline-command.md",
-    "learning-linux/bash/sed/sed-mega-print-command.md",
-    "learning-linux/bash/sed/sed-mega-delete-command.md",
+    "learning-linux/remote-machines/ping.md",
+    "learning-linux/remote-machines/vboxmanage.md",
+    "fof/screens/deck-manager.md",
+    "learning-linux/remote-machines/virtualbox.md",
+    "vainglory/Roles.md",
+    "learning-linux/resources.md",
+    "learning-linux/remote-machines",
+    "learning-linux/bash/bash-info/bash-info.md",
+    "learning-linux/bash/ip address.md",
+    "learning-linux/bash/bash-environment-variables.md",
+    "learning-linux/bash/bash-info/shell-startup-scripts.md",
+    "learning-linux/bash/reboot.md",
+    "learning-linux/bash/halt.md",
+    "learning-linux/bash/poweroff.md",
     "learning-linux/bash/bash-info",
     "learning-linux/bash/bash-commands/finding-files",
     "learning-linux/bash/bash-commands/job-control",
@@ -186,7 +234,6 @@
     "bash/bash-commands/terminal-multiplexers",
     "bash/bash-commands/finding-files",
     "bash/bash-commands/job-control",
-    "bash/bash-commands",
-    "bash/bash-signals"
+    "bash/bash-commands"
   ]
 }

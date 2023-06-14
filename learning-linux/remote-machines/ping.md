@@ -1,0 +1,2 @@
+- ping IP
+- Sends data to specified IP

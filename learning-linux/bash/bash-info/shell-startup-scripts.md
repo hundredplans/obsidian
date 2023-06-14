@@ -5,5 +5,5 @@
 ## login
 - Setting and modifying env variables
 ## interactive
-- alias/terminal specific env variables (GREP_COLOr)
+- alias/terminal specific env variables (GREP_COLOR)
 ## logout

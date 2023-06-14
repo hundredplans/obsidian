@@ -1,0 +1,1 @@
+- Alternative to ssh, used to allow changing wi-fi while connected among other benefits I can't utilize very well

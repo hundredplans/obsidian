@@ -22,10 +22,12 @@
 [[sleep]]
 [[alias]]
 [[ln]]
-[[scp]]
 [[chsh]]
-[[rsync]]
 [[chezmoi]]
+
+[[poweroff]]
+[[halt]]
+[[reboot]]
 
 # Running & Opening Files
 [[vim-index]]
@@ -51,6 +53,7 @@
 [[stat]]
 [[df]]
 [[ps]]
+[[ip address]]
 
 # Terminal Help
 [[clear]]

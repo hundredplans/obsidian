@@ -1,0 +1,3 @@
+[[ping]]
+[[mosh]]
+[[sshfs]]

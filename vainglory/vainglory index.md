@@ -2,11 +2,16 @@
 - [[Roles]]
 
 # Classes
-- [[Trickster]]
+## Fighters
 - [[Windlord]]
 - [[Stone-King]]
+- [[Shadow]]
+## Supports
 - [[Techie]]
+## Rangers
 - [[Bounty-Hunter]]
+## Specialists
+- [[Trickster]]
 
 [[Random Notes]]
 
