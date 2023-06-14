@@ -1,0 +1,1 @@
+- Command used to start/stop/reboot system services (scripts that run in the background and can't run in the foreground)

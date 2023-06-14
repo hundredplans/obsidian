@@ -24,6 +24,7 @@
 [[ln]]
 [[chsh]]
 [[chezmoi]]
+[[service]]
 
 [[poweroff]]
 [[halt]]
@@ -57,3 +58,6 @@
 
 # Terminal Help
 [[clear]]
+
+# Programming Languages
+- [[python3]]

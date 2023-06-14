@@ -1,0 +1,2 @@
+- Use (python3 -m http.server ANY_PORT) on remote machine
+- Write \http://IP_ADDRESS:ANY_PORT in website search bar
