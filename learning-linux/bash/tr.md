@@ -1,0 +1,1 @@
+- Used to translate or delete characters

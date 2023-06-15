@@ -2,7 +2,6 @@
 - -v foo=bar -> Allows to assign variables before program execution
 - -F fs -> Specify which delimiter (field seperator) to use
 
-
 - --dump-variables FILE -> Print all global variables and their values to FILE, default file if not provided is awkvars.out
 - --help -> Gets help
 - --version/-V -> Diplays version

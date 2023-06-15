@@ -30,6 +30,8 @@
 [[halt]]
 [[reboot]]
 
+[[tr]]
+
 # Running & Opening Files
 [[vim-index]]
 [[source]]

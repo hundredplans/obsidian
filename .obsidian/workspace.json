@@ -54,9 +54,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05ff71bf6dd2ed24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/bash-commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "service",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/awk/awk-commands.md",
+                "file": "learning-linux/bash/awk/awk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/awk/awk-commands.md"
+                "file": "learning-linux/bash/awk/awk.md"
               }
             }
           },
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/awk/awk-commands.md",
+                "file": "learning-linux/bash/awk/awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,16 +199,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7785b46252859185",
+  "active": "362cc992d20a0778",
   "lastOpenFiles": [
+    "learning-linux/bash/awk/awk-structure.md",
     "learning-linux/bash/awk/awk-options.md",
     "learning-linux/bash/awk/awk-commands.md",
-    "learning-linux/bash/awk/awk-structure.md",
+    "learning-linux/bash/bash-commands.md",
+    "learning-linux/bash/tr.md",
     "learning-linux/bash/awk/awk.md",
+    "learning-linux/bash/awk/procinfo-info.md",
     "learning-linux/bash/cat.md",
     "learning-linux/remote-machines/ssh/ssh-commands.md",
     "learning-linux/bash/shell-index.md",
-    "learning-linux/bash/bash-commands.md",
     "learning-linux/bash/env.md",
     "learning-linux/regex/regex-patterns.md",
     "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
@@ -214,8 +228,6 @@
     "learning-linux/bash/which.md",
     "learning-linux/remote-machines/ssh/port.md",
     "learning-linux/bash/path-directory-stuff.md",
-    "learning-linux/bash/pwd.md",
-    "obsidian/info/resources.md",
     "obsidian/Untitled",
     "learning-linux/bash/firewall",
     "learning-linux/remote-machines",
