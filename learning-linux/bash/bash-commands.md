@@ -55,6 +55,7 @@
 [[df]]
 [[ps]]
 [[ip address]]
+[[env]]
 
 # Terminal Help
 [[clear]]

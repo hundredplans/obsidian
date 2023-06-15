@@ -1,0 +1,1 @@
+- Returns line seperated environment variables

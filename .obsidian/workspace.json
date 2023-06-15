@@ -8,79 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd80474f39ea51e6",
+            "id": "362cc992d20a0778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/remote-machines/ssh/ssh-commands.md",
+                "file": "learning-linux/bash/awk/awk.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "279f53b7cce30b5b",
+            "id": "26dd908f29bbef38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/shell-index.md",
+                "file": "learning-linux/bash/awk/awk-structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e9711483373d6f76",
+            "id": "93bbb4a5e6d05a4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/firewall/firewall-specific.md",
+                "file": "learning-linux/bash/awk/awk-options.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5792f07454657b3b",
+            "id": "7785b46252859185",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/bash/firewall/iptables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eea60ed37ea9710b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/firewall/iptables-save.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0abe604518c9702e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/sudo.md",
+                "file": "learning-linux/bash/awk/awk-commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/firewall/iptables-save.md",
+                "file": "learning-linux/bash/awk/awk-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,15 +146,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/firewall/iptables-save.md"
+                "file": "learning-linux/bash/awk/awk-commands.md"
+              }
+            }
+          },
+          {
+            "id": "7996fd7cab233b74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learning-linux/bash/awk/awk-commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,43 +187,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eea60ed37ea9710b",
+  "active": "7785b46252859185",
   "lastOpenFiles": [
+    "learning-linux/bash/awk/awk-options.md",
+    "learning-linux/bash/awk/awk-commands.md",
+    "learning-linux/bash/awk/awk-structure.md",
+    "learning-linux/bash/awk/awk.md",
+    "learning-linux/bash/cat.md",
+    "learning-linux/remote-machines/ssh/ssh-commands.md",
+    "learning-linux/bash/shell-index.md",
+    "learning-linux/bash/bash-commands.md",
+    "learning-linux/bash/env.md",
+    "learning-linux/regex/regex-patterns.md",
+    "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
+    "learning-linux/git/git index.md",
+    "learning-linux/bash/awk",
+    "learning-linux/bash/Sorting & Editing File Output.md",
+    "learning-linux/bash/firewall/firewall-specific.md",
+    "learning-linux/remote-machines/ssh/ssh-index.md",
+    "learning-linux/remote-machines/mosh.md",
+    "learning-linux/remote-machines/vboxmanage.md",
+    "learning-linux/bash/service.md",
     "learning-linux/bash/firewall/iptables.md",
     "learning-linux/bash/firewall/iptables-save.md",
     "learning-linux/bash/sudo.md",
     "learning-linux/bash/which.md",
-    "learning-linux/remote-machines/mosh.md",
     "learning-linux/remote-machines/ssh/port.md",
-    "learning-linux/bash/firewall/firewall-specific.md",
     "learning-linux/bash/path-directory-stuff.md",
     "learning-linux/bash/pwd.md",
-    "learning-linux/bash/bash-commands.md",
     "obsidian/info/resources.md",
     "obsidian/Untitled",
     "learning-linux/bash/firewall",
-    "learning-linux/bash/shell-index.md",
-    "learning-linux/bash/ps.md",
-    "learning-linux/bash/bash-commands/job-control/job-control.md",
-    "learning-linux/remote-machines/ssh/ssh-commands.md",
-    "learning-linux/remote-machines/ssh/ssh-index.md",
-    "learning-linux/bash/service.md",
-    "learning-linux/bash/bash-info/bash-info.md",
-    "learning-linux/bash/bash-commands/job-control/jobs.md",
-    "learning-linux/remote-machines/remote-machine-index.md",
-    "learning-linux/bash/bash-commands/job-control/pgrep.md",
-    "learning-linux/bash/python3.md",
-    "learning-linux/remote-machines/creating-web-server.md",
-    "learning-linux/remote-machines/other-remote-commands.md",
-    "fof/screens/deck-manager.md",
-    "learning-linux/vim/normal/screen-navigation.md",
     "learning-linux/remote-machines",
     "learning-linux/bash/bash-info",
     "learning-linux/bash/bash-commands/finding-files",
     "learning-linux/bash/bash-commands/job-control",
     "learning-linux/bash/bash-commands/terminal-multiplexers",
     "learning-linux/bash/bash-commands",
-    "bash/bash-commands/terminal-multiplexers",
-    "bash/bash-commands/finding-files"
+    "bash/bash-commands/terminal-multiplexers"
   ]
 }

@@ -12,6 +12,8 @@
 - -v -> Simple debug mode, on your end
 - -vv -> Inform you on low level on server and your end
 - -vvv -> Inform you on everything from both ends
+- -f -> Requests ssh to go to background before execution
+- -N -> Does not execute a command
 
 # Useful Knowledge
 ## Copying From Server
@@ -26,3 +28,6 @@
 - sudo [[service]] sshd restart
 - Specifies sshd service to restart
 - Use this to apply sshd_config changes
+
+## Background Port Forwarding
+- ssh -fNL local_port:host:destination_port user@ip -> Sends data sent to local_port to destination_port 
