@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bc21b2b8f95b8f5d",
+        "id": "4fac35b5b5cde74e",
         "type": "tabs",
         "children": [
           {
-            "id": "fefbaa3e3c4d6d29",
+            "id": "02bbce3451d3abc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "godot/godot index.md",
+                "file": "learning-linux/bash/awk/awk.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4eb332aecabf5e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "static",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -87,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "godot/godot index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "godot/godot index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "godot/godot index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,35 +154,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fefbaa3e3c4d6d29",
+  "active": "b4eb332aecabf5e7",
   "lastOpenFiles": [
+    "learning-linux/bash/awk/awk.md",
+    "learning-linux/bash/xargs.md",
+    "learning-linux/bash/grep/grep-options.md",
+    "learning-linux/bash/sed/sed.md",
+    "learning-linux/bash/sed/sed-options.md",
+    "learning-linux/bash/grep/grep-file-manip.md",
+    "learning-linux/bash/mv.md",
+    "learning-linux/bash/sed/sed-file-manip.md",
+    "godot/godot index.md",
+    "learning-linux/bash/bash-commands.md",
+    "learning-linux/bash/Grabbing & Creating File Output.md",
+    "learning-linux/bash/curl.md",
+    "learning-linux/bash/wget.md",
     "godot/Singletons.md",
     "godot/Singleton Alternatives.md",
     "godot/Singleton Tricks.md",
     "godot/Singleton Uses.md",
-    "godot/godot index.md",
     "godot/Script Classes.md",
-    "learning-linux/bash/bash-commands.md",
     "learning-linux/bash/awk/awk-commands.md",
     "learning-linux/bash/awk/awk-options.md",
-    "learning-linux/bash/awk/awk.md",
     "learning-linux/bash/awk/awk-structure.md",
     "learning-linux/bash/tr.md",
     "learning-linux/bash/awk/procinfo-info.md",
     "learning-linux/bash/cat.md",
     "learning-linux/remote-machines/ssh/ssh-commands.md",
     "learning-linux/bash/shell-index.md",
-    "learning-linux/bash/env.md",
-    "learning-linux/regex/regex-patterns.md",
-    "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
-    "learning-linux/git/git index.md",
     "learning-linux/bash/awk",
-    "learning-linux/bash/Sorting & Editing File Output.md",
-    "learning-linux/bash/firewall/firewall-specific.md",
-    "learning-linux/remote-machines/ssh/ssh-index.md",
-    "learning-linux/remote-machines/mosh.md",
-    "learning-linux/remote-machines/vboxmanage.md",
-    "learning-linux/bash/service.md",
     "obsidian/Untitled",
     "learning-linux/bash/firewall",
     "learning-linux/remote-machines",
