@@ -79,6 +79,7 @@
 - By default shows a linear and not graphical history
 - Recent commits are shown at the top
 - --all --graph --decorate -> Magic incantation that displays a graphical view
+- --oneline -> Prints each branch on a seperate line
 ## git cat-file ID
 - -p (pretty-print)
     - Can be done on any object
@@ -91,8 +92,22 @@
 - Enters a DETACHED HEAD state, minimal effect on other branches
 - If you have uncommitted files, will prompt you with error
 - -f -> Force checkout, ignoring errors
+- If ID points to a file, modified files in the working directory are reset to the state they were in the HEAD commit, same as git restore
+- If ID points to a branch, checkout switches to that branch
+- -b -> Equivalent to git branch BRANCH-NAME; git checkout BRANCH-NAME
 ## git diff FILE/ID \[ID] \[ID] 
 - Shows changes in FILE with respect to HEAD
 - Specify ID to see changes with respect to specified commit
 - Specify commit ID to see changes between commit
 - Specify two ID's to compare between them, note swapping the two ID's will result in all + swapping to - and vice versa
+## git branch \[BRANCH]
+- Lists created branches in local repository
+- -vv -> Extra verbose, shows ID and HEAD commit message
+- If a branch-name is provided, a new branch is created, copying files from HEAD
+## git merge \[ID]
+- Merges specified branch with HEAD
+- Can provide multiple space-seperated branch IDs
+- If the specified branch has the HEAD branch as a predecessor, HEAD is moved to point the branch's most recent commit, this is called Fast-forward
+## git mergetool
+- To set to a specific text editor use --tool=TOOL
+- To list available tools use --tool-help

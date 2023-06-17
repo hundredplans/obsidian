@@ -1,4 +1,4 @@
-- Creates a directory at specified path
+ Creates a directory at specified path
 - mkdir dir/dir2/dir-name
 
 # Options

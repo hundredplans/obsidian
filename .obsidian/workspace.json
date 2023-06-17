@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab6b3e1d873eee8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/bash/xargs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -97,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/git/git-index.md",
+                "file": "learning-linux/bash/xargs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/git/git-index.md"
+                "file": "learning-linux/bash/xargs.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/git/git-index.md",
+                "file": "learning-linux/bash/xargs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,11 +175,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f0def927dd25bcd2",
+  "active": "ab6b3e1d873eee8b",
   "lastOpenFiles": [
-    "hello.txt",
     "learning-linux/bash/mkdir.md",
     "learning-linux/git/git-index.md",
+    "hello.txt",
     "learning-linux/vim/vim-index.md",
     "learning-linux/vim/vim-modes.md",
     "learning-linux/vim/command_line/command-line-mode.md",
@@ -197,7 +211,6 @@
     "learning-linux/bash/bash-commands/finding-files",
     "learning-linux/bash/bash-commands/job-control",
     "learning-linux/bash/bash-commands/terminal-multiplexers",
-    "learning-linux/bash/bash-commands",
-    "bash/bash-commands/terminal-multiplexers"
+    "learning-linux/bash/bash-commands"
   ]
 }
