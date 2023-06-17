@@ -6,3 +6,5 @@
 - **Current Lecture Video -**  https://www.youtube.com/watch?v=e8BO_dYxk5
 - [50 Linux Command Tips]([https://www.youtube.com/watch?v=ZtqBQ68cfJc](https://www.youtube.com/watch?v=ZtqBQ68cfJc "https://www.youtube.com/watch?v=ZtqBQ68cfJc"))
 - [Computer Hope](https://www.computerhope.com)
+
+https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html
