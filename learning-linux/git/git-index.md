@@ -107,7 +107,12 @@
 ## git merge \[ID]
 - Merges specified branch with HEAD
 - Can provide multiple space-seperated branch IDs
-- If the specified branch has the HEAD branch as a predecessor, HEAD is moved to point the branch's most recent commit, this is called Fast-forward
+- If the specified branch has the HEAD branch as a predecessor, HEAD is moved to point to the branch's most recent commit, this is called Fast-Forward
+- --abort -> Aborts current merge (if merge conflicts occured)
+- When a merge conflict occurs conflict markers seperate non-resolvable code (====, >>>>) on HEAD
+- -- continue -> After merge conflicts are dealt with use to continue merge
 ## git mergetool
 - To set to a specific text editor use --tool=TOOL
 - To list available tools use --tool-help
+## git reset FILE
+- Un-adds a file from the staging area
