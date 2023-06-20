@@ -20,7 +20,7 @@
 
 ## Commits, Branches and Merges
 - Commits are a version of the project at a specific point in time
-- Branches are seperate commits that are related to a previous commits
+- Branches are seperate commits that are related to a previous commit
 - Merges are combining two commits together into a new commits
 
 ## Blobs
@@ -59,12 +59,17 @@
 # Git Commands
 ## git init
 - Initializies an empty .git repository 
+- --bare -> Initialize a "bare" repository, used for storage rather than development
 ## git help COMMAND
 - Pass a COMMAND to get more info on specified COMMAND
 ## git status
 - Shows the current state of "what is going on"
 ## git add FILE
 - Change FILE's state from the staging area into ready to be committed
+- -p -> Interactively stage specific changes in a FILE
+    - y -> Stage specific line
+    - n -> Don't stage specific line
+    - s -> Split into a smaller subsegment
 ## git restore FILE
 - Change FILE's state back to the staging area
 ## git commit
@@ -73,6 +78,7 @@
 - Outputs \[branch (root-commit) ID (hash of commit)] commit message
 - -a -> Include all non-added blobs that have been modified, but not deleted or added
 ## git config
+- Is a plain text file, can be accessed via command line or accessed as a file in ~/.gitconfig
 - --global core.editor "name" (vim)
 ## git log
 - Used to visualize the history of commits
@@ -80,6 +86,7 @@
 - Recent commits are shown at the top
 - --all --graph --decorate -> Magic incantation that displays a graphical view
 - --oneline -> Prints each branch on a seperate line
+- Blue indicates HEAD, Green indicates local branch, Red indicates remote branch
 ## git cat-file ID
 - -p (pretty-print)
     - Can be done on any object
@@ -100,10 +107,12 @@
 - Specify ID to see changes with respect to specified commit
 - Specify commit ID to see changes between commit
 - Specify two ID's to compare between them, note swapping the two ID's will result in all + swapping to - and vice versa
+- --cached -> Show what is staged for commit, useful when you manually removed some code from staging 
 ## git branch \[BRANCH]
 - Lists created branches in local repository
-- -vv -> Extra verbose, shows ID and HEAD commit message
+- -vv -> Extra verbose, shows ID, commit message and upstreamed repositories
 - If a branch-name is provided, a new branch is created, copying files from HEAD
+- --set-upstream-to=NAME/REMOTE BRANCH -> Set HEAD branch to push to REMOTE branc without specifying NAME (origin) and REMOTE BRANCH (master)
 ## git merge \[ID]
 - Merges specified branch with HEAD
 - Can provide multiple space-seperated branch IDs
@@ -116,3 +125,53 @@
 - To list available tools use --tool-help
 ## git reset FILE
 - Un-adds a file from the staging area
+## git blame FILE
+- Shows who edited a particular file in which commit
+- Displays commit id, name of author, date edited, timezone of author, line number and code on line number for HEAD commit
+## git show ID
+- Shows information for a commit/tree/blob
+## git stash [pop]
+- Reverts working directory to HEAD commit and saves any changes
+- Specify pop to revert to git stash working directory
+## git bisect
+- Used to manually search history for a specific change
+- Can also pass in script to find a specific change
+- e.g. used to find the first commit where a unit test doesn't pass
+
+# Remote Git Commands
+## git remote
+- Lists all remotes git is aware of in this repository
+## git remote add NAME URL
+- Add a remote repository with specified NAME found on URL
+- By convention origin is used as the NAME if there is only one remote repository
+- URL can be a path to another folder 
+## git push NAME LOCAL BRANCH:REMOTE BRANCH
+- If the local branch and remote branch have the same name only write LOCAL BRANCH
+- Creates/updates REMOTE BRANCH on the remote repository with the contents of LOCAL BRANCH
+- If upstream is set to remote branch, you can just type git push with no extra arguments
+## git clone URL FOLDER
+- Copy a repository found at URL into specified FOLDER
+- URL can be a path to another folder
+- Initializes a local repository from the remote copy
+- --shallow -> Only copies latest commit, used to quickly copy large git repositories
+## git fetch REMOTE NAME REMOTE BRANCH
+- Updates local branch to match remote branch
+- REMOTE NAME and REMOTE BRANCH only needs to be specified if more than one remote branch or remote repository is present
+- Does not move HEAD so use git merge to synchronize with HEAD (or use git pull)
+## git pull REMOTE NAME REMOTE BRANCH
+- Merges local branch to match remote branch 
+- REMOTE NAME and REMOTE BRANCH only needs to be specified if more than one remote branch or remote repository is present
+- Moves HEAD to match remote repository
+- Equivalent to git fetch; git merge
+
+# Related Concepts
+## .gitignore
+- Used to ignore specified file names or specified patterns of file names
+- Line seperated
+- Use *.extension to ignore a specific extension
+## Shell Integrations
+- Can be used to display git status after each change in a succint way
+## Vim Integrations
+- Vim plugins that help with git exist, search them up!
+## Pro Git
+- Free book, check it out!
