@@ -112,7 +112,7 @@
 - Lists created branches in local repository
 - -vv -> Extra verbose, shows ID, commit message and upstreamed repositories
 - If a branch-name is provided, a new branch is created, copying files from HEAD
-- --set-upstream-to=NAME/REMOTE BRANCH -> Set HEAD branch to push to REMOTE branc without specifying NAME (origin) and REMOTE BRANCH (master)
+- --set-upstream=NAME/REMOTE BRANCH -> Set HEAD branch to push to REMOTE branc without specifying NAME (origin) and REMOTE BRANCH (master)
 ## git merge \[ID]
 - Merges specified branch with HEAD
 - Can provide multiple space-seperated branch IDs
@@ -123,6 +123,21 @@
 ## git mergetool
 - To set to a specific text editor use --tool=TOOL
 - To list available tools use --tool-help
+- nvim tool layout
+  ╔═══════╦══════╦════════╗
+  ║       ║      ║        ║
+  ║ LOCAL ║ BASE ║ REMOTE ║
+  ║       ║      ║        ║
+  ╠═══════╩══════╩════════╣
+  ║                       ║
+  ║        MERGED         ║
+  ║                       ║
+  ╚═══════════════════════╝
+    - Local: Current branch file
+    - Base: Common ancestor commit
+    - Remote: Remote branch file
+    - Merged: What's saved in the merge
+    - Navigate among views using Ctrl-W and HJKL
 ## git reset FILE
 - Un-adds a file from the staging area
 ## git blame FILE
@@ -168,7 +183,7 @@
 ## .gitignore
 - Used to ignore specified file names or specified patterns of file names
 - Line seperated
-- Use *.extension to ignore a specific extension
+- Use \*.extension to ignore a specific extension
 ## Shell Integrations
 - Can be used to display git status after each change in a succint way
 ## Vim Integrations
