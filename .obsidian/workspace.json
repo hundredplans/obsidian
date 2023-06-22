@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "67349c5f5eceab3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/mkdir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c47238b3dffbc6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/endeavour/endeavour-impo-commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7823f990fa0233e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/bash-commands/job-control/&.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -122,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/bash-commands/job-control/&.md",
+                "file": "learning-linux/git/git-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/bash/bash-commands/job-control/&.md"
+                "file": "learning-linux/git/git-index.md"
               }
             }
           },
@@ -155,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/bash-commands/job-control/&.md",
+                "file": "learning-linux/git/git-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,9 +150,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7823f990fa0233e6",
+  "active": "f0def927dd25bcd2",
   "lastOpenFiles": [
+    "learning-linux/godot/godot-cmd.md",
+    "learning-linux/godot/godot-commands",
+    "learning-linux/godot",
+    "learning-linux/bash/bash-commands/job-control/kill.md",
     "learning-linux/git/git-index.md",
+    "learning-linux/bash/bash-commands/job-control/job-control.md",
+    "learning-linux/bash/bash-commands/job-control/jobs.md",
+    "learning-linux/bash/bash-commands/job-control/&.md",
     "learning-linux/bash/mkdir.md",
     "learning-linux/endeavour/endeavour-impo-commands.md",
     "learning-linux/bash/xargs.md",
@@ -211,17 +182,11 @@
     "learning-linux/git/Git Environments.md",
     "learning-linux/git/What is commiting.md",
     "learning-linux/git/Tracking Files.md",
-    "learning-linux/git/What is Git.md",
-    "learning-linux/vim/vim-plugins.md",
-    "learning-linux/vim/resources.md",
-    "learning-linux/bash/awk/awk.md",
     "learning-linux/bash/awk",
     "obsidian/Untitled",
     "learning-linux/bash/firewall",
     "learning-linux/remote-machines",
     "learning-linux/bash/bash-info",
-    "learning-linux/bash/bash-commands/finding-files",
-    "learning-linux/bash/bash-commands/job-control",
-    "learning-linux/bash/bash-commands/terminal-multiplexers"
+    "learning-linux/bash/bash-commands/finding-files"
   ]
 }
