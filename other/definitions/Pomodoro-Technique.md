@@ -1,0 +1,1 @@
+- Set a timer for 20 minutes, work as fast as you can, take a 5 minute break then set another timer

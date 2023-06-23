@@ -1,0 +1,2 @@
+- Don't write something down to remember it later, but to remember it now
+- Your mind can be expanded with paper, pencil and digital pages

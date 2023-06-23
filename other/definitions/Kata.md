@@ -1,0 +1,2 @@
+- Something you practive over and over again to build memories
+- Refers to Japanese Martial Arts
