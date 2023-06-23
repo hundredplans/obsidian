@@ -21,7 +21,7 @@
 ## Commits, Branches and Merges
 - Commits are a version of the project at a specific point in time
 - Branches are seperate commits that are related to a previous commit
-- Merges are combining two commits together into a new commits
+- Merges are combining two commits together into a new commit
 
 ## Blobs
 - Blobs are stored as arrays of bytes
@@ -77,6 +77,7 @@
 - Opens a text-editor to add a message
 - Outputs \[branch (root-commit) ID (hash of commit)] commit message
 - -a -> Include all non-added blobs that have been modified, but not deleted or added
+- --amend -> Edit a commit's contents/messages
 ## git config
 - Is a plain text file, can be accessed via command line or accessed as a file in ~/.gitconfig
 - --global core.editor "name" (vim)
@@ -87,6 +88,7 @@
 - --all --graph --decorate -> Magic incantation that displays a graphical view
 - --oneline -> Prints each branch on a seperate line
 - Blue indicates HEAD, Green indicates local branch, Red indicates remote branch
+- use glog to access magical incantation
 ## git cat-file ID
 - -p (pretty-print)
     - Can be done on any object
@@ -138,8 +140,10 @@
     - Remote: Remote branch file
     - Merged: What's saved in the merge
     - Navigate among views using Ctrl-W and HJKL
-## git reset FILE
-- Un-adds a file from the staging area
+## git reset ID
+- If ID is file un-adds a file from the staging area
+- --hard COMMIT\_ID -> Discard any changes in the working tree since COMMIT\_ID, un-tracked files are deleted
+- --soft COMMIT\_ID -> Resets HEAD to specified COMMIT\_ID and your changed files are placed in the staging area
 ## git blame FILE
 - Shows who edited a particular file in which commit
 - Displays commit id, name of author, date edited, timezone of author, line number and code on line number for HEAD commit
@@ -178,7 +182,8 @@
 - REMOTE NAME and REMOTE BRANCH only needs to be specified if more than one remote branch or remote repository is present
 - Moves HEAD to match remote repository
 - Equivalent to git fetch; git merge
-
+## git rebase
+- -i -> Interactive rebasing, similar to git add -p
 # Related Concepts
 ## .gitignore
 - Used to ignore specified file names or specified patterns of file names
@@ -187,6 +192,7 @@
 ## Shell Integrations
 - Can be used to display git status after each change in a succint way
 ## Vim Integrations
-- Vim plugins that help with git exist, search them up!
+- Vim plugins that help with git, they exist so search them up!
+- fugitive.vim
 ## Pro Git
 - Free book, check it out!
