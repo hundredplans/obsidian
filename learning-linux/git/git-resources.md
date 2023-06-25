@@ -11,5 +11,7 @@
 [git-data-model-detailed](https://jwiegley.github.io/git-from-the-bottom-up/) x
 [git-simple](https://xosh.org/explain-git-in-simple-words/) x
 [git-game-on-branching](https://learngitbranching.js.org/) x
+[git-other-game](https://ohmygit.org/) x
+[git-workflows](https://martinfowler.com/articles/branching-patterns.html) x
 
 Sample: ✓, x

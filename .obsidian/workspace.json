@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4fac35b5b5cde74e",
+        "id": "9dd995bc279f93e1",
         "type": "tabs",
         "children": [
           {
-            "id": "f0def927dd25bcd2",
+            "id": "44ffef54852707f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/git/git-index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8486683c3b3af26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-linux/bash/xargs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/bash/xargs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning-linux/bash/xargs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/bash/xargs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,11 +140,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f8486683c3b3af26",
+  "active": "44ffef54852707f2",
   "lastOpenFiles": [
-    "learning-linux/resources.md",
-    "learning-linux/bash/xargs.md",
     "learning-linux/git/git-index.md",
+    "learning-linux/bash/xargs.md",
+    "learning-linux/resources.md",
     "learning-linux/self-help/no-boilerplate/hacking-your-brain-with-18-elaborate-coping-mechanisms.md",
     "learning-linux/self-help/no-boilerplate",
     "learning-linux/self-help",
