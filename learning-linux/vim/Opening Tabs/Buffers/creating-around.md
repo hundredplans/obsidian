@@ -1,0 +1,4 @@
+- Ctrl + ws -> Split current buffer horizontally (down)
+- Ctrl + wv -> Split current buffer vertically (right)
+- :sp FILE -> Split and open file
+- :vsp FILE -> Split and open file

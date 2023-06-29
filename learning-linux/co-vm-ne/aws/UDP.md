@@ -1,0 +1,4 @@
+- User Datagram Protocol
+- Uses 16 bit ports
+- Is unreliable, used for game physics and videos where losing a packet doesn't matter that much
+- A port number of 0 means no port

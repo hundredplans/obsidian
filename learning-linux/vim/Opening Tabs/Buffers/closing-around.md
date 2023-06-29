@@ -1,0 +1,3 @@
+- :bd -> Close current buffer
+- Ctrl + wq -> Close current window
+- :tabclose -> Close current tab

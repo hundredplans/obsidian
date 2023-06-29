@@ -1,0 +1,1 @@
+EC2 os, files, config basically

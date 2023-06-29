@@ -1,0 +1,4 @@
+- Allows EC2 instances in public subnets to connect to the internet
+- Allows instances on the internet to initiate a connection to resources on the EC2 instance
+- Allows instance with a public IP to connect to the internet
+- You can have only Internet Gateway per VPC

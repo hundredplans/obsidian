@@ -1,0 +1,2 @@
+- :ls -> Lists open buffers
+- :tabs -> Lists open tabs

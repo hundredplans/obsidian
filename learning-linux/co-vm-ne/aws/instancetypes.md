@@ -1,0 +1,1 @@
+- What type of server you want from Amazon on the EC2 instance

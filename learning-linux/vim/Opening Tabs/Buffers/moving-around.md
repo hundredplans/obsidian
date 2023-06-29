@@ -1,0 +1,9 @@
+- gt -> Goes to next tab or back or around if at last
+- gT -> Goes back one tab
+- \#gt -> Goes to tab with num
+- Ctrl + hjkl -> Move between tabs
+- :bn -> Switch to next buffer
+- :bp -> Switch to previous buffer
+- Ctrl + ww -> Switch between windows
+- Ctrl + o -> Move one back in the jumplist
+- Ctrl + i -> Move one forward in the jumplist

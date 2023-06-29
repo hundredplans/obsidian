@@ -1,2 +1,0 @@
-- :tabnext -> Goes to next tab or back or around if at last
-- :tabn (num) -> Goes to tab with num

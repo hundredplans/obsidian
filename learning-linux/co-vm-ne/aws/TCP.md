@@ -1,0 +1,4 @@
+- Transmission Control Protocol
+- Uses 16 bits (65k) ports
+- Is reliable
+- Port 0 is reserved

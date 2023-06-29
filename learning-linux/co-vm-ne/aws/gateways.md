@@ -1,0 +1,2 @@
+- Gateways connect [[VPC]] with other VPCs or networks
+- Use an [[IGW]] to connect with the Internet

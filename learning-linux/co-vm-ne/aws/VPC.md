@@ -1,0 +1,3 @@
+- Virtual Private Cloud
+- Holds subnets which hold EC2 instances
+- Is a Network

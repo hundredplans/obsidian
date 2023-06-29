@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd995bc279f93e1",
+        "id": "dc30f15327665696",
         "type": "tabs",
         "children": [
           {
-            "id": "44ffef54852707f2",
+            "id": "9e06703d4afdde80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning-linux/co-vm-ne/aws/S3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "learning-linux/co-vm-ne/aws/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning-linux/co-vm-ne/aws/S3.md"
+              }
             }
           },
           {
@@ -111,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning-linux/co-vm-ne/aws/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,53 +138,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "terminal:Open terminal": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "44ffef54852707f2",
+  "active": "6df194351e58c31a",
   "lastOpenFiles": [
-    "learning-linux/git/git-index.md",
-    "learning-linux/bash/xargs.md",
-    "learning-linux/resources.md",
-    "learning-linux/self-help/no-boilerplate/hacking-your-brain-with-18-elaborate-coping-mechanisms.md",
+    "other/prog/2023-06-28.md",
+    "2023-06-28.md",
+    "other/prog/2023-06-26.md",
+    "fof/screens/deck-manager.md",
+    "other/prog/2023-06-27.md",
+    "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
+    "learning-linux/co-vm-ne/aws/UDP.md",
+    "learning-linux/co-vm-ne/aws/TCP.md",
+    "learning-linux/co-vm-ne/aws/questions.md",
+    "learning-linux/co-vm-ne/aws/EC2.md",
+    "learning-linux/co-vm-ne/aws/aws-index.md",
+    "learning-linux/co-vm-ne/aws/IP.md",
+    "learning-linux/co-vm-ne/aws/autoscaling.md",
+    "learning-linux/co-vm-ne/aws/RDS.md",
+    "learning-linux/co-vm-ne/aws/EBS.md",
+    "learning-linux/co-vm-ne/aws/ECS.md",
+    "learning-linux/co-vm-ne/aws/S3.md",
+    "learning-linux/co-vm-ne/aws/AMI.md",
+    "learning-linux/co-vm-ne/aws/Cloudwatch.md",
+    "learning-linux/missing-semester-rewatches-info.md",
+    "other/prog",
+    "other/progress",
+    "learning-linux/vim/vim-index.md",
+    "learning-linux/vim/Opening Tabs/Buffers/tabs-windows-buffers-jumplist.md",
+    "learning-linux/vim/Opening Tabs/Buffers/moving-around.md",
+    "learning-linux/co-vm-ne/aws/subnet.md",
+    "learning-linux/co-vm-ne/aws/IGW.md",
+    "learning-linux/co-vm-ne/aws/NAT.md",
+    "learning-linux/networking/aws/vcp",
+    "learning-linux/co-vm-ne/aws",
     "learning-linux/self-help/no-boilerplate",
     "learning-linux/self-help",
     "vainglory/self-help",
-    "learning-linux/godot/godot-cmd.md",
     "learning-linux/godot/godot-commands",
     "learning-linux/godot",
-    "learning-linux/bash/bash-commands/job-control/kill.md",
-    "learning-linux/bash/bash-commands/job-control/job-control.md",
-    "learning-linux/bash/bash-commands/job-control/jobs.md",
-    "learning-linux/bash/bash-commands/job-control/&.md",
-    "learning-linux/bash/mkdir.md",
-    "learning-linux/endeavour/endeavour-impo-commands.md",
-    "learning-linux/endeavour",
-    "learning-linux/bash/ls.md",
-    "learning-linux/regex/regex-patterns.md",
-    "learning-linux/bash/bc.md",
-    "learning-linux/bash/python3.md",
-    "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
-    "hello.txt",
-    "learning-linux/vim/vim-index.md",
-    "learning-linux/vim/vim-modes.md",
-    "learning-linux/vim/command_line/command-line-mode.md",
-    "learning-linux/vim/command_line/standard-commands.md",
-    "learning-linux/vim/normal/screen-navigation.md",
-    "learning-linux/git/Creating Branches.md",
-    "learning-linux/git/Pulling.md",
-    "learning-linux/git/Pushing.md",
-    "learning-linux/git/Git Environments.md",
-    "learning-linux/git/What is commiting.md",
-    "learning-linux/bash/awk",
-    "obsidian/Untitled",
-    "learning-linux/bash/firewall"
+    "learning-linux/endeavour"
   ]
 }
