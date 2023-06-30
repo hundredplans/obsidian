@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc30f15327665696",
+        "id": "132b20c18bd18935",
         "type": "tabs",
         "children": [
           {
-            "id": "9e06703d4afdde80",
+            "id": "62d6a4dc3cf39637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/co-vm-ne/aws/S3.md",
+                "file": "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/co-vm-ne/aws/S3.md",
+                "file": "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/co-vm-ne/aws/S3.md"
+                "file": "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md"
               }
             }
           },
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/co-vm-ne/aws/S3.md",
+                "file": "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,43 +150,43 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6df194351e58c31a",
+  "active": "62d6a4dc3cf39637",
   "lastOpenFiles": [
-    "other/prog/2023-06-28.md",
-    "2023-06-28.md",
-    "other/prog/2023-06-26.md",
-    "fof/screens/deck-manager.md",
-    "other/prog/2023-06-27.md",
-    "learning-linux/bash/bash-commands/terminal-multiplexers/tmux.md",
-    "learning-linux/co-vm-ne/aws/UDP.md",
-    "learning-linux/co-vm-ne/aws/TCP.md",
-    "learning-linux/co-vm-ne/aws/questions.md",
-    "learning-linux/co-vm-ne/aws/EC2.md",
     "learning-linux/co-vm-ne/aws/aws-index.md",
-    "learning-linux/co-vm-ne/aws/IP.md",
-    "learning-linux/co-vm-ne/aws/autoscaling.md",
-    "learning-linux/co-vm-ne/aws/RDS.md",
-    "learning-linux/co-vm-ne/aws/EBS.md",
-    "learning-linux/co-vm-ne/aws/ECS.md",
-    "learning-linux/co-vm-ne/aws/S3.md",
-    "learning-linux/co-vm-ne/aws/AMI.md",
-    "learning-linux/co-vm-ne/aws/Cloudwatch.md",
-    "learning-linux/missing-semester-rewatches-info.md",
+    "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md",
+    "learning-linux/co-vm-ne/aws/aws-hierachy.md",
+    "learning-linux/vim/vim-index.md",
+    "learning-linux/co-vm-ne/kubernetes/what-is-kubernetes.md",
+    "learning-linux/co-vm-ne/kubernetes/minikube.md",
+    "learning-linux/co-vm-ne/kubernetes/kubernetes-cluster.md",
+    "learning-linux/co-vm-ne/kubernetes/kubernetes-addons.md",
+    "learning-linux/co-vm-ne/kubernetes/kubectl.md",
+    "learning-linux/git/git-index.md",
+    "learning-linux/co-vm-ne/kubernetes/kubelet.md",
+    "learning-linux/co-vm-ne/kubernetes/kubernetes-secrets.md",
+    "templates/aliases.md",
+    "templates",
+    "game-pp/Good Design.md",
+    "game-pp/Decoupled.md",
+    "game-pp/some name.md",
+    "game-pp/Coupled.md",
+    "game-pp/Code Patterns - General.md",
+    "learning-linux/co-vm-ne/kubernetes/pod.md",
+    "learning-linux/co-vm-ne/kubernetes/worker-node.md",
+    "learning-linux/co-vm-ne/kubernetes/container.md",
+    "learning-linux/co-vm-ne/kubernetes/control-plane.md",
+    "learning-linux/co-vm-ne/kubernetes/kube-proxy.md",
+    "learning-linux/co-vm-ne/kubernetes/kubernetes-service.md",
+    "learning-linux/co-vm-ne/kubernetes/kubernetes-container-runtime.md",
+    "learning-linux/co-vm-ne/kubernetes/etcd.md",
+    "learning-linux/co-vm-ne/kubernetes/hierachy",
     "other/prog",
     "other/progress",
-    "learning-linux/vim/vim-index.md",
-    "learning-linux/vim/Opening Tabs/Buffers/tabs-windows-buffers-jumplist.md",
-    "learning-linux/vim/Opening Tabs/Buffers/moving-around.md",
-    "learning-linux/co-vm-ne/aws/subnet.md",
-    "learning-linux/co-vm-ne/aws/IGW.md",
-    "learning-linux/co-vm-ne/aws/NAT.md",
     "learning-linux/networking/aws/vcp",
     "learning-linux/co-vm-ne/aws",
     "learning-linux/self-help/no-boilerplate",
     "learning-linux/self-help",
     "vainglory/self-help",
-    "learning-linux/godot/godot-commands",
-    "learning-linux/godot",
-    "learning-linux/endeavour"
+    "learning-linux/godot/godot-commands"
   ]
 }

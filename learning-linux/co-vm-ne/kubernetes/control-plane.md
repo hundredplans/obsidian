@@ -1,0 +1,3 @@
+- A grouping of nodes
+- Contains the master node and worker nodes
+- The highest form of abstraction, used to manage application(s)

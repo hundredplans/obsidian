@@ -37,6 +37,10 @@
 ## What is a Dockerfile
 - An init file when creating an image
 
+## What is the Bridge Network?
+- Where your containers are run by default
+- Allows containers to connect to the same bridge network
+
 # Common Commands
 ## How to Install Images
 - __COMMAND__ -> docker pull image-name
@@ -59,12 +63,13 @@
 ### Networking Options
 - -P -> Set the container on a random port
 - -p -> server-port:exposed-port
+- --net network-name -> Specify network name
 
 ## How to list all Docker Containers?
 - __COMMAND__ -> docker ps (only shows running containers)
 - __COMMAND__ -> docker ps -a (includes past containers)
 
-## How to list all Dockert Images?
+## How to list all Docker Images?
 - __COMMAND__ -> docker images
 
 ## How to delete a Container?
@@ -82,6 +87,12 @@
 
 ## How to create an Image?
 - __COMMAND__ -> docker build path
+
+## How to view your Docker networks?
+- __COMMAND__ -> docker network ls
+
+## How to create a Docker network?
+- __COMMAND__ -> docker network create network-name
 
 ### Common Options
 - -t -> username/image-name (on Dockerhub)
