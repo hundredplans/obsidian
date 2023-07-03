@@ -1,0 +1,4 @@
+- 10 for a win
+- 5 for a loss (surrender after you have 10 energy)
+- 10 for a win in the bi-weekly
+- 0 for a loss

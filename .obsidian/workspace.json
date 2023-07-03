@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "132b20c18bd18935",
+        "id": "72d6be372d91b875",
         "type": "tabs",
         "children": [
           {
-            "id": "62d6a4dc3cf39637",
+            "id": "043408670a5a8639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md",
+                "file": "computers/resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md",
+                "file": "computers/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md"
+                "file": "computers/resources.md"
               }
             }
           },
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md",
+                "file": "computers/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,43 +149,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "62d6a4dc3cf39637",
+  "active": "043408670a5a8639",
   "lastOpenFiles": [
-    "learning-linux/co-vm-ne/aws/aws-index.md",
-    "learning-linux/co-vm-ne/kubernetes/kubernetes-hierachy.md",
-    "learning-linux/co-vm-ne/aws/aws-hierachy.md",
-    "learning-linux/vim/vim-index.md",
-    "learning-linux/co-vm-ne/kubernetes/what-is-kubernetes.md",
-    "learning-linux/co-vm-ne/kubernetes/minikube.md",
-    "learning-linux/co-vm-ne/kubernetes/kubernetes-cluster.md",
-    "learning-linux/co-vm-ne/kubernetes/kubernetes-addons.md",
-    "learning-linux/co-vm-ne/kubernetes/kubectl.md",
-    "learning-linux/git/git-index.md",
-    "learning-linux/co-vm-ne/kubernetes/kubelet.md",
-    "learning-linux/co-vm-ne/kubernetes/kubernetes-secrets.md",
+    "computers/missing-semester-rewatches-info.md",
+    "computers/godot/godot-cmd.md",
+    "other/jobsearch/libraries.md",
+    "computers/endeavour/endeavour-impo-commands.md",
+    "other/jobsearch/websites.md",
+    "other/definitions/Kata.md",
+    "other/definitions/Pomodoro-Technique.md",
+    "other/definitions/Active-Externalism.md",
+    "_old/inkscape/Rectangle Tool.md",
     "templates/aliases.md",
+    "_old",
+    "_old/inkscape/Polygon Tool.md",
+    "_old/inkscape/Moving Around The Canvas.md",
+    "_old/inkscape/Layers & Changing Selection Level.md",
+    "_old/inkscape/Gradient Tool.md",
+    "_old/inkscape/General.md",
+    "_old/inkscape/Fill & Stroke.md",
+    "_old/inkscape/Eraser Tool.md",
+    "_old/inkscape/Ellipse Tool.md",
+    "_old/google-sheets/Forms.md",
+    "_old/google-sheets/google-sheets-index.md",
+    "_old/google-sheets/Charts.md",
+    "_old/google-sheets/VLOOKUP.md",
+    "_old/google-sheets/Version History.md",
+    "_old/google-sheets/Pivot Tables.md",
+    "_old/google-sheets/Permissions.md",
+    "_old/google-sheets/Naming Cells.md",
+    "_old/inkscape",
+    "media/Thus Spoke Zarathustra.pdf",
+    "media/Osamu Dazai - No Longer Human-New Directions (1973).epub",
+    "media/KungFu.mkv",
+    "media",
+    "books/i-hate-you-dont-leave-me",
+    "bpd/books",
+    "computers/blender/General Shortcuts/Top Left Small Icon Image.png",
     "templates",
-    "game-pp/Good Design.md",
-    "game-pp/Decoupled.md",
-    "game-pp/some name.md",
-    "game-pp/Coupled.md",
-    "game-pp/Code Patterns - General.md",
-    "learning-linux/co-vm-ne/kubernetes/pod.md",
-    "learning-linux/co-vm-ne/kubernetes/worker-node.md",
-    "learning-linux/co-vm-ne/kubernetes/container.md",
-    "learning-linux/co-vm-ne/kubernetes/control-plane.md",
-    "learning-linux/co-vm-ne/kubernetes/kube-proxy.md",
-    "learning-linux/co-vm-ne/kubernetes/kubernetes-service.md",
-    "learning-linux/co-vm-ne/kubernetes/kubernetes-container-runtime.md",
-    "learning-linux/co-vm-ne/kubernetes/etcd.md",
-    "learning-linux/co-vm-ne/kubernetes/hierachy",
-    "other/prog",
-    "other/progress",
-    "learning-linux/networking/aws/vcp",
-    "learning-linux/co-vm-ne/aws",
-    "learning-linux/self-help/no-boilerplate",
-    "learning-linux/self-help",
-    "vainglory/self-help",
-    "learning-linux/godot/godot-commands"
+    "learning-linux/co-vm-ne/kubernetes/hierachy"
   ]
 }
