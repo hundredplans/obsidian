@@ -60,6 +60,7 @@
 - Graphic of your hero underneath graph
 - Avatar, Rank, Profile and Picture underneath graph with a hide rank button
 - Name of deck is shown where cards are shown
+
 ## Filtering Shenanigans
 - Symbols have a little tooltip on hover after a few seconds appear that write what it is
 ### Energy
@@ -94,8 +95,6 @@
 ### Advanced
 - Sort of programming language e.g. 4ATT;4HP searches 4att,4hp units
 - Letters, digits and punctuation
-
-
 
 ## Right-Clicking Cards
 - Abilities on right of card, programatically ordered, hover on ability to display small simulation, if an ability has a video it will display it

@@ -26,3 +26,11 @@
 - Don't use References, use Ownership and share nothing, pass variables to functions and return them if you need them
 - Copy & Clone everything
 - Obey the compilter, only use references when the compiler tells you
+
+# How To
+- Haskell
+- Read Rust Book once without noting or doing exercises
+- Read Rust Book Brown University and do exercises
+- Do Rustlings alongside Brown University book
+- Read Rust by Example alongside Rustlings
+- Redo favorite Rustlings exercises once you finish every week or so

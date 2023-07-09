@@ -1,4 +1,5 @@
-When you press on the rank it brings up the leaderboard
+- When you press on the rank it brings up the leaderboard
+- Number One player gets put in the credits with their name and a plushie gets sent (if we can) or just a gift 
 # Start
 Zooms in looking at hero model
 

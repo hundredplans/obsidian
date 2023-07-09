@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/resources.md",
+                "file": "fof/screens/play_menu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f467238118a6de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computers/vim/vim-index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computers/resources.md",
+                "file": "computers/vim/vim-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computers/resources.md"
+                "file": "computers/vim/vim-index.md"
               }
             }
           },
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computers/resources.md",
+                "file": "computers/vim/vim-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +162,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "043408670a5a8639",
+  "active": "6df194351e58c31a",
   "lastOpenFiles": [
+    "meditation",
+    "computers/vim/Opening Tabs/Buffers/tabs-windows-buffers-jumplist.md",
+    "computers/vim/Opening Tabs/Buffers/moving-around.md",
+    "computers/vim/vim-index.md",
+    "Vim tab.md",
+    "fof/screens/play_menu.md",
+    "fof/screens/deck-manager.md",
     "computers/missing-semester-rewatches-info.md",
     "computers/godot/godot-cmd.md",
     "other/jobsearch/libraries.md",
@@ -171,13 +191,6 @@
     "_old/inkscape/Eraser Tool.md",
     "_old/inkscape/Ellipse Tool.md",
     "_old/google-sheets/Forms.md",
-    "_old/google-sheets/google-sheets-index.md",
-    "_old/google-sheets/Charts.md",
-    "_old/google-sheets/VLOOKUP.md",
-    "_old/google-sheets/Version History.md",
-    "_old/google-sheets/Pivot Tables.md",
-    "_old/google-sheets/Permissions.md",
-    "_old/google-sheets/Naming Cells.md",
     "_old/inkscape",
     "media/Thus Spoke Zarathustra.pdf",
     "media/Osamu Dazai - No Longer Human-New Directions (1973).epub",
