@@ -37,3 +37,4 @@
 - Bound -> Types that have an upper and lower bound (Tuples are bounded if the types inside are
 - Num -> Types that can act like a number
 - Floating/Integral -> Float/Double & Int/Integer
+- Maybe Type -> Can either be one element or nothing, similar to empty lists
