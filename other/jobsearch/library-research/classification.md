@@ -1,0 +1,1 @@
+A system for organizing knowledge, uses [[notation]] to represent the classes in a classification system

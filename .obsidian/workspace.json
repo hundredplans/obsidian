@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "72d6be372d91b875",
+        "id": "aaf4791f47c9c11b",
         "type": "tabs",
         "children": [
           {
-            "id": "043408670a5a8639",
+            "id": "d79cd30e167c248e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fof/screens/play_menu.md",
+                "file": "other/jobsearch/library-research/references/types-of-references.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f467238118a6de7",
+            "id": "0644d75a6b85b754",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computers/vim/vim-index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -82,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.5
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -98,7 +94,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computers/vim/vim-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "computers/vim/vim-index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computers/vim/vim-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,44 +154,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6df194351e58c31a",
+  "active": "0644d75a6b85b754",
   "lastOpenFiles": [
-    "meditation",
-    "computers/vim/Opening Tabs/Buffers/tabs-windows-buffers-jumplist.md",
-    "computers/vim/Opening Tabs/Buffers/moving-around.md",
-    "computers/vim/vim-index.md",
-    "Vim tab.md",
-    "fof/screens/play_menu.md",
+    "other/jobsearch/library-research/references/types-of-references.md",
     "fof/screens/deck-manager.md",
-    "computers/missing-semester-rewatches-info.md",
-    "computers/godot/godot-cmd.md",
-    "other/jobsearch/libraries.md",
-    "computers/endeavour/endeavour-impo-commands.md",
-    "other/jobsearch/websites.md",
-    "other/definitions/Kata.md",
-    "other/definitions/Pomodoro-Technique.md",
-    "other/definitions/Active-Externalism.md",
-    "_old/inkscape/Rectangle Tool.md",
-    "templates/aliases.md",
+    "other/jobsearch/library-research/collection-development.md",
+    "other/jobsearch/library-research/library-research-canvas.canvas",
+    "other/jobsearch/library-research/references/yearbooks.md",
+    "other/jobsearch/library-research/references/manuals.md",
+    "other/jobsearch/library-research/references/directories.md",
+    "other/jobsearch/library-research/references/almanacs.md",
+    "other/jobsearch/library-research/references/gazeteers.md",
+    "other/jobsearch/library-research/references/atlases.md",
+    "other/jobsearch/library-research/references/concordances.md",
+    "other/jobsearch/library-research/references/chronologies-timelines.md",
+    "other/jobsearch/library-research/references/statistical-sources.md",
+    "other/jobsearch/library-research/references/handbooks.md",
+    "other/jobsearch/library-research/references/biographies.md",
+    "other/jobsearch/library-research/references/dictionaries.md",
+    "other/jobsearch/library-research/references/bibliographies.md",
+    "other/jobsearch/library-research/references/encyclopedias.md",
+    "other/jobsearch/library-research/references",
+    "other/jobsearch/library-research/Untitled.md",
+    "computers/regex/regex-index.md",
+    "computers/regex/regex-patterns.md",
+    "computers/regex/regex-capture-groups.md",
+    "computers/regex/resources.md",
+    "other/jobsearch/library-research/library-classifications/DDC-Class.md",
+    "other/jobsearch/library-research/call-numbers.md",
+    "other/jobsearch/library-research/library-classifications/library-classifications.md",
+    "other/jobsearch/library-research/library-classifications",
+    "other/jobsearch/library-research",
+    "meditation",
     "_old",
-    "_old/inkscape/Polygon Tool.md",
-    "_old/inkscape/Moving Around The Canvas.md",
-    "_old/inkscape/Layers & Changing Selection Level.md",
-    "_old/inkscape/Gradient Tool.md",
-    "_old/inkscape/General.md",
-    "_old/inkscape/Fill & Stroke.md",
-    "_old/inkscape/Eraser Tool.md",
-    "_old/inkscape/Ellipse Tool.md",
-    "_old/google-sheets/Forms.md",
     "_old/inkscape",
     "media/Thus Spoke Zarathustra.pdf",
     "media/Osamu Dazai - No Longer Human-New Directions (1973).epub",
     "media/KungFu.mkv",
     "media",
-    "books/i-hate-you-dont-leave-me",
-    "bpd/books",
-    "computers/blender/General Shortcuts/Top Left Small Icon Image.png",
-    "templates",
-    "learning-linux/co-vm-ne/kubernetes/hierachy"
+    "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
   ]
 }

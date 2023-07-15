@@ -1,0 +1,1 @@
+Symbols used to denote a [[classification]] (typically alpha-numeric)

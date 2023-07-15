@@ -1,0 +1,1 @@
+Present concise information on a specific subject

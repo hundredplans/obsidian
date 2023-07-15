@@ -96,6 +96,15 @@
 - Sort of programming language e.g. 4ATT;4HP searches 4att,4hp units
 - Letters, digits and punctuation
 
+### Other
+- Concepts (handbuff etc)
+- Name, Clan
+- Doesn't change with two letters
+- 4ATT:4HP
+- When you stop searching you go back to where you were
+- Keyword Search
+- delimiter ; to search for multiple terms (add)
+
 ## Right-Clicking Cards
 - Abilities on right of card, programatically ordered, hover on ability to display small simulation, if an ability has a video it will display it
 - Card upscaled
