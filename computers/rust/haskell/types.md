@@ -26,6 +26,7 @@
 - Tuple (infinite amount of types, () is an empty tuple type)
 - a/b/c/d -> Represent any type, usually use single letter to denote themself but could be any [Char]
 - [a] -> List of any types
+- Ordering -> Returns an enum of LT, EQ, GT
 
 ## Typeclasses
 - Eq -> Any type which can be equally compared can be of the Eq class

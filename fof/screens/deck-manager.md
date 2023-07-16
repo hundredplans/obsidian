@@ -3,6 +3,8 @@
 - Covers whole screen
 - Automatically starts in Deck
 - Buttons above Deck Manager Screen
+- Pamphlet flies out from below and turns into deck manager
+- Pamphlet does reverse when you go out of it
 
 # Deck-Manager Screen
 ## Deck Shenanigans

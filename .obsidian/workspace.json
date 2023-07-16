@@ -20,11 +20,15 @@
             }
           },
           {
-            "id": "0644d75a6b85b754",
+            "id": "c076db076f8d2308",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "fof/screens/deck-manager.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "fof/screens/deck-manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "fof/screens/deck-manager.md"
+              }
             }
           },
           {
@@ -124,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fof/screens/deck-manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,9 +162,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0644d75a6b85b754",
+  "active": "c076db076f8d2308",
   "lastOpenFiles": [
     "other/jobsearch/library-research/references/types-of-references.md",
+    "computers/regex/regex-patterns.md",
     "fof/screens/deck-manager.md",
     "other/jobsearch/library-research/collection-development.md",
     "other/jobsearch/library-research/library-research-canvas.canvas",
@@ -177,7 +186,6 @@
     "other/jobsearch/library-research/references",
     "other/jobsearch/library-research/Untitled.md",
     "computers/regex/regex-index.md",
-    "computers/regex/regex-patterns.md",
     "computers/regex/regex-capture-groups.md",
     "computers/regex/resources.md",
     "other/jobsearch/library-research/library-classifications/DDC-Class.md",

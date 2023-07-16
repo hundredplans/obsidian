@@ -16,6 +16,7 @@
 ## Comparing Lists
 - Each element is compared with each element in another list
 - Starts at index 0 and moves throughout
+
 ## List Functions
 - head list -> returns index 0
 - tail list -> chops off index 0 and returns the remainder list
@@ -34,6 +35,7 @@
 - elem num/char list -> returns true if num/char is inside the list
 - Do not use the above functions on empty lists as it errors
 - show list -> Return a string from value e.g. 121 returns ['1', '2', '1']
+- singleton elem -> Return list with a single elem
 
 ## Texan Ranges
 - [1..20] represents 1-20 in a list
