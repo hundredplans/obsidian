@@ -9,6 +9,7 @@
 - Return type is the last item in the declaration
 - Can be used on funcs or at the end of an expression e.g. read "5" :: Int
 - To declare Tuple type use :: (Bool, [Char])
+
 ## Type Constraints
 - func :: (Integral a) => a -> String
     - Only run func if given value is an Integral and return a String
@@ -27,15 +28,16 @@
 - a/b/c/d -> Represent any type, usually use single letter to denote themself but could be any [Char]
 - [a] -> List of any types
 - Ordering -> Returns an enum of LT, EQ, GT
+- Either a b -> Definas Left a | Right b deriving (Eq, Ord, Read, Show) -> Used to capture two values and match either Left or Right
+- Empty -> Used to define Empty lists
+- ReadS -> Type declaration of: String -> [(a, String)]
 
-## Typeclasses
-- Eq -> Any type which can be equally compared can be of the Eq class
-    - All Eq types use == or /= in their definition
-- Ord -> Types that have an ordering
-- Show -> Types that can be presented as strings
-- Read -> Types that can be turned into non-strings
-- Enum -> Types that can be enumerated
-- Bound -> Types that have an upper and lower bound (Tuples are bounded if the types inside are
-- Num -> Types that can act like a number
-- Floating/Integral -> Float/Double & Int/Integer
-- Maybe Type -> Can either be one element or nothing, similar to empty lists
+## What Types Are
+- Types are labels that values (including funcs) carry to reason about their values
+- Types have their own labels called Kinds
+- You can examine the Kind of a type by using :k Type
+
+### Kinds
+- * -> Concrete type, values can only be concrete types, doesn't take any parameters
+- * -> * -> Takes one concrete type and returns a concrete type, used for Maybe (without a)
+- * -> * -> * -> Takes two concrete types and returns a concrete type, used for Either (without a b)

@@ -22,3 +22,15 @@
 - Format is input :: Type
 ## GHCI Show
 - :show bindings -> Show types of loaded variables
+
+## Showing Type Declarations (Typeclasses, Funcs)
+- :info Typeclass -> Shows what functions (type-declartion) Typeclass has defined
+- :info Type -> Shows what Typeclass functions Type is part of
+- :info func -> Shows type declaration for a func and (what differs it from :t) where it's defined
+
+## Examining Kind
+- :k Type
+
+## Compiling
+- --make file -> Compiles file, allows us to do [I/O](IO.md)
+- To avoid compiling you can use runhaskell to run on the fly

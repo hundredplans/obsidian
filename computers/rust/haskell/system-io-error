@@ -1,0 +1,37 @@
+import System.IO.Error
+
+IOError -> Signifies that an IO error occured
+
+catch :: IO a -> (IOError -> IO a) -> IO a
+catch -> Return same IO action if success, run error-handling func and return new IO if error
+
+    main = catch IOFunc catcherFunc
+    
+    IOFunc -> Do some IO bla bla
+    catcherFunc :: IOError -> IO ()
+    catcherFunc e = putStrLn "Whoops, had an error there bud"
+
+You catch error by using predicates to narrow down the IOError (interrupting prog is error, why catchall is bad)
+    
+    catcherFunc :: IOError -> IO ()
+    catcherFunc e
+        | isDoesNotExistError e = putStrLn "The file does not exist"
+        | otherwise = ioError e
+
+isDoesNotExistError :: IOError -> Bool
+isDoesNotExistError -> Returns true if error doesn't exist
+
+ioError :: IOError -> IO a
+ioError -> Rethrows default system IOError
+
+isAlreadyExistError
+isDoesNotExistError
+isAlreadyInUseError
+isFullError (device is full)
+isEOFError (end of file was reached)
+isIllegalOperation (the operation is impossible)
+isPermissionError
+isUserError (uses function userError to make exception)
+
+ioeGetFileName :: IOError -> Maybe FilePath
+ioeGetFileName -> Extracts FilePath from IOError (if it can)

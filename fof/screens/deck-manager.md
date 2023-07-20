@@ -17,6 +17,7 @@
 
 ## Card Inserter Area
 - 10 or 8 per page, seperated by pages, change page with small arrow that is either inside or outside menu
+- Last and first page should have some sort of art thing that indicates it's the end/start
 ### Loaned Cards
 - Last card selected is always the loaned card
 - Can't be traded up

@@ -6,6 +6,7 @@
 
 - show a -> Return value as String if it's part of the Show typeclass
 - read a -> Takes a string and a non-string if it's part of the Read typeclass
+- id -> Return passed argument unchanged
 
 ## Higher-Order Functions
 - Functions that can take functions as arguments or return functions
@@ -64,3 +65,10 @@ let listOfFuns = map (\*) [0..]
 - If you get a value you can apply the \* -> (listOfFuns !! 4) 5 -> Returns 20 same as writing (4\*) 5 || 4 \* 5
 
 - flip f x y -> Takes a function of two arguments and returns a new function with the arguments flippedgt
+
+# Creating Infix Operators
+- infixr/l precedence (operator precedence num) operator
+- Operator becomes automatically infixed
+- Precedece is optional
+
+
