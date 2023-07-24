@@ -1,7 +1,7 @@
 Functor is a [[typeclass.md]]
 Used for things that can be mapped over
 
-f is a type constructor that takes one type parameter (function that takes one arg)
+f is a type constructor that takes one type parameter (function that takes one arg) (\* -> \*)
 How it's implemented
     class Functor f where
         fmap :: (a -> b) -> f a -> f b
@@ -24,3 +24,4 @@ You can partially apply functions to make them work for Functor's limitation of 
     instance Functor (Either a) where
         fmap f (Right x) = Right (f x)
         fmap f (Left x) = Left x
+
