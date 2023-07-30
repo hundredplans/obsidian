@@ -25,3 +25,13 @@ You can partially apply functions to make them work for Functor's limitation of 
         fmap f (Right x) = Right (f x)
         fmap f (Left x) = Left x
 
+
+fmap takes a function and applies it inside a sort of box
+
+fmap f (x:xs) = f x: fmap f xs
+fmap f (Just x) = Just (f x)
+fmap f action = do # returns IO action with function applied
+    result <- action
+    return (f result)
+
+fmap :: (a -> b) -> (f a -> f b) # can be though of this way

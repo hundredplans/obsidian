@@ -1,3 +1,0 @@
-Two Goals
-- Display font outline on RichTextLabel
-- Center RichTextLabel text both vertically and horizontally

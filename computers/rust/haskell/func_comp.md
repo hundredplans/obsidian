@@ -4,7 +4,8 @@
 - Definition below
 
 (.) :: (b -> c) -> (a -> b) -> a -> c  
-f . g = \x -> f (g x)  
+f . g = (\x -> f (g x))
+f (g x) == (f . g) x
 
 - Apply func1 then func2 and create a new function out of that    
 - The return value of func1 must match argument of func2
