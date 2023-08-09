@@ -71,4 +71,6 @@ let listOfFuns = map (\*) [0..]
 - Operator becomes automatically infixed
 - Precedece is optional
 
-
+# Weird Functions
+(,) same as \x y -> (x, y)
+(,,) same as \x y z -> (x,y,z)
