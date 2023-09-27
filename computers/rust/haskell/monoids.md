@@ -66,7 +66,7 @@ instance Monoid Ordering where
     EQ `mappend` y = y
     GT `mappend` _ = GT
 
-Comparing stringth length, if EQ compare alphabetical order ("a" < "b")
+Comparing string length, if EQ compare alphabetical order ("a" < "b")
 lengthCompare :: String -> String -> Ordering
 lengthCompare x y = (length x `compare` length y) `mappend` (x `compare` y)
 

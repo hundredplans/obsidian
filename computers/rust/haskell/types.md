@@ -26,7 +26,7 @@
 - List
 - Tuple (infinite amount of types, () is an empty tuple type)
 - a/b/c/d -> Represent any type, usually use single letter to denote themself but could be any [Char]
-- [a] -> List of any types
+- [ ] -> List of any types
 - Ordering -> Returns an enum of LT, EQ, GT
 - Either a b -> Definas Left a | Right b deriving (Eq, Ord, Read, Show) -> Used to capture two values and match either Left or Right
 - Empty -> Used to define Empty lists

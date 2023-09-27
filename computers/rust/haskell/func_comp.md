@@ -41,3 +41,8 @@ sum' = foldl (+) 0
 
 fn x = ceiling (negate (tan (cos (max 50 x))))
 fn = ceiling . negate . tan . cos . max 50  
+
+COMPOSITION IS THIS
+g = a -> b
+f = b -> c
+f . g = a - > c # Creates a new function that does this sort of

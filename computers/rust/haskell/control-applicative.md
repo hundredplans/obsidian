@@ -53,7 +53,7 @@ instance Applicative IO where
     (<\*>) :: IO (a -> b) -> IO a -> IO b
 
 __(->) r__
-instance Applicate ((->) r) where
+instance Applicative ((->) r) where
     pure x = (\_ -> x)
     f <\*> \x -> f x (g x)
 
