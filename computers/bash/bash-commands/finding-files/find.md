@@ -9,3 +9,5 @@
 - -size +/-NUM -> Find files above or below a certain file size
 - -iname -> Case insensitive search
 - -print0 -> Print with NUL seperated characters
+
+Use [[fd]] as it might be faster

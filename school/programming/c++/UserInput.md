@@ -1,0 +1,1 @@
+[[cin]] & [[cout]] to display input/grab input

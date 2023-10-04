@@ -1,0 +1,1 @@
+For unix systems usually found in /var/log
