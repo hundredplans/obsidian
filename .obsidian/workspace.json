@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00dfff30112d47fe",
+        "id": "589b49076cdf1909",
         "type": "tabs",
         "children": [
           {
-            "id": "7d7e22b39cb62fbc",
+            "id": "d5aed9a5f3e04473",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,8 +141,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7d7e22b39cb62fbc",
+  "active": "d5aed9a5f3e04473",
   "lastOpenFiles": [
+    "school/programming/c++/OOP/Class-Inheritance.md",
+    "school/programming/c++/OOP/Access Specifier.md",
+    "school/programming/c++/OOP/Classes.md",
+    "school/programming/c++/OOP/OOP.md",
+    "school/programming/c++/OOP/Objects.md",
+    "school/programming/c++/OOP/Class-Constructors.md",
+    "school/programming/c++/OOP/Class-Destructor.md",
+    "school/programming/c++/OOP",
     "school/maths/complex-numbers/Untitled.md",
     "school/comp-sci-concepts/Memory Address.md",
     "school/programming/c++/Pointers.md",
@@ -167,18 +175,10 @@
     "school/programming/c++/Arrays/Array.md",
     "school/programming/c++/Files",
     "school/programming/c++/Variables/Strings.md",
-    "school/programming/c++/Conditionals/cout.md",
-    "school/programming/c++/Conditionals/cin.md",
-    "school/programming/c++/Loops/break.md",
     "school/comp-sci-concepts",
-    "school/programming/Untitled.md",
-    "school/programming/c++/Loops/continue.md",
     "school/programming/c++/Arrays",
-    "school/programming/c++/Conditionals/switch.md",
-    "school/programming/c++/Loops/while-loop.md",
     "school/programming/c++/Loops",
     "school/programming/c++/if-else",
-    "school/programming/c++/Math",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
   ]
