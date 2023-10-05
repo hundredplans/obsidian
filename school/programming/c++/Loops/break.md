@@ -1,0 +1,1 @@
+Can be used to jump out of a loop, same as any other language

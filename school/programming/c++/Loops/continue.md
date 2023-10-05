@@ -1,0 +1,1 @@
+Can be used to skip to the next iteration of the loop, same as any other programming language

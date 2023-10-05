@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "674a1f3d364c6a33",
+        "id": "00dfff30112d47fe",
         "type": "tabs",
         "children": [
           {
-            "id": "4c0e1467df36294a",
+            "id": "7d7e22b39cb62fbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/programming/c++/Conditionals/cin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d2c61dc1e821195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/programming/c++/Conditionals/switch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "938c0a1ead0c927a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/programming/c++/Conditionals/cout.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/programming/c++/Conditionals/switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "school/programming/c++/Conditionals/switch.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/programming/c++/Conditionals/switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,45 +141,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2d2c61dc1e821195",
+  "active": "7d7e22b39cb62fbc",
   "lastOpenFiles": [
+    "school/maths/complex-numbers/Untitled.md",
+    "school/comp-sci-concepts/Memory Address.md",
+    "school/programming/c++/Pointers.md",
+    "school/programming/c++/Functions/main.md",
+    "school/programming/c++/Functions/Functions.md",
+    "school/programming/c++/Functions/Function Overloading.md",
+    "school/maths/Untitled.md",
+    "school/maths/complex-numbers",
+    "school/maths",
+    "school/programming/c++/Functions",
+    "school/programming/c++/References.md",
+    "school/comp-sci-concepts/Contiguous Memory Allocation.md",
+    "school/programming/c++/return.md",
+    "school/programming/c++/Files/getline.md",
+    "school/programming/c++/References/Pointers.md",
+    "school/programming/c++/Files/fstreamobject.md",
+    "school/programming/c++/Files/fstream.md",
+    "school/programming/c++/Files/Files.md",
+    "school/programming/c++/Files/ifstream.md",
+    "school/programming/c++/References",
+    "school/programming/c++/Files/ofstream.md",
+    "school/programming/c++/Arrays/Array.md",
+    "school/programming/c++/Files",
+    "school/programming/c++/Variables/Strings.md",
+    "school/programming/c++/Conditionals/cout.md",
     "school/programming/c++/Conditionals/cin.md",
+    "school/programming/c++/Loops/break.md",
+    "school/comp-sci-concepts",
+    "school/programming/Untitled.md",
+    "school/programming/c++/Loops/continue.md",
+    "school/programming/c++/Arrays",
     "school/programming/c++/Conditionals/switch.md",
     "school/programming/c++/Loops/while-loop.md",
-    "school/programming/c++/Loops/do-loop.md",
-    "school/programming/c++/Loops/for-loop.md",
-    "school/programming/c++/Conditionals/cout.md",
-    "school/programming/c++/Variables/Strings.md",
-    "school/programming/c++/Conditionals/Conditions.md",
-    "school/programming/c++/Variables/Variable-Types.md",
-    "school/programming/c++/Conditionals/if.md",
-    "school/programming/c++/Operators/Math-Operators.md",
-    "school/programming/c++/Operators/Logic-Gates.md",
-    "school/programming/c++/Operators/Assignment-Operators.md",
-    "school/programming/c++/Conditionals/ternary-operator.md",
     "school/programming/c++/Loops",
-    "school/programming/c++/Conditionals/else-if.md",
-    "school/programming/c++/Variables/Bools.md",
     "school/programming/c++/if-else",
-    "school/programming/c++/UserInput.md",
-    "school/programming/c++/return.md",
-    "school/programming/c++/Math/math-funcs.md",
-    "school/programming/c++/Math/log.md",
-    "school/programming/c++/Math/sqrt.md",
-    "school/programming/c++/Math/round.md",
-    "school/programming/c++/Math/min.md",
-    "school/programming/c++/Math/max.md",
     "school/programming/c++/Math",
-    "school/programming/c++/Variables/Variables.md",
-    "school/programming/c++/Conditionals",
-    "school/programming/c++/Operators/Bitwise-Operators.md",
-    "school/programming/c++/Variables",
-    "school/programming/c++/Operators",
-    "school/programming/c++",
-    "school/programming",
-    "computers/bash/profiling",
-    "computers/bash/debugging",
-    "other/jobsearch/library-research/library-research-canvas.canvas",
+    "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
   ]
 }

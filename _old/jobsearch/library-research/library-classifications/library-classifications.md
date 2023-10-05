@@ -7,5 +7,5 @@ Notable ones in English speaking countries
 - [Library of Congress Classification](LCC.md)
 - [Colon Classification](CC.md)
 
-[Call Numbers](call-numbers) are assigned to each book to easily find them and to group similar books together
+[Call Numbers](call-numbers.md) are assigned to each book to easily find them and to group similar books together
 [Principles of Library Classification](library-classification-prinicples.md)
