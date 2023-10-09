@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "589b49076cdf1909",
+        "id": "4e671e815c7189df",
         "type": "tabs",
         "children": [
           {
-            "id": "d5aed9a5f3e04473",
+            "id": "68c5a7dc559628ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "computers/bash/pstree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0a3e77f6710c72d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computers/bash/debugging/strace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "983945aaba33b4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computers/bash/tac.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -45,7 +74,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 210.5
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -81,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computers/bash/tac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "computers/bash/tac.md"
+              }
             }
           },
           {
@@ -111,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computers/bash/tac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,40 +174,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d5aed9a5f3e04473",
+  "active": "983945aaba33b4b6",
   "lastOpenFiles": [
-    "school/programming/c++/OOP/Class-Inheritance.md",
-    "school/programming/c++/OOP/Access Specifier.md",
-    "school/programming/c++/OOP/Classes.md",
-    "school/programming/c++/OOP/OOP.md",
-    "school/programming/c++/OOP/Objects.md",
-    "school/programming/c++/OOP/Class-Constructors.md",
-    "school/programming/c++/OOP/Class-Destructor.md",
+    "computers/bash/debugging/strace.md",
+    "computers/bash/cut.md",
+    "computers/bash/tac.md",
+    "computers/bash/pstree.md",
+    "computers/bash/debugging/gdb.md",
+    "computers/bash/debugging/Untitled.md",
+    "computers/bash/bash-commands.md",
+    "computers/bash/bash-commands/finding-files/bash-finding-files.md",
+    "computers/bash/debugging/logs/logger.md",
+    "computers/bash/debugging/debuggers.md",
+    "computers/bash/debugging/ipdb.md",
+    "computers/bash/debugging/pyflakes.md",
+    "computers/bash/debugging/mypy.md",
+    "computers/bash/debugging/logs/journalctl.md",
+    "computers/bash/debugging/logs/log-show.md",
+    "computers/bash/debugging/logs/logs.md",
+    "computers/bash/printf.md",
+    "computers/bash/debugging/static-analysis-tools.md",
+    "computers/bash/bash-commands/finding-files/find.md",
+    "computers/bash/bash-commands/finding-files/locate.md",
+    "computers/bash/sed/sed-options.md",
+    "computers/bash/sed/sed-syntax.md",
+    "computers/bash/bash-info/$.md",
+    "computers/bash/bash-info/{}.md",
+    "computers/bash/sed/sed.md",
+    "computers/bash/sed/sed-file-manip.md",
     "school/programming/c++/OOP",
-    "school/maths/complex-numbers/Untitled.md",
-    "school/comp-sci-concepts/Memory Address.md",
-    "school/programming/c++/Pointers.md",
-    "school/programming/c++/Functions/main.md",
-    "school/programming/c++/Functions/Functions.md",
-    "school/programming/c++/Functions/Function Overloading.md",
-    "school/maths/Untitled.md",
     "school/maths/complex-numbers",
     "school/maths",
     "school/programming/c++/Functions",
-    "school/programming/c++/References.md",
-    "school/comp-sci-concepts/Contiguous Memory Allocation.md",
-    "school/programming/c++/return.md",
-    "school/programming/c++/Files/getline.md",
-    "school/programming/c++/References/Pointers.md",
-    "school/programming/c++/Files/fstreamobject.md",
-    "school/programming/c++/Files/fstream.md",
-    "school/programming/c++/Files/Files.md",
-    "school/programming/c++/Files/ifstream.md",
     "school/programming/c++/References",
-    "school/programming/c++/Files/ofstream.md",
-    "school/programming/c++/Arrays/Array.md",
     "school/programming/c++/Files",
-    "school/programming/c++/Variables/Strings.md",
     "school/comp-sci-concepts",
     "school/programming/c++/Arrays",
     "school/programming/c++/Loops",

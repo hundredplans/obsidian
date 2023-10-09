@@ -1,0 +1,1 @@
+Liczba Zespolona, para liczb rzeczywistych

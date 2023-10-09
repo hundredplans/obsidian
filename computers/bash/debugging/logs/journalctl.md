@@ -1,5 +1,6 @@
 - Queries the results of system journal
 - If called with no parameters displays full contents of journal
+- Has parameters that you can use to filter, use man or tldr
 # More Specific Uses
 - Find recent boot times
 
