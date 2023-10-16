@@ -1,2 +1,0 @@
-- Prints current processes
-- q to exit

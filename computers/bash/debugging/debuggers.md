@@ -5,5 +5,6 @@ Debuggers can
 
 [[gdb]]
 [[ipdb]]
-[[pyflakes]]
 [[strace]]
+[[mypy]]
+[[pyflakes]]

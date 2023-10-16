@@ -11,7 +11,9 @@ examples:
 
 flags
 - -e syscall_name (e.g. open/read) or even open=[[file-descriptor-number]]
+	- -e trace=file_name (only includes syscalls that mention filenames)
 - -f (shows subprocesses)
+- -ff writes each process into a seperate file
 - -p PID (open for a specific program using PID) (if program runs as root make sure you're root)
 - -s str_size (only shows the first str_size of each string)
 - -o output_file (sends to output file)

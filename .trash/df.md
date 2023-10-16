@@ -1,0 +1,1 @@
+Shows how much size is allocated per partition and some more

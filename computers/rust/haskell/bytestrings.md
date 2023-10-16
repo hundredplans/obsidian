@@ -4,7 +4,6 @@ Regular strings are slow when reading from big files
 Bytestrings are similar to lists but each element is 8 bits
 A lot of function names are similar so do a qualified import
 
-
 -- STRICT BYTESTRINGS --
 
 There are strict and lazy bytestrings (remember lazy is like a promise something will happen)
@@ -15,8 +14,10 @@ toChunks bytestring -> Converts a lazy bytestring to a strict one
 
 -- LAZY BYTESTRINGS --
 ByteStrings are stored as 
-    Chunk String Empty (empty representing end of string)
-    Chunk String (Chunk String Empty) 
+``` haskell
+Chunk String Empty -- (empty representing end of string)
+Chunk String (Chunk String Empty) 
+```
 
 import Data.ByteString.Lazy
 Stored in chunks of 64K, evaluated 64K at a time
@@ -25,8 +26,8 @@ Word8 = 8bit int (0, 255) (part of Num typeclass)
     Int wraps around if you choose a number above 255
 ByteString = Basically a list
 
-pack :: [Word8] -> ByteString
-Creates a ByteString out of ASCII code [99, 97, 110] = "can"
+pack :: \[Word8] -> ByteString
+Creates a ByteString out of ASCII code \[99, 97, 110] = "can"
 
 unpack -> Inverse of pack converts a ByteString to bytes
 fromChunks bytestring -> Converts a strict bytestring to a lazy one

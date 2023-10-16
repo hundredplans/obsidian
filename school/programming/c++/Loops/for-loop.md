@@ -1,5 +1,5 @@
 ```c++
-for (Var; Condition; increment/decrement operator)
+for (Var; Condition; increment/decrement operator, increment/decrement operator)
 {
 	// code block
 }
