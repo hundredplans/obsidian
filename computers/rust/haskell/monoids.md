@@ -1,7 +1,7 @@
 import Data.Monoid
 Monoids are a Typeclass in Haskell
 
-__What are Monoids?__
+# What are Monoids?
 \* and ++ have some common properties
 - They take two parameters and produce an output (binary function, often curried)
 - Parameters and returned values have the same type
@@ -10,7 +10,7 @@ __What are Monoids?__
 
 Monoids are an associative binary function (two inputs) with a value which acts as an identity with respect to that function (\[] for ++, 1 for \*)
 
-__Monoid Typeclass Definition__
+# Monoid Typeclass Definition
 ```haskell
 class Monoid m where
     mempty :: m
@@ -23,24 +23,24 @@ mempty is the identity function
 mappend is the binary function (takes two values of a type and returns a value of the same type)
 mconcat takes a list of monoid values and mappends them into a single value
 
-__Monoid Laws__
+# Monoid Laws
 mempty \`mappend\` x = x -> (identity function returns itself)
 x \`mappend\` mempty = x -> (order doesn't matter)
 (x \`mappend\` y) \`mappend\` z = x \`mappend\` (y \`mappend\` z) -> (order doesn't matter v2)
 
-__Lists as Monoids__
+# Lists as Monoids
 instance Monoid \[a] where -> Notice \[a] not \[] as Monoid requires a concrete type
     mempty = \[]
     mappend = (++) -> Currying in action as (++) takes two values
-
-__What is a Monoid__
+Notice how mappend is just function composition and mempty is just id
+# What is a Monoid
 Multiplication (\*) (Identity is 1)
 Addition (+) (Identity is 0)
 Lists (\[a]) (Identity is \[])
 Or (||) (Identity is False)
 And (&&) (Identity is True)
 
-__Product and Sum__ (newtypes of Monoid Typeclass as numbers can be monoids in different ways (+ and \*)
+Product and Sum (newtypes of Monoid Typeclass as numbers can be monoids in different ways (+ and \*)
 newtype Product a = Product {getProduct :: a}
     deriving (Eq, Ord, Read, Show, Bounded)
 
@@ -50,7 +50,7 @@ instance Num a => Monoid (Product a) where (When Monoid takes a value of Product
 
 Sum is defined like Product and can be used in the same way but for (+)
 
-__Any and All__
+# Any and All
 newtype Any = Any {getAny :: Bool} deriving {Eq, Ord, Show, Read, Bounded}
 instance Monoid Any where
     mempty = Any False
@@ -61,7 +61,7 @@ instance Monoid All where
     mempty = All True
     All x \`mappend\` All y = All (x && y)
 
-__Ordering Type__
+# Ordering Type
 instance Monoid Ordering where
     mempty = EQ -> EQ is the identity
     LT \`mappend\` _ = LT
@@ -82,7 +82,7 @@ lengthCompare x y = (length x `compare` length y) `mappend` -- Checks for amount
     where vowels = length . filter (`elem` "aeiou")
 ```
 
-__Maybe a__
+# Maybe a 
 ```haskell
 instance Monoid a => Monoid (Maybe a) where -- If a is a Monoid, Maybe a is also a Monoid
     mempty = Nothing
@@ -91,7 +91,7 @@ instance Monoid a => Monoid (Maybe a) where -- If a is a Monoid, Maybe a is also
     Just m1 `mappend` Just m2 = Just (m1 `mappend` m2)
 ```
 
-__First a and Last a__
+# First a and Last a
 ```haskell
 newtype First a = First {getFirst :: Maybe a} deriving (Eq, Ord, Read, Show)
 instance Monoid (First a) where
