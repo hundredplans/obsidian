@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d81ec4f1d25b98b2",
+        "id": "e7dc05505f41f04d",
         "type": "tabs",
         "children": [
           {
-            "id": "6bb558c52be65412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/programming/c++/Arrays/Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8b9ce7ef46d1fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/programming/c++/Arrays/Char-Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63f9830e33022ba4",
+            "id": "8083a130bb53d6e2",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school/PUI/pui-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school/PUI/pui-index.md"
+              }
             }
           },
           {
@@ -136,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school/PUI/pui-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,44 +145,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "63f9830e33022ba4",
+  "active": "8083a130bb53d6e2",
   "lastOpenFiles": [
+    "school/PUI/pui-index.md",
+    "www.haskell.org/ghc/docs/latest/html/libraries.md",
+    "www.haskell.org/ghc/docs/latest/html",
+    "www.haskell.org/ghc/docs/latest",
+    "www.haskell.org/ghc/docs",
+    "www.haskell.org/ghc",
+    "www.haskell.org",
+    "computers/bash/bash-info/$.md",
+    "computers/bash/bash-info/shell-scripts.md",
+    "computers/bash/wc.md",
+    "computers/bash/date.md",
+    "computers/bash/bash-info/shell-startup-scripts.md",
+    "computers/bash/bash-info/sh.md",
+    "computers/bash/bash-environment-variables.md",
+    "computers/bash/bash-info/shebang.md",
+    "computers/regex/regex-patterns.md",
+    "computers/regex/regex-index.md",
+    "school/WIA/Big-O.md",
+    "school/WIA",
+    "computers/rust/haskell/$.md",
+    "school/programming/c++/Arrays/Array.md",
     "school/programming/c++/Arrays/Char-Array.md",
     "school/programming/c++/Arrays/Multi-Dimensional-Arrays.md",
-    "school/programming/c++/Arrays/Array.md",
     "computers/rust/haskell/lists.md",
-    "school/PUI/pui-index.md",
     "computers/rust/ultralearning/ultralearning-index.md",
     "computers/rust/ultralearning/metalearning.md",
     "computers/rust/haskell/State.md",
     "computers/rust/haskell/Reader.md",
     "computers/rust/haskell/Error.md",
     "computers/rust/haskell/Either.md",
-    "Untitled.md",
     "school/PUI",
     "computers/rust/haskell/Rational.md",
     "computers/rust/haskell/difference-lists.md",
-    "computers/rust/haskell/monads.md",
-    "computers/rust/haskell/control-monad-instances.md",
-    "computers/rust/haskell/Monad-Functions.md",
-    "computers/rust/haskell/Making-Monads.md",
-    "computers/rust/haskell/control-applicative.md",
-    "computers/rust/haskell/monoids.md",
-    "school/programming/c++/Loops/for-loop.md",
-    "school/programming/c++/UserInput.md",
-    "school/programming/c++/return.md",
-    "school/programming/c++/Comments.md",
-    "computers/rust/haskell/monads-more.md",
-    "computers/bash/bash-commands/terminal-multiplexers/tmux.md",
     "school/programming/c++/OOP",
     "school/maths/complex-numbers",
     "school/maths",
-    "school/programming/c++/Functions",
-    "school/programming/c++/References",
-    "school/programming/c++/Files",
-    "school/comp-sci-concepts",
-    "school/programming/c++/Arrays",
-    "school/programming/c++/Loops",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
   ]
