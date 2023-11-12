@@ -1,0 +1,1 @@
+You can use [[Charazterization]] to give info dumps

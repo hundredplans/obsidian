@@ -1,0 +1,1 @@
+Failure in the middle of a story ([[Progress Hypothesis|progress]]) is typically better than at the [[End]]

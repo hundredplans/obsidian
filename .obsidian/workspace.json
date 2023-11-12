@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e7dc05505f41f04d",
+        "id": "19d9f5cfdfd3bd90",
         "type": "tabs",
         "children": [
           {
-            "id": "8083a130bb53d6e2",
+            "id": "111f6aadf075eaee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "writing/Payoff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "584c9242b0a7755d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing/Plot Expansion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc050baaa2d7adaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing/Plot Promise.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 236.5
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -81,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/PUI/pui-index.md",
+                "file": "writing/Plot Expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/PUI/pui-index.md"
+                "file": "writing/Plot Expansion.md"
               }
             }
           },
@@ -114,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/PUI/pui-index.md",
+                "file": "writing/Plot Expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,44 +174,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8083a130bb53d6e2",
+  "active": "584c9242b0a7755d",
   "lastOpenFiles": [
-    "school/PUI/pui-index.md",
-    "www.haskell.org/ghc/docs/latest/html/libraries.md",
+    "writing/Plot Promise.md",
+    "writing/Substitution Plot.md",
+    "writing/Payoff.md",
+    "writing/Plot Expansion.md",
+    "writing/Promise.md",
+    "writing/Failure.md",
+    "writing/Progress Hypothesis.md",
+    "writing/Character Arc.md",
+    "writing/Dull Plot Hypothesis.md",
+    "writing/Holy-Trio.md",
+    "writing/Ideas.md",
+    "writing/Character Promise.md",
+    "writing/Tone Promise.md",
+    "writing/Progress.md",
+    "writing/Plot.md",
+    "writing/Taste.md",
+    "writing/Eragon Effect.md",
+    "writing/Reverse Eragon Effect.md",
+    "writing/Iconic Characters.md",
+    "writing/Strange Attractor.md",
+    "writing/Character.md",
+    "writing/Umbrella Plot.md",
+    "writing/Info-Dumps.md",
+    "writing/Core Plot.md",
+    "writing/Setting.md",
+    "writing/Cliche.md",
+    "writing",
     "www.haskell.org/ghc/docs/latest/html",
     "www.haskell.org/ghc/docs/latest",
     "www.haskell.org/ghc/docs",
     "www.haskell.org/ghc",
     "www.haskell.org",
-    "computers/bash/bash-info/$.md",
-    "computers/bash/bash-info/shell-scripts.md",
-    "computers/bash/wc.md",
-    "computers/bash/date.md",
-    "computers/bash/bash-info/shell-startup-scripts.md",
-    "computers/bash/bash-info/sh.md",
-    "computers/bash/bash-environment-variables.md",
-    "computers/bash/bash-info/shebang.md",
-    "computers/regex/regex-patterns.md",
-    "computers/regex/regex-index.md",
-    "school/WIA/Big-O.md",
     "school/WIA",
-    "computers/rust/haskell/$.md",
-    "school/programming/c++/Arrays/Array.md",
-    "school/programming/c++/Arrays/Char-Array.md",
-    "school/programming/c++/Arrays/Multi-Dimensional-Arrays.md",
-    "computers/rust/haskell/lists.md",
-    "computers/rust/ultralearning/ultralearning-index.md",
-    "computers/rust/ultralearning/metalearning.md",
-    "computers/rust/haskell/State.md",
-    "computers/rust/haskell/Reader.md",
-    "computers/rust/haskell/Error.md",
-    "computers/rust/haskell/Either.md",
     "school/PUI",
-    "computers/rust/haskell/Rational.md",
-    "computers/rust/haskell/difference-lists.md",
     "school/programming/c++/OOP",
     "school/maths/complex-numbers",
-    "school/maths",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
   ]

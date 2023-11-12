@@ -1,0 +1,1 @@
+How you introduce the story sets the [[Tone]], so for a comedy you don't want to start with Eye of the World [[Prologue]]
