@@ -4,47 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "19d9f5cfdfd3bd90",
+        "id": "240f23c650268650",
         "type": "tabs",
         "children": [
           {
-            "id": "111f6aadf075eaee",
+            "id": "df0ad2f693efbd96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/Payoff.md",
+                "file": "school/programming/c++/OOP/Class-Destructor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "584c9242b0a7755d",
+            "id": "e2d8b567a4979a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/Plot Expansion.md",
+                "file": "computers/rust/haskell/funcs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc050baaa2d7adaa",
+            "id": "46b02c7a16ac52c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/Plot Promise.md",
+                "file": "school/programming/c++/Functions/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "944d51bb023fc2a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/programming/c++/Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ccc8e5c082c8e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/programming/c++/References.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "delete",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/Plot Expansion.md",
+                "file": "school/programming/c++/Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/Plot Expansion.md"
+                "file": "school/programming/c++/Pointers.md"
               }
             }
           },
@@ -143,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/Plot Expansion.md",
+                "file": "school/programming/c++/Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,34 +199,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "584c9242b0a7755d",
+  "active": "944d51bb023fc2a4",
   "lastOpenFiles": [
-    "writing/Plot Promise.md",
-    "writing/Substitution Plot.md",
-    "writing/Payoff.md",
-    "writing/Plot Expansion.md",
-    "writing/Promise.md",
-    "writing/Failure.md",
-    "writing/Progress Hypothesis.md",
-    "writing/Character Arc.md",
-    "writing/Dull Plot Hypothesis.md",
-    "writing/Holy-Trio.md",
-    "writing/Ideas.md",
-    "writing/Character Promise.md",
-    "writing/Tone Promise.md",
-    "writing/Progress.md",
-    "writing/Plot.md",
-    "writing/Taste.md",
-    "writing/Eragon Effect.md",
-    "writing/Reverse Eragon Effect.md",
-    "writing/Iconic Characters.md",
-    "writing/Strange Attractor.md",
+    "school/programming/c++/Functions/Functions.md",
+    "school/programming/c++/Pointers.md",
+    "school/programming/c++/References.md",
+    "computers/vim/Opening Tabs/Buffers/creating-around.md",
+    "computers/vim/Opening Tabs/Buffers/info-around.md",
+    "computers/vim/Opening Tabs/Buffers/Opening Tabs in Vim.md",
+    "computers/vim/Opening Tabs/Buffers/tabs-windows-buffers-jumplist.md",
+    "computers/vim/Opening Tabs/Buffers/moving-around.md",
+    "computers/rust/haskell/funcs.md",
+    "school/programming/c++/OOP/Class-Destructor.md",
+    "computers/bash/bash-info/shell-scripts.md",
+    "computers/bash/tar.md",
+    "computers/bash/bash-environment-variables.md",
+    "computers/bash/date.md",
+    "computers/bash/stat.md",
+    "computers/bash/chmod.md",
+    "school/programming/c++/Arrays/Array.md",
+    "_old/jobsearch/library-research/references/atlases.md",
+    "computers/bash/whoami.md",
+    "devnull.md",
+    "computers/bash/profiling/time.md",
+    "computers/bash/bash-info/;.md",
+    "computers/aws/AMI.md",
+    "computers/bash/cat.md",
     "writing/Character.md",
-    "writing/Umbrella Plot.md",
-    "writing/Info-Dumps.md",
-    "writing/Core Plot.md",
-    "writing/Setting.md",
-    "writing/Cliche.md",
+    "writing/Plot Promise.md",
     "writing",
     "www.haskell.org/ghc/docs/latest/html",
     "www.haskell.org/ghc/docs/latest",
