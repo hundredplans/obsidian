@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/bash/debugging/pdb.md",
+                "file": "school/programming/c++/Loops/do-loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "beb1cd06c3c6da5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_old/vainglory/Forcefield Grenade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a5c62d3216bf73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_old/vainglory/vainglory index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computers/bash/debugging/pdb.md",
+                "file": "_old/vainglory/vainglory index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computers/bash/debugging/pdb.md"
+                "file": "_old/vainglory/vainglory index.md"
               }
             }
           },
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computers/bash/debugging/pdb.md",
+                "file": "_old/vainglory/vainglory index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +211,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "14458da3d74de045",
+  "active": "6a5c62d3216bf73f",
   "lastOpenFiles": [
+    "_old/vainglory/Forcefield Grenade.md",
+    "_old/vainglory/Techie.md",
+    "_old/vainglory/vainglory index.md",
+    "school/programming/c++/Loops/do-loop.md",
+    "computers/bash/bash-info/root-folders.md",
     "computers/bash/debugging/ipdb.md",
     "computers/bash/debugging/pdb.md",
     "computers/bash/debugging/debuggers.md",
@@ -197,7 +226,6 @@
     "computers/remote-machines/vboxmanage.md",
     "computers/remote-machines/GRUB.md",
     "computers/remote-machines/nmap.md",
-    "computers/bash/bash-info/root-folders.md",
     "computers/remote-machines/ssh/ssh-index.md",
     "computers/bash/bash-info/option.md",
     "computers/bash/bash-info/ext4.md",
@@ -212,10 +240,6 @@
     "computers/vim/Opening Tabs/Buffers/info-around.md",
     "computers/vim/Opening Tabs/Buffers/Opening Tabs in Vim.md",
     "computers/vim/Opening Tabs/Buffers/tabs-windows-buffers-jumplist.md",
-    "computers/vim/Opening Tabs/Buffers/moving-around.md",
-    "computers/bash/bash-info/shell-scripts.md",
-    "computers/bash/tar.md",
-    "computers/bash/bash-environment-variables.md",
     "writing",
     "www.haskell.org/ghc/docs/latest/html",
     "www.haskell.org/ghc/docs/latest",
