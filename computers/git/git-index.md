@@ -149,7 +149,7 @@
 - Displays commit id, name of author, date edited, timezone of author, line number and code on line number for HEAD commit
 ## git show ID
 - Shows information for a commit/tree/blob
-## git stash [pop]
+## git stash pop
 - Reverts working directory to HEAD commit and saves any changes
 - Specify pop to revert to git stash working directory
 ## git bisect
