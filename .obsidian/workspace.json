@@ -4,46 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "9779ff3e26406fbd",
+        "id": "74dba6f214061496",
         "type": "tabs",
         "children": [
           {
-            "id": "da352d40299751c0",
+            "id": "de878b36c93b3d63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/git/git-index-simple.md",
+                "file": "school/maths/ALG/05 - Przestrzen/Przestrzen R3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6db9fed06c2efe69",
+            "id": "5e39df7a674b98c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/git/git-index-simple-remote.md",
+                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Wektor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "472344a319ef8ee0",
+            "id": "f898c6f8c6db418f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/git/git-index.md",
+                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Rzut Prostokatny.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1520063374761c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Wspolliniowy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6741d659af59822a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computers/regex/regex-index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c1447fa03a34433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computers/regex/regex-patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computers/git/git-index-simple.md",
+                "file": "computers/regex/regex-patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computers/git/git-index-simple.md"
+                "file": "computers/regex/regex-patterns.md"
               }
             }
           },
@@ -142,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computers/git/git-index-simple.md",
+                "file": "computers/regex/regex-patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,13 +206,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "da352d40299751c0",
+  "active": "6c1447fa03a34433",
   "lastOpenFiles": [
-    "computers/git/git-index-simple-remote.md",
+    "computers/regex/regex-index.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/Rzut Prostokatny.md",
+    "school/maths/ALG/05 - Przestrzen/Dzialania na Wektorach.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/Wektor.md",
+    "school/maths/ALG/05 - Przestrzen/Przestrzen R3.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/Wspolplaszczyznowe.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/Rownlolegle.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/Wspolliniowy.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/wspolliniowe.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/wspoliniowe.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/Wspollinowy.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax/Punkt.md",
+    "school/maths/ALG/05 - Przestrzen/Syntax",
+    "school/maths/ALG/05 - Przestrzen",
     "computers/git/git-index.md",
+    "school/maths/complex-numbers/Complex Numbers.md",
+    "computers/git/git-index-simple-remote.md",
+    "school/maths/ALG/Untitled.md",
+    "school/maths/ALG",
+    "computers/bash/devnull.md",
     "computers/git/git-index-simple.md",
     "computers/remote-machines/ssh/ssh-index.md",
     "computers/git/Untitled.md",
@@ -185,21 +241,6 @@
     "computers/bash/tar.md",
     "computers/bash/bash-info/streams.md",
     "STDIN.md",
-    "computers/bash/bash-info/root-folders.md",
-    "computers/bash/debugging/debuggers.md",
-    "school/programming/c++/Loops/do-loop.md",
-    "computers/bash/debugging/ipdb.md",
-    "_old/vainglory/Forcefield Grenade.md",
-    "_old/vainglory/vainglory index.md",
-    "_old/vainglory/windlord/Windlord.md",
-    "_old/vainglory/stone-king/Stone-King.md",
-    "_old/vainglory/Shadow.md",
-    "_old/vainglory/Techie.md",
-    "_old/vainglory/bounty-hunter/Bounty-Hunter.md",
-    "computers/bash/debugging/pdb.md",
-    "computers/bash/bash-info/mc.md",
-    "computers/remote-machines/virtualbox.md",
-    "computers/remote-machines/vboxmanage.md",
     "computers/regex/Pasted image 20230607181002.png",
     "writing",
     "www.haskell.org/ghc/docs/latest/html",
@@ -208,9 +249,6 @@
     "www.haskell.org/ghc",
     "www.haskell.org",
     "school/WIA",
-    "school/PUI",
-    "school/programming/c++/OOP",
-    "school/maths/complex-numbers",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
   ]
