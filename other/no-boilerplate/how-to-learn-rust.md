@@ -1,10 +1,7 @@
 # Key Points
 - Rust isn't difficult, it's unfamiliar
 - Once you finish the Rust Book move on to Rustlings
-- Rust upfronts the difficulty to get scalability, perfomance and safety at the start
-- "In other languages simple things are easy and complex things are possible, in Rust simple things are possible and complex things are EASY."
-- In Rust the compiler is your best friend if you behave, in other languages you have to move fast and break things to accomplish tasks
-
+- Rust difficulty is upfronted
 # Important Resources
 - [Rust Programming Book](https://doc.rust-lang.org/book/)
 - [Brown University Rust Book](https://rust-book.cs.brown.edu/) (interactive exercises)
@@ -20,7 +17,7 @@
 # Rustlings
 - Install Rustlings using ```curl -l https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash``` to avoid missing dependencies
 - Type hint to access the hint per level
-- Consider Rustling exercies to be [[Kata]], re-do your favorite ones weekly to remember 
+- Re-do weekly if you want to remember
 
 # How to learn Lifetime Annotations
 - Don't use References, use Ownership and share nothing, pass variables to functions and return them if you need them
@@ -28,7 +25,7 @@
 - Obey the compilter, only use references when the compiler tells you
 
 # How To
-- Haskell
+	- Haskell
 - Read Rust Book once without noting or doing exercises
 - Read Rust Book Brown University and do exercises
 - Do Rustlings alongside Brown University book
