@@ -8,3 +8,4 @@ Generally you can give less than the person needs
 [[Pyramid of Abstraction]]
 
 Worldbuilding through the eyes of the character
+You should show about as much about the [[Character]] as the magic while explaining

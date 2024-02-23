@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a30fc4ac3ca4a5c2",
+        "id": "a06f7eef1e81176a",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ec1051d670d5a0",
+            "id": "dab49126aa686133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/meta/revision/First Draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b14e2ecf351792c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/meta/revision/Revision 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "747f0eb4bf8a0e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/meta/revision/Revision 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ea6ac40e2052dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/meta/revision/Revision 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23ab36d3014662c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/meta/revision/Revision 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74b322549f69fdd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/meta/revision/Revision 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0c6664b8387ac27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/meta/revision/Revision Guide.md",
+                "file": "writing/Holy-Trio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 240.5
   },
   "right": {
     "id": "7a353e3001455ff1",
@@ -158,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/meta/revision/Revision 5.md",
+                "file": "writing/Holy-Trio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/meta/revision/Revision 5.md"
+                "file": "writing/Holy-Trio.md"
               }
             }
           },
@@ -191,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/meta/revision/Revision 5.md",
+                "file": "writing/Holy-Trio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,44 +149,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "74b322549f69fdd2",
+  "active": "dab49126aa686133",
   "lastOpenFiles": [
-    "writing/meta/revision/Revision 4.md",
-    "writing/meta/revision/Revision 5.md",
-    "writing/meta/revision/Revision 3.md",
-    "writing/meta/revision/Revision 2.md",
-    "writing/meta/revision/Revision Guide.md",
-    "writing/meta/revision/Revision 1.md",
-    "writing/meta/revision/First Draft.md",
-    "writing/meta/Writing Groups.md",
-    "writing/meta/Audience Age.md",
-    "writing/worldbuilding/Introducing New Magic System.md",
-    "writing/meta/revision",
-    "writing/worldbuilding/Combining Magicsystems.md",
-    "writing/worldbuilding/Am I a Hack.md",
-    "writing/meta/Coincidences and Contriving.md",
-    "writing/meta/Internal vs External Logic.md",
-    "writing/worldbuilding/Magic System.md",
-    "writing/worldbuilding/Soft vs Hard Magic.md",
-    "writing/meta/Genre.md",
-    "writing/meta/Inquiry Conflict.md",
-    "writing/worldbuilding/Hollow Iceberg Theory.md",
-    "writing/worldbuilding/Avoiding Infodumps.md",
-    "writing/meta/Short Stories Opening.md",
-    "writing/plot/Conflict.md",
-    "writing/meta/Millieu Conflict.md",
-    "writing/meta/MICE Quotient.md",
-    "writing/meta/Event Conflict.md",
-    "writing/meta/Character Conflict.md",
-    "writing/worldbuilding",
-    "writing/viewpoints",
-    "writing/tone",
-    "writing/setting",
-    "writing/planning",
-    "writing/meta",
-    "writing/progress",
-    "writing/character",
-    "writing/plot",
+    "writing/worldbuilding/suspending-disbelief/Internal vs External Logic.md",
+    "writing/worldbuilding/suspending-disbelief/Coincidences and Contriving.md",
+    "writing/worldbuilding/suspending-disbelief",
+    "writing/worldbuilding/worldbuild/Purposes of Worldbuilding.md",
+    "writing/worldbuilding/worldbuild",
+    "writing/worldbuilding/worldbuild/Worldbuilding in Service of Story.md",
+    "writing/worldbuilding/worldbuild/Hollow Iceberg Theory.md",
+    "writing/worldbuilding/worldbuild/How to Worldbuild.md",
+    "writing/worldbuilding/setting/Setting.md",
+    "writing/worldbuilding/setting",
+    "writing/meta/author/Worldbuilder's Disease.md",
+    "writing/worldbuilding/magic-system/Soft vs Hard Magic.md",
+    "writing/worldbuilding/setting/Physical Setting.md",
+    "writing/worldbuilding/grounding/Maid and Butler Dialogue.md",
+    "writing/worldbuilding/magic-system/Combining Magicsystems.md",
+    "writing/worldbuilding/magic-system/Magic System.md",
+    "writing/worldbuilding/magic-system/Introducing New Magic System.md",
+    "writing/worldbuilding/setting/Cultural Setting.md",
+    "writing/worldbuilding/laws/Sando's Second Law.md",
+    "writing/worldbuilding/laws/Sando's First Law.md",
+    "writing/worldbuilding/magic-system",
+    "writing/meta/audience/Learning Curve.md",
+    "writing/worldbuilding/grounding/Tell then Show.md",
+    "writing/worldbuilding/grounding/Passive Voice.md",
+    "writing/worldbuilding/grounding/Grounding Reader.md",
+    "writing/worldbuilding/grounding/Avoiding Infodump.md",
+    "writing/worldbuilding/grounding/Pyramid of Abstraction.md",
+    "writing/worldbuilding/grounding",
+    "writing/promise-progress/promise/Promise.md",
+    "writing/promise-progress/promise/Payoff.md",
+    "writing/promise-progress/progress",
+    "writing/promise-progress/promise",
+    "writing/worldbuilding/laws",
+    "writing/worldbuilding/infodump",
+    "writing/meta/publishing",
     "computers/regex/Pasted image 20230607181002.png",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
