@@ -1,0 +1,1 @@
+Giving a bigger [[Payoff]] than the [[Promise]] showed, so the Character finds out the full story is about more than expected

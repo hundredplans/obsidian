@@ -1,1 +1,0 @@
-Least important, a book with good [[Character]] and [[Plot]] can have a basic setting

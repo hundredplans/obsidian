@@ -4,91 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "74dba6f214061496",
+        "id": "a30fc4ac3ca4a5c2",
         "type": "tabs",
         "children": [
           {
-            "id": "de878b36c93b3d63",
+            "id": "d6ec1051d670d5a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/maths/ALG/05 - Przestrzen/Przestrzen R3.md",
+                "file": "writing/meta/revision/First Draft.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e39df7a674b98c5",
+            "id": "8b14e2ecf351792c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Wektor.md",
+                "file": "writing/meta/revision/Revision 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f898c6f8c6db418f",
+            "id": "747f0eb4bf8a0e07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Rzut Prostokatny.md",
+                "file": "writing/meta/revision/Revision 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1520063374761c57",
+            "id": "8ea6ac40e2052dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Wspolliniowy.md",
+                "file": "writing/meta/revision/Revision 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6741d659af59822a",
+            "id": "23ab36d3014662c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/regex/regex-index.md",
+                "file": "writing/meta/revision/Revision 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c1447fa03a34433",
+            "id": "74b322549f69fdd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/regex/regex-patterns.md",
+                "file": "writing/meta/revision/Revision 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "06886e2668ffb359",
+            "id": "a0c6664b8387ac27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "writing/meta/revision/Revision Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ">>",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/no-boilerplate/how-to-learn-rust.md",
+                "file": "writing/meta/revision/Revision 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/no-boilerplate/how-to-learn-rust.md"
+                "file": "writing/meta/revision/Revision 5.md"
               }
             }
           },
@@ -187,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/no-boilerplate/how-to-learn-rust.md",
+                "file": "writing/meta/revision/Revision 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,82 +222,45 @@
       "terminal:Open terminal": false
     }
   },
-  "floating": {
-    "id": "ab41c7a94e8afc6b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6aea313e459c00b2",
-        "type": "window",
-        "children": [
-          {
-            "id": "d8da22b2925c57b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e620ca86925a860d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "other/no-boilerplate/how-to-learn-rust.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1352,
-        "y": 48,
-        "width": 640,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "e620ca86925a860d",
+  "active": "74b322549f69fdd2",
   "lastOpenFiles": [
-    "computers/regex/regex-patterns.md",
-    "computers/regex/regex-index.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Rzut Prostokatny.md",
-    "school/maths/ALG/05 - Przestrzen/Dzialania na Wektorach.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Wektor.md",
-    "school/maths/ALG/05 - Przestrzen/Przestrzen R3.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Wspolplaszczyznowe.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Rownlolegle.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Wspolliniowy.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/wspolliniowe.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/wspoliniowe.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Wspollinowy.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Punkt.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax",
-    "school/maths/ALG/05 - Przestrzen",
-    "computers/git/git-index.md",
-    "school/maths/complex-numbers/Complex Numbers.md",
-    "computers/git/git-index-simple-remote.md",
-    "school/maths/ALG/Untitled.md",
-    "school/maths/ALG",
-    "computers/bash/devnull.md",
-    "computers/git/git-index-simple.md",
-    "computers/remote-machines/ssh/ssh-index.md",
-    "computers/git/Untitled.md",
-    "computers/git/git-resources.md",
-    "computers/bash/bash-info/$.md",
-    "computers/bash/bash-info/shell-scripts.md",
-    "computers/bash/tar.md",
-    "computers/bash/bash-info/streams.md",
+    "writing/meta/revision/Revision 4.md",
+    "writing/meta/revision/Revision 5.md",
+    "writing/meta/revision/Revision 3.md",
+    "writing/meta/revision/Revision 2.md",
+    "writing/meta/revision/Revision Guide.md",
+    "writing/meta/revision/Revision 1.md",
+    "writing/meta/revision/First Draft.md",
+    "writing/meta/Writing Groups.md",
+    "writing/meta/Audience Age.md",
+    "writing/worldbuilding/Introducing New Magic System.md",
+    "writing/meta/revision",
+    "writing/worldbuilding/Combining Magicsystems.md",
+    "writing/worldbuilding/Am I a Hack.md",
+    "writing/meta/Coincidences and Contriving.md",
+    "writing/meta/Internal vs External Logic.md",
+    "writing/worldbuilding/Magic System.md",
+    "writing/worldbuilding/Soft vs Hard Magic.md",
+    "writing/meta/Genre.md",
+    "writing/meta/Inquiry Conflict.md",
+    "writing/worldbuilding/Hollow Iceberg Theory.md",
+    "writing/worldbuilding/Avoiding Infodumps.md",
+    "writing/meta/Short Stories Opening.md",
+    "writing/plot/Conflict.md",
+    "writing/meta/Millieu Conflict.md",
+    "writing/meta/MICE Quotient.md",
+    "writing/meta/Event Conflict.md",
+    "writing/meta/Character Conflict.md",
+    "writing/worldbuilding",
+    "writing/viewpoints",
+    "writing/tone",
+    "writing/setting",
+    "writing/planning",
+    "writing/meta",
+    "writing/progress",
+    "writing/character",
+    "writing/plot",
     "computers/regex/Pasted image 20230607181002.png",
-    "writing",
-    "www.haskell.org/ghc/docs/latest/html",
-    "www.haskell.org/ghc/docs/latest",
-    "www.haskell.org/ghc/docs",
-    "www.haskell.org/ghc",
-    "www.haskell.org",
-    "school/WIA",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
   ]

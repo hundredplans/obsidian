@@ -1,0 +1,1 @@
+Better for readers to say their emotional response than fix it
