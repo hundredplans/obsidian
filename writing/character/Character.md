@@ -1,0 +1,5 @@
+[[Character Arc]]
+[[Character Promise]]
+[[Iconic Characters]]
+[[Relationship]]
+[[Side Character]]

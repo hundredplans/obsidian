@@ -1,0 +1,1 @@
+You don't want to have people explain to each other things they already know
