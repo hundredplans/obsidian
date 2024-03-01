@@ -1,3 +1,4 @@
+Worldbuild through the eyes of the character
 Avoid [[Tell then Show]]
 Avoid [[Passive Voice]]
 
@@ -17,3 +18,5 @@ Worldbuilding
 Character Motivation
 Concrete Description
 Worldbuilding
+
+[[Action Sequence]]

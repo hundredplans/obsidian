@@ -1,34 +1,22 @@
 {
   "main": {
-    "id": "d6c1447c07b6dec3",
+    "id": "9408e3e7f5c50856",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "8b3fc2d0ba9c3299",
+        "id": "82ca39627e4d8da1",
         "type": "tabs",
         "children": [
           {
-            "id": "4eec3898a262a277",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-=======
-        "id": "a06f7eef1e81176a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dab49126aa686133",
+            "id": "6d52c6b888c4afa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/Holy-Trio.md",
-                "mode": "source",
+                "file": "writing/character/Flaws.md",
+                "mode": "preview",
                 "source": false
               }
->>>>>>> fed8c833ec0d3557800db30fe5fdaffdacf2dc78
             }
           }
         ]
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "20ef1d638c6e4476",
+    "id": "70e79ebb5237115b",
     "type": "split",
     "children": [
       {
-        "id": "bc2bd0c4902f21ed",
+        "id": "6dbeedbf342290c6",
         "type": "tabs",
         "children": [
           {
-            "id": "6df194351e58c31a",
+            "id": "32ba68858326dd79",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,13 +43,13 @@
             }
           },
           {
-            "id": "14458da3d74de045",
+            "id": "2250ea4c9a16902d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "23818f6e6e9d0d8b",
+            "id": "3716cec889be41b5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,33 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300
   },
   "right": {
-    "id": "7a353e3001455ff1",
+    "id": "70c3308ea5600ff6",
     "type": "split",
     "children": [
       {
-        "id": "8cf7d65d67fe586e",
+        "id": "be1cda54aa93afca",
         "type": "tabs",
         "children": [
           {
-            "id": "a133c58fd9a24372",
+            "id": "bb1e48143e08da46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "writing/character/Flaws.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54325935de8a4a18",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "writing/Holy-Trio.md",
->>>>>>> fed8c833ec0d3557800db30fe5fdaffdacf2dc78
+                "file": "writing/character/Flaws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "29a1a1a322a7d1e4",
+            "id": "8258868b52076f1e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,45 +120,20 @@
             }
           },
           {
-            "id": "c37f7b7c823efce3",
+            "id": "02804f245368612f",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "writing/Holy-Trio.md"
-              }
->>>>>>> fed8c833ec0d3557800db30fe5fdaffdacf2dc78
-            }
-          },
-          {
-            "id": "7996fd7cab233b74",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-<<<<<<< HEAD
-=======
-                "file": "writing/Holy-Trio.md",
->>>>>>> fed8c833ec0d3557800db30fe5fdaffdacf2dc78
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "writing/character/Flaws.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,80 +145,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "terminal:Open terminal": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-<<<<<<< HEAD
-  "active": "4eec3898a262a277",
+  "active": "6d52c6b888c4afa1",
   "lastOpenFiles": [
-    "computers/git/git-index-simple.md",
-    "computers/git/git-index.md",
-    "computers/git/git-index-simple-remote.md",
-    "computers/remote-machines/ssh/ssh-index.md",
-    "computers/git/Untitled.md",
-    "computers/git/git-resources.md",
-    "computers/bash/bash-info/$.md",
-    "computers/bash/bash-info/shell-scripts.md",
-    "computers/bash/tar.md",
-    "computers/bash/bash-info/streams.md",
-    "STDIN.md",
-    "computers/bash/bash-info/root-folders.md",
+    "writing/character/Gorrila in Phone Booth.md",
+    "writing/character/Flaws.md",
+    "writing/character/Character Voice.md",
+    "writing/character/Character Quirks.md",
+    "writing/character/Care for Characters/Character Motivation.md",
+    "writing/character/Character Arc.md",
+    "writing/character/Character.md",
+    "writing/character/Antagonist.md",
+    "writing/character/Writing Character.md",
+    "writing/character/Side Character.md",
+    "writing/character/Personality.md",
+    "computers/bash/profiling/time.md",
+    "computers/bash/profiling/Untitled.md",
+    "computers/bash/profiling/hyperfine.md",
+    "computers/bash/profiling/htop.md",
+    "computers/bash/profiling/cprofile.md",
+    "computers/bash/profiling/callgraph.md",
     "computers/bash/debugging/debuggers.md",
-    "school/programming/c++/Loops/do-loop.md",
-    "computers/bash/debugging/ipdb.md",
-    "_old/vainglory/Forcefield Grenade.md",
-    "_old/vainglory/vainglory index.md",
-    "_old/vainglory/windlord/Windlord.md",
-    "_old/vainglory/stone-king/Stone-King.md",
-    "_old/vainglory/Shadow.md",
-    "_old/vainglory/Techie.md",
-    "_old/vainglory/bounty-hunter/Bounty-Hunter.md",
-    "computers/bash/debugging/pdb.md",
-    "computers/bash/bash-info/mc.md",
-    "computers/remote-machines/virtualbox.md",
-    "computers/remote-machines/vboxmanage.md",
-=======
-  "active": "dab49126aa686133",
-  "lastOpenFiles": [
-    "writing/worldbuilding/suspending-disbelief/Internal vs External Logic.md",
-    "writing/worldbuilding/suspending-disbelief/Coincidences and Contriving.md",
-    "writing/worldbuilding/suspending-disbelief",
-    "writing/worldbuilding/worldbuild/Purposes of Worldbuilding.md",
-    "writing/worldbuilding/worldbuild",
-    "writing/worldbuilding/worldbuild/Worldbuilding in Service of Story.md",
-    "writing/worldbuilding/worldbuild/Hollow Iceberg Theory.md",
-    "writing/worldbuilding/worldbuild/How to Worldbuild.md",
-    "writing/worldbuilding/setting/Setting.md",
-    "writing/worldbuilding/setting",
-    "writing/meta/author/Worldbuilder's Disease.md",
-    "writing/worldbuilding/magic-system/Soft vs Hard Magic.md",
-    "writing/worldbuilding/setting/Physical Setting.md",
-    "writing/worldbuilding/grounding/Maid and Butler Dialogue.md",
-    "writing/worldbuilding/magic-system/Combining Magicsystems.md",
-    "writing/worldbuilding/magic-system/Magic System.md",
-    "writing/worldbuilding/magic-system/Introducing New Magic System.md",
-    "writing/worldbuilding/setting/Cultural Setting.md",
-    "writing/worldbuilding/laws/Sando's Second Law.md",
-    "writing/worldbuilding/laws/Sando's First Law.md",
-    "writing/worldbuilding/magic-system",
-    "writing/meta/audience/Learning Curve.md",
-    "writing/worldbuilding/grounding/Tell then Show.md",
-    "writing/worldbuilding/grounding/Passive Voice.md",
-    "writing/worldbuilding/grounding/Grounding Reader.md",
-    "writing/worldbuilding/grounding/Avoiding Infodump.md",
-    "writing/worldbuilding/grounding/Pyramid of Abstraction.md",
-    "writing/worldbuilding/grounding",
-    "writing/promise-progress/promise/Promise.md",
-    "writing/promise-progress/promise/Payoff.md",
-    "writing/promise-progress/progress",
-    "writing/promise-progress/promise",
-    "writing/worldbuilding/laws",
-    "writing/worldbuilding/infodump",
-    "writing/meta/publishing",
->>>>>>> fed8c833ec0d3557800db30fe5fdaffdacf2dc78
-    "computers/regex/Pasted image 20230607181002.png",
-    "_old/jobsearch/library-research/library-research-canvas.canvas",
-    "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
+    "computers/bash/bash-commands/job-control/bg.md",
+    "computers/bash/bash-commands/job-control/disown.md",
+    "computers/bash/bash-commands/job-control/fg.md",
+    "computers/bash/bash-commands/job-control/job-control.md",
+    "computers/bash/bash-commands/job-control/jobs.md",
+    "computers/bash/bash-commands/job-control/kill.md",
+    "computers/bash/bash-commands/job-control/pgrep.md",
+    "computers/bash/bash-commands/job-control/SIGINT.md",
+    "writing/meta/writing",
+    "writing/character/Care for Characters",
+    "writing/plot/plot",
+    "writing/plot/concepts",
+    "writing/plot/structures",
+    "writing/plot/Untitled.canvas"
   ]
 }
