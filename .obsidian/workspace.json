@@ -1,18 +1,27 @@
 {
   "main": {
-    "id": "d6c1447c07b6dec3",
+    "id": "9408e3e7f5c50856",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "b8713cfb3f4fa0bd",
         "type": "tabs",
         "children": [
           {
             "id": "6b09c543ee94f71a",
+=======
+        "id": "82ca39627e4d8da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d52c6b888c4afa1",
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "school/POG/java/variables/java-array.md",
                 "mode": "source",
                 "source": false
@@ -51,6 +60,10 @@
               "state": {
                 "file": "school/POG/java/functions/java-functions-types.md",
                 "mode": "source",
+=======
+                "file": "writing/character/Flaws.md",
+                "mode": "preview",
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
                 "source": false
               }
             }
@@ -62,15 +75,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "20ef1d638c6e4476",
+    "id": "70e79ebb5237115b",
     "type": "split",
     "children": [
       {
-        "id": "bc2bd0c4902f21ed",
+        "id": "6dbeedbf342290c6",
         "type": "tabs",
         "children": [
           {
-            "id": "6df194351e58c31a",
+            "id": "32ba68858326dd79",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,13 +93,13 @@
             }
           },
           {
-            "id": "14458da3d74de045",
+            "id": "2250ea4c9a16902d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -95,7 +108,7 @@
             }
           },
           {
-            "id": "23818f6e6e9d0d8b",
+            "id": "3716cec889be41b5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,30 +119,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300
   },
   "right": {
-    "id": "7a353e3001455ff1",
+    "id": "70c3308ea5600ff6",
     "type": "split",
     "children": [
       {
-        "id": "8cf7d65d67fe586e",
+        "id": "be1cda54aa93afca",
         "type": "tabs",
         "children": [
           {
-            "id": "a133c58fd9a24372",
+            "id": "bb1e48143e08da46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "writing/character/Flaws.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54325935de8a4a18",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "school/POG/java/functions/PVSM.md",
+=======
+                "file": "writing/character/Flaws.md",
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "29a1a1a322a7d1e4",
+            "id": "8258868b52076f1e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,11 +174,12 @@
             }
           },
           {
-            "id": "c37f7b7c823efce3",
+            "id": "02804f245368612f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "school/POG/java/functions/PVSM.md"
               }
             }
@@ -163,29 +198,32 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+=======
+                "file": "writing/character/Flaws.md"
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "terminal:Open terminal": false
+      "audio-recorder:Start/stop recording": false
     }
   },
+<<<<<<< HEAD
   "active": "3dced56234f6a991",
   "lastOpenFiles": [
     "school/POG/java/functions/java-functions.md",
@@ -227,5 +265,41 @@
     "computers/regex/Pasted image 20230607181002.png",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
+=======
+  "active": "6d52c6b888c4afa1",
+  "lastOpenFiles": [
+    "writing/character/Gorrila in Phone Booth.md",
+    "writing/character/Flaws.md",
+    "writing/character/Character Voice.md",
+    "writing/character/Character Quirks.md",
+    "writing/character/Care for Characters/Character Motivation.md",
+    "writing/character/Character Arc.md",
+    "writing/character/Character.md",
+    "writing/character/Antagonist.md",
+    "writing/character/Writing Character.md",
+    "writing/character/Side Character.md",
+    "writing/character/Personality.md",
+    "computers/bash/profiling/time.md",
+    "computers/bash/profiling/Untitled.md",
+    "computers/bash/profiling/hyperfine.md",
+    "computers/bash/profiling/htop.md",
+    "computers/bash/profiling/cprofile.md",
+    "computers/bash/profiling/callgraph.md",
+    "computers/bash/debugging/debuggers.md",
+    "computers/bash/bash-commands/job-control/bg.md",
+    "computers/bash/bash-commands/job-control/disown.md",
+    "computers/bash/bash-commands/job-control/fg.md",
+    "computers/bash/bash-commands/job-control/job-control.md",
+    "computers/bash/bash-commands/job-control/jobs.md",
+    "computers/bash/bash-commands/job-control/kill.md",
+    "computers/bash/bash-commands/job-control/pgrep.md",
+    "computers/bash/bash-commands/job-control/SIGINT.md",
+    "writing/meta/writing",
+    "writing/character/Care for Characters",
+    "writing/plot/plot",
+    "writing/plot/concepts",
+    "writing/plot/structures",
+    "writing/plot/Untitled.canvas"
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
   ]
 }

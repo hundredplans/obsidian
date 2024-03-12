@@ -4,3 +4,4 @@ You can promise a [[Character Arc]] by:
 - Show a flaw that they're working on
 
 This promise kinda previews what the [[Character Arc]] will look like
+At the beginning of a story show a difference between what a character wants and what they need, then you can promise that change
