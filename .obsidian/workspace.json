@@ -1,55 +1,78 @@
 {
   "main": {
-    "id": "d6c1447c07b6dec3",
+    "id": "9408e3e7f5c50856",
     "type": "split",
     "children": [
       {
-        "id": "74dba6f214061496",
+<<<<<<< HEAD
+        "id": "b8713cfb3f4fa0bd",
         "type": "tabs",
         "children": [
           {
-            "id": "de878b36c93b3d63",
+            "id": "6b09c543ee94f71a",
+=======
+        "id": "82ca39627e4d8da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d52c6b888c4afa1",
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "graph",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
+                "file": "school/POG/java/variables/java-array.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> dc244cc193064561453846de5b56c3a5bb459158
             }
           },
           {
-            "id": "5e39df7a674b98c5",
+            "id": "10eead1a313b1d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Wektor.md",
+                "file": "school/POG/java/functions/java-functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f898c6f8c6db418f",
+            "id": "3dced56234f6a991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Rzut Prostokatny.md",
+                "file": "school/POG/java/functions/PVSM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1520063374761c57",
+            "id": "ea38b0ef43772560",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/maths/ALG/05 - Przestrzen/Syntax/Wspolliniowy.md",
+                "file": "school/POG/java/functions/java-functions-types.md",
                 "mode": "source",
+=======
+                "file": "writing/character/Flaws.md",
+                "mode": "preview",
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
                 "source": false
               }
             }
+<<<<<<< HEAD
           },
           {
             "id": "6741d659af59822a",
@@ -97,20 +120,25 @@
           }
         ],
         "currentTab": 7
+=======
+          }
+        ],
+        "currentTab": 2
+>>>>>>> dc244cc193064561453846de5b56c3a5bb459158
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "20ef1d638c6e4476",
+    "id": "70e79ebb5237115b",
     "type": "split",
     "children": [
       {
-        "id": "bc2bd0c4902f21ed",
+        "id": "6dbeedbf342290c6",
         "type": "tabs",
         "children": [
           {
-            "id": "6df194351e58c31a",
+            "id": "32ba68858326dd79",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -120,13 +148,13 @@
             }
           },
           {
-            "id": "14458da3d74de045",
+            "id": "2250ea4c9a16902d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": ">>",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -135,7 +163,7 @@
             }
           },
           {
-            "id": "23818f6e6e9d0d8b",
+            "id": "3716cec889be41b5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -146,30 +174,55 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 300
   },
   "right": {
-    "id": "7a353e3001455ff1",
+    "id": "70c3308ea5600ff6",
     "type": "split",
     "children": [
       {
-        "id": "8cf7d65d67fe586e",
+        "id": "be1cda54aa93afca",
         "type": "tabs",
         "children": [
           {
-            "id": "a133c58fd9a24372",
+            "id": "bb1e48143e08da46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "writing/character/Flaws.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54325935de8a4a18",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "computers/vim/command_line/command-help-info.md",
+=======
+<<<<<<< HEAD
+                "file": "school/POG/java/functions/PVSM.md",
+=======
+                "file": "writing/character/Flaws.md",
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
+>>>>>>> dc244cc193064561453846de5b56c3a5bb459158
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "29a1a1a322a7d1e4",
+            "id": "8258868b52076f1e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,12 +233,17 @@
             }
           },
           {
-            "id": "c37f7b7c823efce3",
+            "id": "02804f245368612f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "computers/vim/command_line/command-help-info.md"
+=======
+<<<<<<< HEAD
+                "file": "school/POG/java/functions/PVSM.md"
+>>>>>>> dc244cc193064561453846de5b56c3a5bb459158
               }
             }
           },
@@ -195,7 +253,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "computers/vim/command_line/command-help-info.md",
+=======
+                "file": "school/POG/java/functions/PVSM.md",
+>>>>>>> dc244cc193064561453846de5b56c3a5bb459158
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,29 +265,32 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+=======
+                "file": "writing/character/Flaws.md"
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "terminal:Open terminal": false
+      "audio-recorder:Start/stop recording": false
     }
   },
+<<<<<<< HEAD
   "floating": {
     "id": "ab41c7a94e8afc6b",
     "type": "floating",
@@ -294,15 +359,85 @@
     "school/maths/ALG/05 - Przestrzen/Syntax",
     "school/maths/ALG/05 - Przestrzen",
     "school/maths/ALG",
+=======
+<<<<<<< HEAD
+  "active": "3dced56234f6a991",
+  "lastOpenFiles": [
+    "school/POG/java/functions/java-functions.md",
+    "school/POG/java/functions/PVSM.md",
+    "school/POG/java/functions/java-functions-types.md",
+    "school/POG/java/variables/java-array.md",
+    "school/POG/java/java-switch.md",
+    "school/FIZ",
+    "school/WPRG/HTML/Anchor.md",
+    "school/WPRG/HTML/Image.md",
+    "school/WPRG/HTML/td.md",
+    "school/WPRG/HTML/colgroup.md",
+    "school/WPRG/HTML/get.md",
+    "school/WPRG/HTML/input.md",
+    "school/WPRG/HTML",
+    "school/WPRG",
+    "school/RDB/Atrybut.md",
+    "school/RDB/Encja.md",
+    "school/RDB/RDB General.md",
+    "school/RDB/Rekord.md",
+    "school/RDB/Relational Databases.md",
+    "school/RDB/ACID.md",
+    "school/RDB/Relational vs Unrelation Databases.md",
+    "school/RDB/Key.md",
+    "school/RDB/Relacja.md",
+    "school/RDB/SQL.md",
+    "school/MAT/complex-numbers/subject-info.md",
+    "school/MAT/complex-numbers/Complex Numbers.md",
+    "computers/sqlite/sqlite-index.md",
+    "school/RDB",
+    "computers/sqlite/sqlite-resources.md",
+    "school/POG/java/variables/java-string.md",
+    "school/POG/java/functions",
+    "school/POG/java/objects",
+    "school/POG/java/IO",
+    "school/POG/java/variables",
+    "school/POG/java/meta",
+    "school/POG/java",
+>>>>>>> dc244cc193064561453846de5b56c3a5bb459158
     "computers/regex/Pasted image 20230607181002.png",
-    "writing",
-    "www.haskell.org/ghc/docs/latest/html",
-    "www.haskell.org/ghc/docs/latest",
-    "www.haskell.org/ghc/docs",
-    "www.haskell.org/ghc",
-    "www.haskell.org",
-    "school/WIA",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
+=======
+  "active": "6d52c6b888c4afa1",
+  "lastOpenFiles": [
+    "writing/character/Gorrila in Phone Booth.md",
+    "writing/character/Flaws.md",
+    "writing/character/Character Voice.md",
+    "writing/character/Character Quirks.md",
+    "writing/character/Care for Characters/Character Motivation.md",
+    "writing/character/Character Arc.md",
+    "writing/character/Character.md",
+    "writing/character/Antagonist.md",
+    "writing/character/Writing Character.md",
+    "writing/character/Side Character.md",
+    "writing/character/Personality.md",
+    "computers/bash/profiling/time.md",
+    "computers/bash/profiling/Untitled.md",
+    "computers/bash/profiling/hyperfine.md",
+    "computers/bash/profiling/htop.md",
+    "computers/bash/profiling/cprofile.md",
+    "computers/bash/profiling/callgraph.md",
+    "computers/bash/debugging/debuggers.md",
+    "computers/bash/bash-commands/job-control/bg.md",
+    "computers/bash/bash-commands/job-control/disown.md",
+    "computers/bash/bash-commands/job-control/fg.md",
+    "computers/bash/bash-commands/job-control/job-control.md",
+    "computers/bash/bash-commands/job-control/jobs.md",
+    "computers/bash/bash-commands/job-control/kill.md",
+    "computers/bash/bash-commands/job-control/pgrep.md",
+    "computers/bash/bash-commands/job-control/SIGINT.md",
+    "writing/meta/writing",
+    "writing/character/Care for Characters",
+    "writing/plot/plot",
+    "writing/plot/concepts",
+    "writing/plot/structures",
+    "writing/plot/Untitled.canvas"
+>>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
   ]
 }

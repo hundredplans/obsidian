@@ -1,1 +1,0 @@
-[[Iconic Characters]] do not need a character arc

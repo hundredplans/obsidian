@@ -1,0 +1,1 @@
+The older your audience the steeper your learning curve can be

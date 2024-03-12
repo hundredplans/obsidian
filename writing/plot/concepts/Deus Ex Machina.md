@@ -1,0 +1,1 @@
+An author inventing a mechanism to save characters from the consequences of their actions in the late part of a story

@@ -1,0 +1,7 @@
+- What you want to happen / Character A and B are a couple
+- Bullet points of the steps that take the characters from beginning to end [[Progress]], what you need to include to make sure it happens
+- So what gap does the relationship fill for both characters, aka what one person is good at the other person is weak at and vice versa
+- A reason why they don't immediatelly propose to each other / [[Conflict]]
+- First time they meet, it doesn't work out for this reason, second for another etc
+- Scenes where the characters realise what the other does is something they admire could be in secret, such as seeing someone care deeply for someone that the character doesn't often do
+- Braiding roses over time, thorns are pointed against each other and by the end are pointed outwardly towards anyone who wants to destroy the relationship
