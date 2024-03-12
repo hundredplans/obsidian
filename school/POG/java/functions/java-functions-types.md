@@ -1,0 +1,1 @@
+Static -> Doesn't require an object of the class to be used

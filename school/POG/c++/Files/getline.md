@@ -1,4 +1,4 @@
-Used to read from a [stream](fstream) and store the value in a variable
+Used to read from a [stream](fstream.md) and store the value in a variable
 getline(FileStream, StringVar)
 ``` c++
 string text;

@@ -1,0 +1,1 @@
+Numeric type that can hold 16 bites -32k -> 32k

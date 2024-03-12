@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "a06f7eef1e81176a",
+        "id": "b8713cfb3f4fa0bd",
         "type": "tabs",
         "children": [
           {
-            "id": "dab49126aa686133",
+            "id": "6b09c543ee94f71a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/Holy-Trio.md",
+                "file": "school/POG/java/variables/java-array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10eead1a313b1d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/POG/java/functions/java-functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dced56234f6a991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/POG/java/functions/PVSM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea38b0ef43772560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/POG/java/functions/java-functions-types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/Holy-Trio.md",
+                "file": "school/POG/java/functions/PVSM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/Holy-Trio.md"
+                "file": "school/POG/java/functions/PVSM.md"
               }
             }
           },
@@ -118,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/Holy-Trio.md",
+                "file": "school/POG/java/functions/PVSM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,43 +186,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "dab49126aa686133",
+  "active": "3dced56234f6a991",
   "lastOpenFiles": [
-    "writing/worldbuilding/suspending-disbelief/Internal vs External Logic.md",
-    "writing/worldbuilding/suspending-disbelief/Coincidences and Contriving.md",
-    "writing/worldbuilding/suspending-disbelief",
-    "writing/worldbuilding/worldbuild/Purposes of Worldbuilding.md",
-    "writing/worldbuilding/worldbuild",
-    "writing/worldbuilding/worldbuild/Worldbuilding in Service of Story.md",
-    "writing/worldbuilding/worldbuild/Hollow Iceberg Theory.md",
-    "writing/worldbuilding/worldbuild/How to Worldbuild.md",
-    "writing/worldbuilding/setting/Setting.md",
-    "writing/worldbuilding/setting",
-    "writing/meta/author/Worldbuilder's Disease.md",
-    "writing/worldbuilding/magic-system/Soft vs Hard Magic.md",
-    "writing/worldbuilding/setting/Physical Setting.md",
-    "writing/worldbuilding/grounding/Maid and Butler Dialogue.md",
-    "writing/worldbuilding/magic-system/Combining Magicsystems.md",
-    "writing/worldbuilding/magic-system/Magic System.md",
-    "writing/worldbuilding/magic-system/Introducing New Magic System.md",
-    "writing/worldbuilding/setting/Cultural Setting.md",
-    "writing/worldbuilding/laws/Sando's Second Law.md",
-    "writing/worldbuilding/laws/Sando's First Law.md",
-    "writing/worldbuilding/magic-system",
-    "writing/meta/audience/Learning Curve.md",
-    "writing/worldbuilding/grounding/Tell then Show.md",
-    "writing/worldbuilding/grounding/Passive Voice.md",
-    "writing/worldbuilding/grounding/Grounding Reader.md",
-    "writing/worldbuilding/grounding/Avoiding Infodump.md",
-    "writing/worldbuilding/grounding/Pyramid of Abstraction.md",
-    "writing/worldbuilding/grounding",
-    "writing/promise-progress/promise/Promise.md",
-    "writing/promise-progress/promise/Payoff.md",
-    "writing/promise-progress/progress",
-    "writing/promise-progress/promise",
-    "writing/worldbuilding/laws",
-    "writing/worldbuilding/infodump",
-    "writing/meta/publishing",
+    "school/POG/java/functions/java-functions.md",
+    "school/POG/java/functions/PVSM.md",
+    "school/POG/java/functions/java-functions-types.md",
+    "school/POG/java/variables/java-array.md",
+    "school/POG/java/java-switch.md",
+    "school/FIZ",
+    "school/WPRG/HTML/Anchor.md",
+    "school/WPRG/HTML/Image.md",
+    "school/WPRG/HTML/td.md",
+    "school/WPRG/HTML/colgroup.md",
+    "school/WPRG/HTML/get.md",
+    "school/WPRG/HTML/input.md",
+    "school/WPRG/HTML",
+    "school/WPRG",
+    "school/RDB/Atrybut.md",
+    "school/RDB/Encja.md",
+    "school/RDB/RDB General.md",
+    "school/RDB/Rekord.md",
+    "school/RDB/Relational Databases.md",
+    "school/RDB/ACID.md",
+    "school/RDB/Relational vs Unrelation Databases.md",
+    "school/RDB/Key.md",
+    "school/RDB/Relacja.md",
+    "school/RDB/SQL.md",
+    "school/MAT/complex-numbers/subject-info.md",
+    "school/MAT/complex-numbers/Complex Numbers.md",
+    "computers/sqlite/sqlite-index.md",
+    "school/RDB",
+    "computers/sqlite/sqlite-resources.md",
+    "school/POG/java/variables/java-string.md",
+    "school/POG/java/functions",
+    "school/POG/java/objects",
+    "school/POG/java/IO",
+    "school/POG/java/variables",
+    "school/POG/java/meta",
+    "school/POG/java",
     "computers/regex/Pasted image 20230607181002.png",
     "_old/jobsearch/library-research/library-research-canvas.canvas",
     "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
