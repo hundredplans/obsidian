@@ -11,12 +11,8 @@
             "id": "de878b36c93b3d63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/maths/ALG/05 - Przestrzen/Przestrzen R3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -86,9 +82,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "aaaafeb9ed20cd1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computers/vim/command_line/command-help-info.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/no-boilerplate/how-to-learn-rust.md",
+                "file": "computers/vim/command_line/command-help-info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/no-boilerplate/how-to-learn-rust.md"
+                "file": "computers/vim/command_line/command-help-info.md"
               }
             }
           },
@@ -187,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/no-boilerplate/how-to-learn-rust.md",
+                "file": "computers/vim/command_line/command-help-info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,37 +263,37 @@
       }
     ]
   },
-  "active": "e620ca86925a860d",
+  "active": "aaaafeb9ed20cd1c",
   "lastOpenFiles": [
+    "computers/vim/command_line/command-line-mode.md",
+    "computers/vim/How to Update Plugins.md",
+    "computers/vim/Vim-Plug.md",
+    "computers/vim/vim-plugins.md",
+    "computers/vim/vim-index.md",
+    "computers/vim/insert/insert-mode.md",
+    "computers/vim/vim-modes.md",
+    "_old/shaders/info/resources.md",
+    "computers/vim/resources.md",
+    "computers/bash/env.md",
+    "computers/bash/debugging/logs/logs.md",
+    "computers/bash/debugging/logs/logger.md",
+    "computers/bash/debugging/logs/journalctl.md",
+    "computers/bash/grep/grep.md",
+    "computers/bash/awk/awk.md",
+    "school/maths/ALG/05 - Przestrzen/Przestrzen R3.md",
+    "other/no-boilerplate/how-to-learn-rust.md",
     "computers/regex/regex-patterns.md",
     "computers/regex/regex-index.md",
     "school/maths/ALG/05 - Przestrzen/Syntax/Rzut Prostokatny.md",
     "school/maths/ALG/05 - Przestrzen/Dzialania na Wektorach.md",
     "school/maths/ALG/05 - Przestrzen/Syntax/Wektor.md",
-    "school/maths/ALG/05 - Przestrzen/Przestrzen R3.md",
     "school/maths/ALG/05 - Przestrzen/Syntax/Wspolplaszczyznowe.md",
     "school/maths/ALG/05 - Przestrzen/Syntax/Rownlolegle.md",
     "school/maths/ALG/05 - Przestrzen/Syntax/Wspolliniowy.md",
     "school/maths/ALG/05 - Przestrzen/Syntax/wspolliniowe.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/wspoliniowe.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Wspollinowy.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Punkt.md",
     "school/maths/ALG/05 - Przestrzen/Syntax",
     "school/maths/ALG/05 - Przestrzen",
-    "computers/git/git-index.md",
-    "school/maths/complex-numbers/Complex Numbers.md",
-    "computers/git/git-index-simple-remote.md",
-    "school/maths/ALG/Untitled.md",
     "school/maths/ALG",
-    "computers/bash/devnull.md",
-    "computers/git/git-index-simple.md",
-    "computers/remote-machines/ssh/ssh-index.md",
-    "computers/git/Untitled.md",
-    "computers/git/git-resources.md",
-    "computers/bash/bash-info/$.md",
-    "computers/bash/bash-info/shell-scripts.md",
-    "computers/bash/tar.md",
-    "computers/bash/bash-info/streams.md",
     "computers/regex/Pasted image 20230607181002.png",
     "writing",
     "www.haskell.org/ghc/docs/latest/html",
