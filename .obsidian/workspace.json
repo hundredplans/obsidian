@@ -1,144 +1,100 @@
 {
   "main": {
-    "id": "9408e3e7f5c50856",
+    "id": "390f982e2a6bfd8b",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "b8713cfb3f4fa0bd",
+        "id": "a18a24c6f1c22b07",
         "type": "tabs",
         "children": [
           {
-            "id": "6b09c543ee94f71a",
-=======
-        "id": "82ca39627e4d8da1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d52c6b888c4afa1",
->>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
-            "type": "leaf",
-            "state": {
-<<<<<<< HEAD
-              "type": "graph",
-              "state": {}
-=======
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "school/POG/java/variables/java-array.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> dc244cc193064561453846de5b56c3a5bb459158
-            }
-          },
-          {
-            "id": "10eead1a313b1d0f",
+            "id": "8dadc0f8c349bcc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/POG/java/functions/java-functions.md",
+                "file": "school/RDB/ACID.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3dced56234f6a991",
+            "id": "c0e0fbe15b2abcc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/POG/java/functions/PVSM.md",
+                "file": "school/RDB/Encja.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea38b0ef43772560",
+            "id": "68c04d67d386817c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/POG/java/functions/java-functions-types.md",
-                "mode": "source",
-=======
-                "file": "writing/character/Flaws.md",
-                "mode": "preview",
->>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
-                "source": false
-              }
-            }
-<<<<<<< HEAD
-          },
-          {
-            "id": "6741d659af59822a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computers/regex/regex-index.md",
+                "file": "school/RDB/Opcjonalnosc.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c1447fa03a34433",
+            "id": "162e980c793150fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/regex/regex-patterns.md",
+                "file": "school/RDB/Proces Projektowania.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "06886e2668ffb359",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "aaaafeb9ed20cd1c",
+            "id": "2f20c31455a0ee89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/vim/command_line/command-help-info.md",
-                "mode": "preview",
+                "file": "school/RDB/ERD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fe422f2138429fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/RDB/Atrybut.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
-=======
-          }
-        ],
-        "currentTab": 2
->>>>>>> dc244cc193064561453846de5b56c3a5bb459158
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "70e79ebb5237115b",
+    "id": "40defd512be0999c",
     "type": "split",
     "children": [
       {
-        "id": "6dbeedbf342290c6",
+        "id": "f9e5d235cb2e8e39",
         "type": "tabs",
         "children": [
           {
-            "id": "32ba68858326dd79",
+            "id": "418635aa8956e23d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -148,7 +104,7 @@
             }
           },
           {
-            "id": "2250ea4c9a16902d",
+            "id": "980324a8c62393ca",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -163,34 +119,35 @@
             }
           },
           {
-            "id": "3716cec889be41b5",
+            "id": "6a29e46d6c8a123f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "70c3308ea5600ff6",
+    "id": "48a2a8ed6c5f91f3",
     "type": "split",
     "children": [
       {
-        "id": "be1cda54aa93afca",
+        "id": "27c037ad229aa57c",
         "type": "tabs",
         "children": [
           {
-            "id": "bb1e48143e08da46",
+            "id": "beca6a9ab4bf3f90",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/character/Flaws.md",
+                "file": "school/RDB/Proces Projektowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,27 +159,19 @@
             }
           },
           {
-            "id": "54325935de8a4a18",
+            "id": "e44df5d959020bf8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "computers/vim/command_line/command-help-info.md",
-=======
-<<<<<<< HEAD
-                "file": "school/POG/java/functions/PVSM.md",
-=======
-                "file": "writing/character/Flaws.md",
->>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
->>>>>>> dc244cc193064561453846de5b56c3a5bb459158
+                "file": "school/RDB/Proces Projektowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8258868b52076f1e",
+            "id": "610f86ff9237729e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -233,41 +182,12 @@
             }
           },
           {
-            "id": "02804f245368612f",
+            "id": "3240ca94a2941b0e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "computers/vim/command_line/command-help-info.md"
-=======
-<<<<<<< HEAD
-                "file": "school/POG/java/functions/PVSM.md"
->>>>>>> dc244cc193064561453846de5b56c3a5bb459158
-              }
-            }
-          },
-          {
-            "id": "7996fd7cab233b74",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-<<<<<<< HEAD
-                "file": "computers/vim/command_line/command-help-info.md",
-=======
-                "file": "school/POG/java/functions/PVSM.md",
->>>>>>> dc244cc193064561453846de5b56c3a5bb459158
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-=======
-                "file": "writing/character/Flaws.md"
->>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
+                "file": "school/RDB/Proces Projektowania.md"
               }
             }
           }
@@ -290,154 +210,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-<<<<<<< HEAD
-  "floating": {
-    "id": "ab41c7a94e8afc6b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6aea313e459c00b2",
-        "type": "window",
-        "children": [
-          {
-            "id": "d8da22b2925c57b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e620ca86925a860d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "other/no-boilerplate/how-to-learn-rust.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1352,
-        "y": 48,
-        "width": 640,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "aaaafeb9ed20cd1c",
+  "active": "162e980c793150fd",
   "lastOpenFiles": [
-    "computers/vim/command_line/command-line-mode.md",
-    "computers/vim/How to Update Plugins.md",
-    "computers/vim/Vim-Plug.md",
-    "computers/vim/vim-plugins.md",
-    "computers/vim/vim-index.md",
-    "computers/vim/insert/insert-mode.md",
-    "computers/vim/vim-modes.md",
-    "_old/shaders/info/resources.md",
-    "computers/vim/resources.md",
-    "computers/bash/env.md",
-    "computers/bash/debugging/logs/logs.md",
-    "computers/bash/debugging/logs/logger.md",
-    "computers/bash/debugging/logs/journalctl.md",
-    "computers/bash/grep/grep.md",
-    "computers/bash/awk/awk.md",
-    "school/maths/ALG/05 - Przestrzen/Przestrzen R3.md",
-    "other/no-boilerplate/how-to-learn-rust.md",
-    "computers/regex/regex-patterns.md",
-    "computers/regex/regex-index.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Rzut Prostokatny.md",
-    "school/maths/ALG/05 - Przestrzen/Dzialania na Wektorach.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Wektor.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Wspolplaszczyznowe.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Rownlolegle.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/Wspolliniowy.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax/wspolliniowe.md",
-    "school/maths/ALG/05 - Przestrzen/Syntax",
-    "school/maths/ALG/05 - Przestrzen",
-    "school/maths/ALG",
-=======
-<<<<<<< HEAD
-  "active": "3dced56234f6a991",
-  "lastOpenFiles": [
-    "school/POG/java/functions/java-functions.md",
-    "school/POG/java/functions/PVSM.md",
-    "school/POG/java/functions/java-functions-types.md",
-    "school/POG/java/variables/java-array.md",
-    "school/POG/java/java-switch.md",
-    "school/FIZ",
-    "school/WPRG/HTML/Anchor.md",
-    "school/WPRG/HTML/Image.md",
-    "school/WPRG/HTML/td.md",
-    "school/WPRG/HTML/colgroup.md",
-    "school/WPRG/HTML/get.md",
-    "school/WPRG/HTML/input.md",
-    "school/WPRG/HTML",
-    "school/WPRG",
+    "school/RDB/Opcjonalnosc.md",
+    "school/RDB/Proces Projektowania.md",
+    "school/RDB/ERD.md",
     "school/RDB/Atrybut.md",
     "school/RDB/Encja.md",
-    "school/RDB/RDB General.md",
-    "school/RDB/Rekord.md",
-    "school/RDB/Relational Databases.md",
-    "school/RDB/ACID.md",
-    "school/RDB/Relational vs Unrelation Databases.md",
-    "school/RDB/Key.md",
-    "school/RDB/Relacja.md",
-    "school/RDB/SQL.md",
-    "school/MAT/complex-numbers/subject-info.md",
-    "school/MAT/complex-numbers/Complex Numbers.md",
-    "computers/sqlite/sqlite-index.md",
-    "school/RDB",
-    "computers/sqlite/sqlite-resources.md",
-    "school/POG/java/variables/java-string.md",
-    "school/POG/java/functions",
-    "school/POG/java/objects",
-    "school/POG/java/IO",
-    "school/POG/java/variables",
-    "school/POG/java/meta",
-    "school/POG/java",
->>>>>>> dc244cc193064561453846de5b56c3a5bb459158
-    "computers/regex/Pasted image 20230607181002.png",
-    "_old/jobsearch/library-research/library-research-canvas.canvas",
-    "computers/blender/General Shortcuts/Top Left Small Icon Image.png"
-=======
-  "active": "6d52c6b888c4afa1",
-  "lastOpenFiles": [
-    "writing/character/Gorrila in Phone Booth.md",
-    "writing/character/Flaws.md",
-    "writing/character/Character Voice.md",
-    "writing/character/Character Quirks.md",
-    "writing/character/Care for Characters/Character Motivation.md",
-    "writing/character/Character Arc.md",
-    "writing/character/Character.md",
-    "writing/character/Antagonist.md",
-    "writing/character/Writing Character.md",
-    "writing/character/Side Character.md",
-    "writing/character/Personality.md",
-    "computers/bash/profiling/time.md",
-    "computers/bash/profiling/Untitled.md",
-    "computers/bash/profiling/hyperfine.md",
-    "computers/bash/profiling/htop.md",
-    "computers/bash/profiling/cprofile.md",
-    "computers/bash/profiling/callgraph.md",
-    "computers/bash/debugging/debuggers.md",
-    "computers/bash/bash-commands/job-control/bg.md",
-    "computers/bash/bash-commands/job-control/disown.md",
-    "computers/bash/bash-commands/job-control/fg.md",
-    "computers/bash/bash-commands/job-control/job-control.md",
-    "computers/bash/bash-commands/job-control/jobs.md",
-    "computers/bash/bash-commands/job-control/kill.md",
-    "computers/bash/bash-commands/job-control/pgrep.md",
-    "computers/bash/bash-commands/job-control/SIGINT.md",
-    "writing/meta/writing",
-    "writing/character/Care for Characters",
-    "writing/plot/plot",
-    "writing/plot/concepts",
-    "writing/plot/structures",
-    "writing/plot/Untitled.canvas"
->>>>>>> f13a133aae3e40c89b1764e3fed8c91b2421c602
+    "school/RDB/ACID.md"
   ]
 }
