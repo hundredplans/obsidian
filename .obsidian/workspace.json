@@ -1,5 +1,16 @@
 {
   "main": {
+<<<<<<< HEAD
+    "id": "31c0190d4ad4c37c",
+    "type": "split",
+    "children": [
+      {
+        "id": "148a4a7d1853a4c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19cd5b927b87175e",
+=======
     "id": "390f982e2a6bfd8b",
     "type": "split",
     "children": [
@@ -8,28 +19,62 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "85458a028d9d1d37",
+=======
+            "id": "8dadc0f8c349bcc6",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "school/WPRG/css/CSS vs HTML.md",
+=======
+<<<<<<< HEAD
+                "file": "school/POG/java/variables/Java Types.md",
+=======
+                "file": "school/RDB/ACID.md",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "c12da2c7ffc008ec",
+=======
+<<<<<<< HEAD
+            "id": "86d17309602797e9",
+=======
+            "id": "c0e0fbe15b2abcc4",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "school/WPRG/css/Selector.md",
+=======
+<<<<<<< HEAD
+                "file": "school/POG/java/IO/Scanner.md",
+=======
+                "file": "school/RDB/Encja.md",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
                 "mode": "source",
                 "source": false
               }
             }
+<<<<<<< HEAD
+          }
+        ],
+        "currentTab": 1
+=======
           },
           {
             "id": "4ec7d993fa57f956",
@@ -104,12 +149,28 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+        "currentTab": 3
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
+    "id": "82eb4fae61a0addf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba62ba413988823a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ba24b005d19bb1",
+=======
     "id": "40defd512be0999c",
     "type": "split",
     "children": [
@@ -119,6 +180,7 @@
         "children": [
           {
             "id": "418635aa8956e23d",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -128,7 +190,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "ed297fc763f273a1",
+=======
             "id": "980324a8c62393ca",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
             "type": "leaf",
             "state": {
               "type": "search",
@@ -143,7 +209,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "7f277640f80b1818",
+=======
             "id": "6a29e46d6c8a123f",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -157,6 +227,17 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
+    "id": "99773e12869718ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70b56f52e38581d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb69ac92b8dd7398",
+=======
     "id": "48a2a8ed6c5f91f3",
     "type": "split",
     "children": [
@@ -166,11 +247,20 @@
         "children": [
           {
             "id": "beca6a9ab4bf3f90",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "school/WPRG/css/Selector.md",
+=======
+<<<<<<< HEAD
+                "file": "school/POG/java/IO/Scanner.md",
+=======
+                "file": "school/RDB/Proces Projektowania.md",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,19 +272,35 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "47dc9107563aa116",
+=======
             "id": "e44df5d959020bf8",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "school/WPRG/css/Selector.md",
+=======
+<<<<<<< HEAD
+                "file": "school/POG/java/IO/Scanner.md",
+=======
+                "file": "school/RDB/Proces Projektowania.md",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
+            "id": "2a46b20aa6246f55",
+=======
             "id": "610f86ff9237729e",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -205,12 +311,24 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "41b4e55c66660668",
+=======
             "id": "3240ca94a2941b0e",
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "school/WPRG/css/Selector.md"
+=======
+<<<<<<< HEAD
+                "file": "school/POG/java/IO/Scanner.md"
+=======
+                "file": "school/RDB/Proces Projektowania.md"
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
               }
             }
           }
@@ -233,7 +351,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
+<<<<<<< HEAD
   "active": "c12da2c7ffc008ec",
+=======
+<<<<<<< HEAD
+  "active": "86d17309602797e9",
+  "lastOpenFiles": [
+    "school/POG/java/variables/Java Types.md",
+    "school/POG/java/variables/java-array.md"
+=======
+  "active": "162e980c793150fd",
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
   "lastOpenFiles": [
     "school/WPRG/css/CSS Colors.md",
     "school/WPRG/css/In-Built Classes.md",
@@ -249,7 +377,12 @@
     "school/RDB/ERD.md",
     "school/RDB/ACID.md",
     "school/RDB/Encja.md",
+<<<<<<< HEAD
     "school/RDB/Opcjonalnosc.md",
     "school/RDB/Proces Projektowania.md"
+=======
+    "school/RDB/ACID.md"
+>>>>>>> 6d06633ebf695a07859c0529f9ce7810ca772264
+>>>>>>> 3cccf1da32d4d85fd739cd3b7383cf3b3e67d2bf
   ]
 }
