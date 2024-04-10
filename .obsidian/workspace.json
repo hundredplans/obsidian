@@ -8,39 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "667b58525cef8172",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3740fcbd74b9d8fc",
+            "id": "cd9c9f56604740ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/POG/c++/References.md",
+                "file": "school/RDB/SQL-Create.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "800da11e87f4c62e",
+            "id": "6d9d4d07fa819479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/comp-sci-concepts/Memory Address.md",
+                "file": "school/RDB/SQL-Insert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37d1ae87df74eb9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/RDB/SQL-Alter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0365923ea4cbd132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/RDB/SQL-Data-Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/POG/c++/References.md",
+                "file": "school/RDB/SQL-Alter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/POG/c++/References.md",
+                "file": "school/RDB/SQL-Alter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/POG/c++/References.md"
+                "file": "school/RDB/SQL-Alter.md"
               }
             }
           }
@@ -169,10 +185,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3740fcbd74b9d8fc",
+  "active": "37d1ae87df74eb9c",
   "lastOpenFiles": [
+    "school/RDB/SQL-Create.md",
+    "school/RDB/SQL-Insert.md",
+    "school/RDB/SQL-Alter.md",
+    "school/RDB/SQL-Data-Types.md",
+    "school/RDB/SQL Basic.md",
+    "school/RDB/attachments/select-add.png",
+    "school/RDB/attachments",
+    "school/RDB/New folder",
+    "school/WPRG/css/Selector.md",
     "school/comp-sci-concepts/Memory Address.md",
     "school/POG/c++/References.md",
+    "school/WPRG/css/Referencing CSS.md",
+    "school/WPRG/css/In-Built Classes.md",
+    "school/WPRG/css/Default Styles.md",
     "school/POG/c++/Pointers.md"
   ]
 }
