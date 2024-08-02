@@ -1,0 +1,1 @@
+To measure current using an ammeter, we set the maximum 

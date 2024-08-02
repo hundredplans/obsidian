@@ -1,5 +1,5 @@
 [[less]]
 [[more]]
 [[most]]
-[[history]]
+[[computers/bash/history]]
 [[cat]]

@@ -1,0 +1,1 @@
+The internal resistance of the ammeter has a non-zero influence on the results of the calculation of the current. To negate this influence we will add R<sub>a</sub> to the calculation, transforming I = V/R into I' = V/R + R<sub>a</sub>. Similarly for the voltmeter

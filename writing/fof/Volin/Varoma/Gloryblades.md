@@ -1,0 +1,5 @@
+Six blades, all made of soulsteel
+
+Blazebringer, made by Xotos somewhere around 2700AD. He sought how to create the perfect blade and was a Varoman firemage of outstanding quality. Eventually Gildred came to him and taught him Lifemagic, thus he sacrificed his life to create his greatest sword yet Blazebringer. It is capable of casting Firemagic as Xotos's soul resides inside, and as it's attuned to the user it looks almost as if the person himself is using Firemagic. The blade seeks out great swordsmen as Xotos wants glory to come to his blade, and so it acts as a regular sword to those it deems unfit. Currently held by William Barnabas who's unaware of it's potential. It looks like a regular longsword with only Xotos's name as an engraving on the bottom of the blade.
+
+Saint Lucas's Halberd, Reverend's Halberd. Owned by Saint Lucas, previously ruler of Milshreev made it

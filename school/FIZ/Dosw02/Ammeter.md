@@ -1,0 +1,12 @@
+- Used to measure Amps ([[Current]])
+- Have to be placed "Inside" the flow / current
+- Part of the circuit
+- Disconnect before plugging it in
+- Make sure to connect to the metal parts
+	- Black is negative
+	- Red is positive
+
+- Internal Resistance of an Ammeter can cause measurement results to be messed up
+- Can even alter the current is it's significant enough
+- Known as the "loading effect"
+- Have to select the correct range to minimise errors due to internal resistance

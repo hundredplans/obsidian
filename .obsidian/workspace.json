@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9cce65015c9e4293",
+        "id": "cd837bacc732bfa9",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9c9f56604740ba",
+            "id": "70624083fc361e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/RDB/SQL-Create.md",
+                "file": "writing/fof/Volin/Varoma/Gloryblades.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d9d4d07fa819479",
+            "id": "9ef477fa4b680e81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/RDB/SQL-Insert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d1ae87df74eb9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/RDB/SQL-Alter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0365923ea4cbd132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/RDB/SQL-Data-Types.md",
+                "file": "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +62,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/RDB/SQL-Alter.md",
+                "file": "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/RDB/SQL-Alter.md",
+                "file": "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/RDB/SQL-Alter.md"
+                "file": "writing/fof/Volin/Zengef/Other/Lafefs Coup.md"
               }
             }
           }
@@ -185,22 +161,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "37d1ae87df74eb9c",
+  "active": "9ef477fa4b680e81",
   "lastOpenFiles": [
-    "school/RDB/SQL-Create.md",
-    "school/RDB/SQL-Insert.md",
-    "school/RDB/SQL-Alter.md",
-    "school/RDB/SQL-Data-Types.md",
-    "school/RDB/SQL Basic.md",
-    "school/RDB/attachments/select-add.png",
-    "school/RDB/attachments",
-    "school/RDB/New folder",
-    "school/WPRG/css/Selector.md",
-    "school/comp-sci-concepts/Memory Address.md",
-    "school/POG/c++/References.md",
-    "school/WPRG/css/Referencing CSS.md",
-    "school/WPRG/css/In-Built Classes.md",
-    "school/WPRG/css/Default Styles.md",
-    "school/POG/c++/Pointers.md"
+    "writing/fof/The West/Bauland/Ideas.md",
+    "writing/fof/The West/Nolaka/Ideas.md",
+    "writing/fof/Volin/Zengef/Ideas.md",
+    "writing/fof/Volin/Varoma/Ideas.md",
+    "writing/fof/The East/Ruu Bo/Ideas.md",
+    "writing/fof/The East/Pustan/Ideas.md",
+    "writing/fof/The West/Nolaka",
+    "writing/fof/The West/Bauland",
+    "writing/fof/The West",
+    "writing/fof/The East/Pustan",
+    "writing/fof/General",
+    "writing/fof/The East",
+    "writing/fof/Volin",
+    "writing/fof/Volin/Shreev/Ideas.md",
+    "writing/fof/PoF-core/Pepper Rant.md",
+    "writing/fof/The East/Ruu Bo",
+    "writing/fof/PoF-core",
+    "writing/fof/Volin/Shreev/The Fall of Milshreev.md",
+    "writing/fof/Volin/Zengef/Standard/History.md",
+    "writing/fof/Volin/Zengef/Other/Famous Villains.md",
+    "writing/fof/Volin/Zengef/Other/Egref Lecti.md",
+    "writing/fof/Volin/Zengef/Other/Catherine Tenos.md",
+    "writing/fof/Volin/Zengef/Standard/Creatures.md",
+    "writing/fof/Volin/Varoma/Gloryblades.md",
+    "writing/fof/Volin/Shreev",
+    "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
+    "computers/aws/VPC.md",
+    "computers/aws/UDP.md",
+    "computers/aws/TCP.md",
+    "computers/aws/subnet.md",
+    "computers/aws/questions.md",
+    "computers/aws/RDS.md",
+    "computers/aws/NAT.md",
+    "computers/aws/IP.md",
+    "computers/aws/IGW.md",
+    "computers/aws/gateways.md",
+    "school/RDB/attachments/LGzNx2S.png",
+    "school/FIZ/Dosw02/PDF/Pasted image 20240519171525.png",
+    "uglo2Bw.png",
+    "school/FIZ/Dosw02/schematic_cheat_sheet.png",
+    "computers/godot/img.png",
+    "computers/regex/Pasted image 20230607181002.png",
+    "school/FIZ/Phys_LAB01/Files & Images/Ignore/DynamikaRuchuObrotowego.png",
+    "school/FIZ/Phys_LAB01/Files & Images/Ignore/Pasted image 20240425123944.png",
+    "school/FIZ/Dosw01/General/Attachments/steiners_theorem.png",
+    "school/FIZ/Dosw01/General/Attachments/period_of_a_pendulum.png"
   ]
 }

@@ -1,0 +1,1 @@
+- Flows from places of high electric potential to low electric potential, like water upstream / downstream

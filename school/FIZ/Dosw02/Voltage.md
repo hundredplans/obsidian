@@ -1,0 +1,6 @@
+- Pressure that pushes electricity
+- Higher voltage = more electricity flowing into a device
+- Measured in volts (V)
+- Always measured with two points
+- Symbol is U
+- Energy Difference (Gain/Loss) per Coulomb between two points

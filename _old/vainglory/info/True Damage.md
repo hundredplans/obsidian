@@ -1,1 +1,1 @@
-Ignores all [[Armor]] & [[Resistance]]
+Ignores all [[Armor]] & [[Magic Resistance]]

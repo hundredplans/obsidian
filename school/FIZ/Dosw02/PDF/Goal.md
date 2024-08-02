@@ -1,0 +1,1 @@
+The goal of this project is to determine the current-goal characteristics and relationship between resistance and current

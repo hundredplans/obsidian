@@ -1,0 +1,1 @@
+You can't fix a problem unless you understand it

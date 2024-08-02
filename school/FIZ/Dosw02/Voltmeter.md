@@ -1,0 +1,3 @@
+- Don't disconnect circuit
+- Stays outside of circuit
+- Connect to two points in parallel of whatever you're measuring the [[Voltage]] of

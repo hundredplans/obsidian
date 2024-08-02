@@ -1,0 +1,12 @@
+- Prawo Ohma✔
+- Prawa Kirchoffa ✔
+- Prawo Joule'a ✔
+- Opor elektryczny ✔
+- Zaleznosc oporu od temperatury (Joule's Law) ✔
+- Zasada dzialania amperomierza ✔
+- Zasada dzialania woltomierza pradu stalego ✔
+- Wplyw oporu wewnetrznego miernikow na wynik pomiaru ✔
+- Napiecie znamionowe zarowki ✔
+
+- How to read the electric graphs ✔
+- Check if you understand the page ✔

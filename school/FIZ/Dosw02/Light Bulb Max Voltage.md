@@ -1,0 +1,1 @@
+- Pretty simple, the max [[Voltage]] you can continually apply to a light bulb without damaging it

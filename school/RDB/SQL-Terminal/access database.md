@@ -1,0 +1,4 @@
+```sql
+SHOW DATABASES;
+USE s32007
+```
