@@ -1,1 +1,1 @@
-The Greatfather which has lived ever since the First Man, he's just an old guy
+The Greatfather which has lived ever since the First Man is the First Disciple of Life, he's just an old guy. Big tree in the middle which has Aura over the whole island, and if he detects a threat he can block it out.

@@ -4,28 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "cd837bacc732bfa9",
+        "id": "fdff6e2aada882e2",
         "type": "tabs",
         "children": [
           {
-            "id": "70624083fc361e8b",
+            "id": "e1ced261a5da89d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/fof/Volin/Varoma/Gloryblades.md",
+                "file": "computers/vim/normal/vim-editing-commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9ef477fa4b680e81",
+            "id": "ac8181c0eb0f21b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
+                "file": "computers/vim/normal/vim-deleting-commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6633aa67de00da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computers/vim/normal/movement-commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30ffc8297f668dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computers/vim/insert/insert-mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gcc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
+                "file": "computers/vim/normal/vim-deleting-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
+                "file": "computers/vim/normal/vim-deleting-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/fof/Volin/Zengef/Other/Lafefs Coup.md"
+                "file": "computers/vim/normal/vim-deleting-commands.md"
               }
             }
           }
@@ -161,44 +186,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9ef477fa4b680e81",
+  "active": "0d016d3801ccac3d",
   "lastOpenFiles": [
-    "writing/fof/The West/Bauland/Ideas.md",
-    "writing/fof/The West/Nolaka/Ideas.md",
-    "writing/fof/Volin/Zengef/Ideas.md",
-    "writing/fof/Volin/Varoma/Ideas.md",
-    "writing/fof/The East/Ruu Bo/Ideas.md",
-    "writing/fof/The East/Pustan/Ideas.md",
+    "computers/vim/normal/movement-commands.md",
+    "computers/vim/normal/vim-deleting-commands.md",
+    "computers/vim/normal/vim-editing-commands.md",
+    "computers/vim/normal/normal-mode.md",
+    "computers/vim/vim-modes.md",
+    "computers/vim/insert/insert-mode.md",
+    "computers/vim/vim-index.md",
+    "computers/vim/Help Commands with CtrlP in Vim.md",
+    "computers/vim/fzf.md",
+    "computers/vim/Changing Search Criteria with CtrlP in Vim.md",
+    "computers/bash/sed/sed-syntax.md",
+    "computers/remote-machines/other-remote-commands.md",
+    "computers/remote-machines/nmap.md",
+    "computers/remote-machines/GRUB.md",
+    "computers/remote-machines/creating-web-server.md",
+    "computers/regex/extended-regex.md",
+    "computers/godot/godot index.md",
+    "computers/godot/Glow Map.md",
+    "computers/godot/Glow.md",
+    "computers/godot/BDOF.md",
+    "computers/godot/Environments.md",
+    "computers/godot/DRY.md",
+    "computers/godot/Dependency Injection.md",
+    "computers/godot/CameraAttributes.md",
+    "computers/godot/Callable.md",
+    "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
+    "computers/rstudio/env",
+    "computers/rstudio/lua",
+    "computers/rstudio",
+    "writing/fof/Volin/Stoneland",
     "writing/fof/The West/Nolaka",
     "writing/fof/The West/Bauland",
     "writing/fof/The West",
     "writing/fof/The East/Pustan",
     "writing/fof/General",
     "writing/fof/The East",
-    "writing/fof/Volin",
-    "writing/fof/Volin/Shreev/Ideas.md",
-    "writing/fof/PoF-core/Pepper Rant.md",
-    "writing/fof/The East/Ruu Bo",
-    "writing/fof/PoF-core",
-    "writing/fof/Volin/Shreev/The Fall of Milshreev.md",
-    "writing/fof/Volin/Zengef/Standard/History.md",
-    "writing/fof/Volin/Zengef/Other/Famous Villains.md",
-    "writing/fof/Volin/Zengef/Other/Egref Lecti.md",
-    "writing/fof/Volin/Zengef/Other/Catherine Tenos.md",
-    "writing/fof/Volin/Zengef/Standard/Creatures.md",
-    "writing/fof/Volin/Varoma/Gloryblades.md",
-    "writing/fof/Volin/Shreev",
-    "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
-    "computers/aws/VPC.md",
-    "computers/aws/UDP.md",
-    "computers/aws/TCP.md",
-    "computers/aws/subnet.md",
-    "computers/aws/questions.md",
-    "computers/aws/RDS.md",
-    "computers/aws/NAT.md",
-    "computers/aws/IP.md",
-    "computers/aws/IGW.md",
-    "computers/aws/gateways.md",
     "school/RDB/attachments/LGzNx2S.png",
     "school/FIZ/Dosw02/PDF/Pasted image 20240519171525.png",
     "uglo2Bw.png",
