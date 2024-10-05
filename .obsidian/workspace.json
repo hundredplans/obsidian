@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fdff6e2aada882e2",
+        "id": "d79dc98234dc2ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ced261a5da89d5",
+            "id": "cfda281720b00264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/vim/normal/vim-editing-commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac8181c0eb0f21b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computers/vim/normal/vim-deleting-commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6633aa67de00da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computers/vim/normal/movement-commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30ffc8297f668dbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computers/vim/insert/insert-mode.md",
+                "file": "school/Semester 3/HKJ/HKJ-General.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gcc",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computers/vim/normal/vim-deleting-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computers/vim/normal/vim-deleting-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computers/vim/normal/vim-deleting-commands.md"
+                "file": "school/Semester 3/HKJ/History of Japan (1).md"
               }
             }
           }
@@ -186,53 +146,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0d016d3801ccac3d",
+  "active": "3b1458be3c71b780",
   "lastOpenFiles": [
-    "computers/vim/normal/movement-commands.md",
-    "computers/vim/normal/vim-deleting-commands.md",
-    "computers/vim/normal/vim-editing-commands.md",
-    "computers/vim/normal/normal-mode.md",
-    "computers/vim/vim-modes.md",
-    "computers/vim/insert/insert-mode.md",
-    "computers/vim/vim-index.md",
-    "computers/vim/Help Commands with CtrlP in Vim.md",
-    "computers/vim/fzf.md",
-    "computers/vim/Changing Search Criteria with CtrlP in Vim.md",
-    "computers/bash/sed/sed-syntax.md",
-    "computers/remote-machines/other-remote-commands.md",
-    "computers/remote-machines/nmap.md",
-    "computers/remote-machines/GRUB.md",
-    "computers/remote-machines/creating-web-server.md",
-    "computers/regex/extended-regex.md",
-    "computers/godot/godot index.md",
-    "computers/godot/Glow Map.md",
-    "computers/godot/Glow.md",
-    "computers/godot/BDOF.md",
-    "computers/godot/Environments.md",
-    "computers/godot/DRY.md",
-    "computers/godot/Dependency Injection.md",
-    "computers/godot/CameraAttributes.md",
-    "computers/godot/Callable.md",
-    "writing/fof/Volin/Zengef/Other/Lafefs Coup.md",
-    "computers/rstudio/env",
-    "computers/rstudio/lua",
-    "computers/rstudio",
-    "writing/fof/Volin/Stoneland",
-    "writing/fof/The West/Nolaka",
-    "writing/fof/The West/Bauland",
-    "writing/fof/The West",
-    "writing/fof/The East/Pustan",
-    "writing/fof/General",
-    "writing/fof/The East",
-    "school/RDB/attachments/LGzNx2S.png",
-    "school/FIZ/Dosw02/PDF/Pasted image 20240519171525.png",
+    "school/Semester 3/HKJ/HKJ-General.md",
+    "school/Semester 3/HKJ/History of Japan (1).md",
+    "school/Semester 3/PRIN/PRIN-General.md",
+    "school/Semester 3/HKJ",
+    "school/Semester 3/PRIN/PRIN-Index.md",
+    "school/Semester 3/NAI/WYK1.md",
+    "school/Semester 3/PRIN",
+    "school/Semester 3/SBD/SBD-General.md",
+    "writing/fof/Volin/Varoma/Gloryblades.md",
+    "writing/fof/The East/Pustan/Sand Elves.md",
+    "writing/fof/The East/Pustan/Ideas.md",
+    "computers/aws/EKS.md",
+    "computers/aws/RDS.md",
+    "computers/aws/VPC.md",
+    "computers/aws/TCP.md",
+    "computers/aws/NAT.md",
+    "computers/aws/EC2.md",
+    "computers/aws/Cloudwatch.md",
+    "computers/aws/aws-index.md",
+    "computers/aws/EBS.md",
+    "computers/aws/ECS.md",
+    "computers/aws/S3.md",
+    "computers/aws/AMI.md",
+    "computers/aws/aws-hierachy.md",
+    "computers/aws/autoscaling.md",
+    "school/Semester 3/JAZ/JAZ-General.md",
+    "2024-10-01.md",
     "uglo2Bw.png",
-    "school/FIZ/Dosw02/schematic_cheat_sheet.png",
+    "school/Year 1/ALG/05 - Przestrzen/Przestrzen R3.md",
+    "school/Year 1",
+    "school/Semester 3",
+    "school/SBD/Untitled",
+    "school/Semester 3/SBD",
+    "school/Semester 3/NAI",
+    "school/Semester 3/JAZ",
+    "school/Year 1/ASD/attachments/algorithm_venn.png",
+    "school/ASD/attachments/algorithm_venn.png.0.pdnSave",
+    "school/Year 1/ASD/attachments",
+    "school/Year 1/RDB/attachments/LGzNx2S.png",
+    "school/Year 1/FIZ/Dosw02/PDF/Pasted image 20240519171525.png",
+    "school/Year 1/FIZ/Dosw02/schematic_cheat_sheet.png",
     "computers/godot/img.png",
     "computers/regex/Pasted image 20230607181002.png",
-    "school/FIZ/Phys_LAB01/Files & Images/Ignore/DynamikaRuchuObrotowego.png",
-    "school/FIZ/Phys_LAB01/Files & Images/Ignore/Pasted image 20240425123944.png",
-    "school/FIZ/Dosw01/General/Attachments/steiners_theorem.png",
-    "school/FIZ/Dosw01/General/Attachments/period_of_a_pendulum.png"
+    "school/Year 1/FIZ/Phys_LAB01/Files & Images/Ignore/DynamikaRuchuObrotowego.png",
+    "school/Year 1/FIZ/Phys_LAB01/Files & Images/Ignore/Pasted image 20240425123944.png",
+    "school/Year 1/FIZ/Dosw01/General/Attachments/steiners_theorem.png"
   ]
 }

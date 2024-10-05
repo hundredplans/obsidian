@@ -1,4 +1,4 @@
-ij# IPv4
+# IPv4
 - Stored as 4 seperate 8 bit characters e.g. 255.255.255.255 is 11111111 11111111 11111111 11111111
 - The first 2 sections specify which network the IP address belong to
 - The last 2 sections specify which Class the network belongs to

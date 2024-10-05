@@ -1,5 +1,5 @@
 # Meta
-[[school/FIZ/Dosw02/_Resources|_Resources]]
+[[school/Year 1/FIZ/Dosw02/_Resources|_Resources]]
 [[Translation]]
 [[to]]
 # General

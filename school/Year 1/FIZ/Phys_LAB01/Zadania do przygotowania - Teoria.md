@@ -92,6 +92,6 @@ $g$ - przyspieszenie grawitacyjne
 Okres drgań wahadła fizycznego: [[Zadania do przygotowania - Teoria#Okres drgań|Click]]
 
 ------------------------
-**[[Resources]]**
+**[[school/Year 1/FIZ/Phys_LAB01/Resources]]**
 
 [[Wahadło Rewersyjne - MAIN PDF.pdf|Main source of these notes]]

@@ -9,4 +9,4 @@ Incl:
 
 
 ------------------------
-**[[Resources]]**
+**[[school/Year 1/FIZ/Phys_LAB01/Resources]]**
