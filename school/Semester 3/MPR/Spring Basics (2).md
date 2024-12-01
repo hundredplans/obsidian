@@ -1,0 +1,1 @@
+http://localhost:8080/dogs/all (dogs/all is the mapping)

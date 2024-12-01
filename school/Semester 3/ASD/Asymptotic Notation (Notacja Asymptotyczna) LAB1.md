@@ -27,7 +27,7 @@ log(n) = O(n)
 
 # Big Omega
 Rosnie szybciej lub rowno g(n)
-O(g(n)) = {f(n): ∃c > 0 ∃ n<sub>0</sub> ∈ N ∀<sub>n>=n<sub>0</sub></sub>  0 <= c • g(n) <= f(n)}
+Ω(g(n)) = {f(n): ∃c > 0 ∃ n<sub>0</sub> ∈ N ∀<sub>n>=n<sub>0</sub></sub>  0 <= c • g(n) <= f(n)}
 
 5n<sup>2</sup> + 2 = Ω(n)
 2n + 3 = Ω(1)

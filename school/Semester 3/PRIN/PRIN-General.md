@@ -1,4 +1,5 @@
-Projekt na koncu warty wiekszosc oceny
+Projekt na koncu warty wiekszosc oceny for exam
+Send labs via email
 
 [[Innovation and Managerial Creativity (1)]]
 [[Essence and Motives of Entrepreuneurship (2)]]

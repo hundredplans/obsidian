@@ -6,4 +6,4 @@ nenca@pjwstk.edu.pl
 
 Kartowka (2 tydzien)
 
-Wporwadzenie do Algorymow (Ksiazka)
+Wprowadzenie do Algorymow (Ksiazka)
